@@ -1,0 +1,1541 @@
+005-tagged, l. 2323 (146b.3): punctuation: invalid end of line
+005-tagged, l. 4444 (279a.4): punctuation: invalid shad sequence
+  -> [279a.4]ཀྱིས་བརྩམས་སོ། །དེ་སྤོབས་པ་མེད་པར་གྱུར་ནས་ཅང་མི་སྨྲ་བར་འདུག་**གོ།། །།**འདུལ་བ་རྣམ་པར་འབྱེད་པ། བམ་པོ་ཉི་ཤུ་གཅིག་པ། སྐྱེས་པའམ་བུད་མེད་འདོད་པ་དག་བསྟེན་པས་ནི་སྡིག་པའི་ལས་མི་བྱ་བ་ཅི་ཡང་མེད་པས་དེས་བུ་ལ་སྨྲས་པ། བུ་ཁྱོད་
+006-tagged, l. 1042 (66b.2): punctuation: invalid shad sequence
+  -> [66b.2]གི་ཁྱིམ་སྤངས་ཏེ་གཞན་ན་འདུག་ཚུར་ཤོག །འདི་ཁྱོད་རང་གི་ཁྱིམ་ཡིན་གྱིས་ཅི་བདེར་འདུག་ཤིག །དེ་ནས་འཆར་ཀ་འདི་སྙམ་དུ་སེམས་ཏེ། དོན་གྱིས་ན་འདིས་བདག་ལ་རྗེས་སུ་གནང་ངོ་སྙམ་དུ་རིག་ནས་དེ་ཉིད་ན་འདུག་**གོ།། །།**འདུལ་བ་རྣམ་པར་
+006-tagged, l. 4567 (286b.7): punctuation: invalid end of line
+007-tagged, l. 1251 (79b.3): punctuation: invalid shad sequence
+  -> [79b.3]པའི་མྱ་ངན་ལས་འདས་པ་ལ་བཞག་**གོ།། །།**འདུལ་བ་རྣམ་པར་འབྱེད་པ། བམ་པོ་བཞི་བཅུ་རྩ་བརྒྱད་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་དགེ་སློང་རྣམས་ཀྱིས་ཞུས་པ། བཙུན་པ་ཚེ་དང་ལྡན་པ་ལམ་པས་ལས་ཅི་ཞིག་བགྱིས་ན་ལས་དེའི་རྣམ་པར་སྨིན་པས་བུལ་བ། 
+008-tagged, l. 890 (57a.2): punctuation: invalid shad sequence
+  -> [57a.2]སོ། །དེ་ན་ཚེ་དང་ལྡན་པ་འཆར་ཀས་མཉན་ཡོད་དུ་བྲམ་ཟེའི་ཁྱིམ་དགུ་པ་གཉི་ག་ནས་བཏུལ་ཅིང་བཞག་**གོ།། །།**འདུལ་བ་རྣམ་པར་འབྱེད་པ། བམ་པོ་དྲུག་བཅུ་རྩ་བདུན་པ། ཚེ་དང་ལྡན་པ་འཆར་ཀས་བསམས་པ། གང་གདུལ་བའི་དུས་ཡིན་སྙམ་ན། མཉན་ཡོད་
+010-tagged, l. 3454 (217a.6): punctuation: invalid shad sequence
+  -> [217a.6]སོ། །ཁྲིའུ་ཆུང་ལ་ནི་གཅིག་**གོ།། །།**སྡོམ་ནི། ནད་པ་ཡི་ནི་ནད་གཡོག་དང་། །ཤིང་ལ་འཛེག་པར་མི་བྱ་དང་། །བཀྲབས་པ་བསྙེན་རྫོགས་མི་བྱ་དང་། །ལག་པ་གཅད་པར་མི་བྱའོ། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་
+010-tagged, l. 4167 (261b.7): punctuation: invalid shad sequence
+  -> [261b.7]སློང་གང་ཡང་གང་དུ་ཡང་མ་འགྲོ་ཤིག་ཅེས་བསྒོ་ནས། དེ་དག་གིས་བགོ་བར་བརྩམས་པ་དང་། དགའ་བོ་དང་ཉེ་དགའ་དེ་བཞིན་དུ་གབ་སྟེ་འདུག་**གོ།། །།**འདུལ་བ་ཕྲན་ཚེགས་ཀྱི་གཞི། བམ་པོ་ཉི་ཤུ་གསུམ་པ། གང་གི་ཚེ་དགེ་འདུན་གྱིས་རྙེད་པ་དེ་བགོས་
+010-tagged, l. 4570 (287a.2): punctuation: invalid end of line
+010-tagged, l. 4820 (302b.4): punctuation: invalid shad sequence
+  -> [302b.4]པར་རྫོགས་པར་བྱས་ནས་གཅིག་ལས་འཕྲོས་པའི་ལུང་ཀློག་ཏུ་བཅུག་གོ། །རྒྱལ་པོ་གཏུམ་པོ་རབ་སྣང་དེ་མེད་པ་དང་མི་དགའ་བར་གྱུར་ནས་དེ་རབ་ཏུ་བྱུང་བ་ལས་ཕབ་སྟེ་སྔོན་གྱི་གནས་ཇི་ལྟ་བ་བཞིན་བཞག་**གོ།། །།**སྡོམ་ནི། བ་ལང་སྐྱོང་དང་རྔོན་པ་
+011-tagged, l. 1775 (112a.7): punctuation: invalid shad sequence
+  -> [112a.7]རིམས་དང་། རིམས་ལྡང་དུབ་པ་དང་། རྟག་པའི་རིམས་དང་། ཁྱོད་ཀྱི་ལུས་ལ་འདི་ལྟ་བུའི་ལུས་ཀྱི་ནད་དང་། ལུས་ལ་གནོད་པར་འགྱུར་བ་དང་། དེ་ལས་གཞན་ཀྱང་མེད་དམ་དེ་ལས་ཁྱོད་ཀྱིས་ཡང་དག་པ་ཇི་བཞིན་པར་སྨྲོས་ཤི**ག།། །།**འདུལ་བ་ཕྲན་ཚེགས་ཀྱི་གཞི། བམ་
+011-tagged, l. 2738 (172b.2): punctuation: invalid shad sequence
+  -> [172b.2]བཀུར་སྟི་བྲི། །བསྒོ་བ་དང་ནི་ལྕགས་ཀྱི་སྣོད། །བུད་མེད་གཉིས་ཀྱིས་བལྟ་བ་དང་། །དེ་བཞིན་ནག་པོ་ཨུ་དི་**ཀ།། །།**མདོར་ན། བསྟི་སྟང་མེད་དང་ཀུན་མ་ཡིན། །ལུས་བསྟན་པ་ནི་མ་གཏོགས་སོ། །བཀྱིགས་པ་ལས་ཀྱང་མི་སྦྱིན་པ། །གསོ་སྦྱོང་དང་ནི་ཚུལ་ནས་བྱུང་། །སངས་
+012-tagged, l. 431 (28a.7): punctuation: invalid shad sequence
+  -> [28a.7]ཉིད་ཚོལ་དུ་གཞུག་གོ། །འོན་ཏེ་འདི་སྐད་ཅེས་དུས་མ་ཡིན་པར་བུ་རམ་གྱི་ཆང་མ་འཐུངས་མོད་ཀྱི། འོན་ཀྱང་འདིས་ཧྭགས་ཀྱི་ཆུ་འཐུངས་སོ་ཞེས་ཟེར་ན་དགེ་སློང་ལ་རྨེད་དུ་གཞུག་**གོ།། །།**འདུལ་བ་གཞུང་བླ་མ། བམ་པོ་བཞི་པ། བཙུན་པ་དགེ་བསྙེན་མ་ཡིད་ཆེས་པའི་
+012-tagged, l. 3899 (245a.3): punctuation: invalid shad sequence
+  -> [245a.3]པ་ལས་གྲོང་གུད་དུ་འཕོས་ན་བཙུན་པ་ཅིའི་ཕྱིར་ཕྱོགས་དེར་ཡང་ཆོས་གོས་དང་མི་འབྲལ་བར་སྡོམ་པར་བསྐོ་བར་བགྱིའམ། ཨུ་པཱ་ལི་མི་དགོས་ཏེ། སྔོན་གྱི་སྡོམ་པ་གསོས་པས་ཆོག་**གོ།། །།**མདོར་ན། དྲན་པ་བཞི་པ་གསུམ་པ་དང་། །ལྔ་པ་དང་ནི་གཉིས་མཚན་
+014-tagged, l. 71 (5b.7): punctuation: invalid shad sequence
+  -> [5b.7]གཤེགས་པའི་སྐུ་མང་པོ་བཞུགས་ཤིང་། འདི་ལྟ་སྟེ། ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་དང་ལྡན་པའི་ཆོས་བསྟན་པ་འདི་ཉིད་སྟོན་པར་མཛད་དེ། དེ་དག་ཤར་ཕྱོགས་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དུ་གཤེགས་ཤིང་། དེ་དག་ཏུ་བྱོན་ནས། འདི་ལྟ་ས**ྟེ་།** 
+014-tagged, l. 146 (10b.2): punctuation: invalid shad sequence
+  -> [10b.2]ལྷན་ནེ། ལྷང་ངེར་བཞུགས་སོ། །དེ་བཞིན་དུ་ལྷོ་ཕྱོགས་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཟིལ་གྱིས་མནན་ཏེ། འོད་དང་སྐུ་མདོག་དང་གཟི་བརྗིད་དང་། དཔལ་གྱིས་མཛེས་ཤིང་ལྷམ་**མེ་།** ལྷན་ནེ་ལྷང་ངེར་བཞུགས་སོ། །དེ་བཞིན་དུ་ནུབ་ཕྱོགས་ཀྱི་འཇིག་རྟེན་
+014-tagged, l. 2073 (131a.1): punctuation: invalid shad sequence
+  -> [131a.1]སྟོང་ཞེས་བྱ་བ་འམ་མི་སྟོང་ཞེས་བྱ་བར་མི་སྦྱོར་**རོ་།** །རྣམ་པར་ཤེས་པ་སྟོང་ཞེས་བྱ་བ་འམ་མི་སྟོང་ཞེས་བྱ་བར་མྱི་སྦྱོར་རོ། །མྱིང་དང་གཟུགས་སྟོང་ཞེས་བྱ་བ་འམ་མྱི་སྟོང་ཞེས་བྱ་བར་མྱི་སྦྱོར་རོ། །སྐྱེ་མཆེད་དྲུག་སྟོང་ཞེས་
+014-tagged, l. 2717 (171a.5): punctuation: invalid shad sequence
+  -> [171a.5]ལས་ཁ་ན་མ་ཐོ་བ་མྱེད་པའོ། །ངག་གི་ལས་ཁ་ན་མ་ཐོ་བ་མྱེད་པའོ། །ཡིད་ཀྱི་ལས་ཁ་ན་མ་ཐོ་བ་མྱེད་པའོ། །གསོལ་པ། བཅོམ་ལྡན་འདས་ཇི་ལྟར་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་**པོ་།** ལུས་ཀྱི་གནས་
+014-tagged, l. 5107 (320b.3): punctuation: invalid shad sequence
+  -> [320b.3]པ་དང་། འདུ་ཤེས་སྡུག་བསྔལ་བ**འོ་།** །ཞེས་བྱ་བར་མངོན་པར་ཆགས་ཤིང་གནས་ཏེ་འདུ་ཤེས་པ་དང་། འདུ་བྱེད་སྡུག་བསྔལ་བའོ་། །ཞེས་བྱ་བར་མངོན་པར་ཆགས་ཤིང་གནས་ཏེ་འདུ་ཤེས་པ་དང་། རྣམ་པར་ཤེས་པ་སྡུག་བསྔལ་བའོ། །ཞེས་བྱ་བར་མངོན་
+014-tagged, l. 5107 (320b.3): punctuation: invalid shad sequence
+  -> [320b.3]པ་དང་། འདུ་ཤེས་སྡུག་བསྔལ་བའོ་། །ཞེས་བྱ་བར་མངོན་པར་ཆགས་ཤིང་གནས་ཏེ་འདུ་ཤེས་པ་དང་། འདུ་བྱེད་སྡུག་བསྔལ་བ**འོ་།** །ཞེས་བྱ་བར་མངོན་པར་ཆགས་ཤིང་གནས་ཏེ་འདུ་ཤེས་པ་དང་། རྣམ་པར་ཤེས་པ་སྡུག་བསྔལ་བའོ། །ཞེས་བྱ་བར་མངོན་
+015-tagged, l. 133 (9b.5): punctuation: invalid shad sequence
+  -> [9b.5]ཕ་རོལ་ཏུ་ཕྱིན་པ་ཡོངས་སུ་རྫོགས་པར་མ་གྱུར་པར། རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་འབྱུང་བར་མྱི་འགྱུར་རོ། །བཅོམ་ལྡན་འདས་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པའི་**ཚེ་།** ཐབས་མྱི་མཁས་
+015-tagged, l. 2175 (137a.7): punctuation: invalid shad sequence
+  -> [137a.7]ན་བ་དང་། འཆི་བ་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མྱི་བདེ་བ་དང་། འཁྲུག་པ་ལས་ཡོངས་སུ་མྱི་འགྲོལ། སྡུག་བསྔལ་ཆེན་པོ་ལས་ཡོངས་སུ་མྱི་འགྲོལ་བར་བརྗོད་**དོ། །།**
+015-tagged, l. 3994 (251a.2): punctuation: invalid end of line
+016-tagged, l. 2057 (130a.1): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [130a.1]འདོད་པ་རྣམས་ལ་ནི་འཚོ་བ་བྱིན། ཡོ་བྱད་འདོད་པ་རྣམས་ལ་ནི་ཡོ་བྱད་བྱིན། ནད་ཀྱི་རྐྱེན་རྩི་དང་ཡོ་བྱད་འདོད་པ་རྣམས་ལ་ནི། ནད་ཀྱི་རྐྱེན་རྩི་དང་ཡོ་བྱད་བྱིན། ནོར་བུ་དང་། མུ་ཏིག་དང་། བཻཌཱུ**རྻ**་དང་། དུང་དང་། མན་ཤེལ་དང་། བྱི་རུ་
+017-tagged, l. 2840 (179a.1): punctuation: invalid end of line
+017-tagged, l. 2843 (179a.4): punctuation: invalid end of line
+017-tagged, l. 2851 (179b.4): punctuation: invalid end of line
+017-tagged, l. 2852 (179b.5): punctuation: invalid end of line
+017-tagged, l. 2857 (180a.2): punctuation: invalid end of line
+017-tagged, l. 2881 (181b.2): punctuation: invalid end of line
+017-tagged, l. 2885 (181b.6): punctuation: invalid end of line
+017-tagged, l. 2954 (186a.3): punctuation: invalid end of line
+017-tagged, l. 2962 (186b.3): punctuation: invalid end of line
+017-tagged, l. 2963 (186b.4): punctuation: invalid end of line
+017-tagged, l. 2971 (187a.4): punctuation: invalid end of line
+017-tagged, l. 2973 (187a.6): punctuation: invalid end of line
+017-tagged, l. 2984 (188a.1): punctuation: invalid end of line
+017-tagged, l. 2986 (188a.3): punctuation: invalid end of line
+017-tagged, l. 2994 (188b.3): punctuation: invalid end of line
+017-tagged, l. 3009 (189b.2): punctuation: invalid end of line
+017-tagged, l. 3048 (192a.1): punctuation: invalid end of line
+017-tagged, l. 3050 (192a.3): punctuation: invalid end of line
+017-tagged, l. 3059 (192b.4): punctuation: invalid end of line
+017-tagged, l. 3065 (193a.2): punctuation: invalid end of line
+017-tagged, l. 3081 (194a.2): punctuation: invalid end of line
+017-tagged, l. 3116 (196a.5): punctuation: invalid end of line
+017-tagged, l. 3117 (196a.6): punctuation: invalid end of line
+017-tagged, l. 3120 (196b.1): punctuation: invalid end of line
+017-tagged, l. 3139 (197b.4): punctuation: invalid end of line
+017-tagged, l. 3157 (198b.6): punctuation: invalid end of line
+017-tagged, l. 3172 (199b.5): punctuation: invalid end of line
+017-tagged, l. 3176 (200a.1): punctuation: invalid end of line
+017-tagged, l. 3179 (200a.4): punctuation: invalid end of line
+017-tagged, l. 3182 (200a.7): punctuation: invalid end of line
+017-tagged, l. 4313 (271a.2): punctuation: invalid shad sequence
+  -> [271a.2]རྫོགས་པར་འཚང་མྱི་རྒྱ་བར་རིག་པར་བྱ**འོ་།** །ཚེ་དང་ལྡན་པ་ཤ་ར་དྭ་ཏིའི་བུ། སྲིད་པ་མྱེད་པའི་ཕྱིར། ཡིད་ལ་བྱེད་པ་མྱེད་པར་རིག་པར་བྱའོ། །སྲིད་པ་དངོས་པོ་མྱེད་པའི་ཕྱིར། ཡིད་ལ་བྱེད་པ་དངོས་པོ་མྱེད་པར་རིག་པར་བྱའོ། །སྲིད་པ་རང་བཞིན་མྱེད་
+018-tagged, l. 1159 (73b.7): punctuation: invalid end of line
+018-tagged, l. 1993 (126a.1): punctuation: invalid end of line
+018-tagged, l. 3797 (238b.5): punctuation: invalid shad sequence
+  -> [238b.5]བསྐྱབ་པར་བྱའོ། །ཤེས་རབ་ཀྱི་ཕ་རོལད་ཏུ་ཕྱིནད་པ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་ལེའུ་བཅུ་དྲུག་**གོ།། །།**ཤེས་རབ་ཀྱི་ཕ་རོལད་ཏུ་ཕྱིནད་པ་སྟོང་ཕྲག་བརྒྱ་པ། བམ་པོ་བཅྭོ་བརྒྱད་པ། །དེ་ནས་
+018-tagged, l. 4391 (275b.7): punctuation: invalid end of line
+018-tagged, l. 4498 (282b.2): punctuation: invalid shad sequence
+  -> [282b.2]ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིནད་པ་སྟོང་ཕྲག་བརྒྱ་པ། བམ་པོ་ཉི་ཤུ་གཅིག་**པ། །།**ཀཽ་ཤི་ཀ་རིགས་ཀྱི་བུ་འམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས། དེ་བཞིན་གཤེགས་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས་མཆོད་པའི་ཕྱིར། རིན་
+019-tagged, l. 4199 (263b.7): punctuation: invalid end of line
+019-tagged, l. 4463 (280a.7): punctuation: invalid end of line
+019-tagged, l. 4535 (284b.7): punctuation: invalid end of line
+021-tagged, l. 1924 (121b.4): punctuation: invalid shad sequence
+  -> [121b.4]ཡིན་ཐ་མྱི་དད་དོ། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ་ལས། ལེའུ་ཉི་ཤུ་དྲུག་**གོ།། །།**ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ། བམ་པོ་བཅུ་པ། །དེ་ནས་ཚེ་དང་ལྡན་པ་ཤ་ར་དྭ་ཏིའི་བུས། བཅོམ་ལྡན་
+021-tagged, l. 4894 (307a.6): punctuation: invalid shad sequence
+  -> [307a.6]**རོ། །།**ཤེས་རབ་ཀྱི་ཕ་རོལད་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ། བམ་པོ་ཉེར་གཅིག་པ། །ནང་སྟོང་པ་ཉིད་རྟག་ཅེས་བྱ་བ་འམ་མྱི་རྟག་ཅེས་བྱ་བར་ཆོས་སྟོན་པར་མྱི་འགྱུར་རོ། །ནང་སྟོང་པ་ཉིད་བདེ་ཞེས་བྱ་བ་
+022-tagged, l. 645 (41b.5): punctuation: invalid end of line
+022-tagged, l. 676 (43b.4): punctuation: invalid end of line
+022-tagged, l. 682 (44a.2): punctuation: invalid end of line
+022-tagged, l. 707 (45b.3): punctuation: invalid end of line
+022-tagged, l. 739 (47b.3): punctuation: invalid end of line
+022-tagged, l. 6076 (381a.4): punctuation: invalid end of line
+023-tagged, l. 625 (40b.1): punctuation: invalid end of line
+023-tagged, l. 2886 (181b.6): punctuation: invalid shad sequence
+  -> [181b.6]དོ། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ་ལས། ལེའུ་བཞི་བཅུ་གཅིག་**གོ།། །།**ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ། བམ་པོ་བཅུ་གསུམ་པ། །དེ་ནས་ཚེ་དང་
+023-tagged, l. 6030 (378a.6): punctuation: invalid shad sequence
+  -> [378a.6]ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ་ལས། ལེའུ་ལྔ་བཅུ་གཅིག་**གོ།། །།**དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ཀྱིས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཇི་ལྟར་ན། 
+024-tagged, l. 3511 (220b.7): punctuation: invalid shad sequence
+  -> [220b.7]བྱའོ། །དགེ་བའི་རྩ་བ་རྣམས་བསྐྱེད་པར་བྱའོ། །དགེ་བའི་བཤེས་གཉེན་རྣམས་ལ་བསྟེན་པར་བྱ**འོ། །།**ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ་ལས། ལེའུ་ལྔ་བཅུ་ལྔའོ།། །།ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་
+024-tagged, l. 4682 (294a.2): punctuation: invalid shad sequence
+  -> [294a.2]མཁྱེན་པ་ཉིད་ཀྱང་ག་ལ་ཡོད། བག་ཆགས་ཀྱི་མཚམས་སྦྱོར་བའི་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་པ་ཡང་ག་ལ་ཡོད། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིནད་པ་སྟོང་ཕྲག་བརྒྱ་པ་ལས། ལེའུ་ལྔ་བཅུ་དགུ**འོ། །།**
+024-tagged, l. 5606 (351b.6): punctuation: invalid end of line
+024-tagged, l. 5670 (355b.6): punctuation: invalid end of line
+025-tagged, l. 166 (11b.6): punctuation: invalid end of line
+025-tagged, l. 566 (36b.6): punctuation: invalid shad sequence
+  -> [36b.6]སྟག་ལ་ཅི་ཞིག་ལྟ་བསྐྱེད་ཅེས་ལྟ་བའི་རྣམ་པ་དེ་དག་དང་བྲལ་བར་བྱེད་པ་མཐོང་སྟེ། རབ་འབྱོར་དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་སྙིང་རྗེ་ཆེན་པོ་ལ་གནས་ཤིང་སེམས་ཅན་རྣམས་ལ་ཆོས་སྟོན་ཏོ། །རབ་འབྱོར་དེ་ནི་ངོ་མཚར་ཆེ་ས**ྟེ་།** བྱང་
+025-tagged, l. 699 (45a.3): punctuation: invalid end of line
+025-tagged, l. 703 (45a.7): punctuation: invalid end of line
+025-tagged, l. 1786 (113a.2): punctuation: invalid shad sequence
+  -> [113a.2]སྟོང་པ་ཉིད་དོ། །རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ཉིད་ཀྱང་ཆོས་ཀྱི་དབྱིངས་སོ། །ཆོས་ཀྱི་དབྱིངས་ཉིད་ཀྱང་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་**དོ། །།**མྱི་དམྱིགས་པ་སྟོང་པ་ཉིད་ཉིད་ཀྱང་ཆོས་ཀྱི་དབྱིངས་མོ། །ཆོས་ཀྱི་དབྱིངས་ཉིད་ཀྱང་མྱི་དམྱིགས་པ་སྟོང་པ་ཉིད་དོ། །
+025-tagged, l. 2177 (137b.1): punctuation: invalid end of line
+025-tagged, l. 4874 (306a.2): punctuation: invalid end of line
+026-tagged, l. 1021 (65a.5): punctuation: invalid end of line
+026-tagged, l. 2333 (147a.5): punctuation: invalid shad sequence
+  -> [147a.5]རྣམ་པར་ཤེས་པའི་རང་བཞིན་ནི་ཇི་ལྟ་**བུ་།** སྐྱེ་མཆེད་དང་། ཁམས་དང་། རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་རང་བཞིན་ནི་ཇི་ལྟ་བུ། ཡང་དག་པའི་མཐའི་བར་གྱི་རང་བཞིན་ནི་ཇི་ལྟ་བུ། རབ་འབྱོར་གྱིས་སྨྲས་པ། ཚེ་དང་ལྡན་པ་ཤ་ར་དྭ་ཏིའི་བུ་གཟུགས་ཀྱི་རང་བཞིན་ནི་དངོས་པོ་མེད་པའོ། །
+026-tagged, l. 5686 (356b.6): punctuation: invalid end of line
+026-tagged, l. 5692 (357a.4): punctuation: invalid end of line
+026-tagged, l. 5705 (358a.1): punctuation: invalid end of line
+026-tagged, l. 5710 (358a.6): punctuation: invalid end of line
+026-tagged, l. 5723 (359a.3): punctuation: invalid end of line
+026-tagged, l. 5726 (359a.6): punctuation: invalid end of line
+026-tagged, l. 5729 (359b.1): punctuation: invalid end of line
+026-tagged, l. 5734 (359b.6): punctuation: invalid end of line
+027-tagged, l. 225 (15b.1): invalid: suspicious Tibetan character
+  -> [15b.1]**༈**། ཤེས་རབ་ཀྱི་ཕ་རོལ་དུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། བམ་པོ་ཉེར་བརྒྱད་པ། བྱང་ཆུབ་ཀྱི་ཕྱོགས་ཀྱི་ཆོས་སུམ་བཅུ་རྩ་བདུན་ལ་མི་གནས་སོ། །འཕགས་པའི་བདེན་པ་དང་། བསམ་གཏན་དང་ཚད་མེད་པ་དང་། གཟུགས་མེད་པའི་སྙོམས་པར་
+027-tagged, l. 573 (37a.5): punctuation: invalid shad sequence
+  -> [37a.5]ཏེ་རེག་པ་དང་། ཡིད་ཀྱི་འདུས་ཏེ་རེག་པ་ནི་མ་བྱུང་བ་སྟེ། གང་མ་བྱུང་བ་དེ་ནི་ཡིད་ཀྱི་འདུས་ཏེ་རེག་པ་མ་ཡིན་**ནོ་།** །ཀཽ་ཤི་ཀ་མིག་གི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་ནི་མ་བྱུང་བ་སྟེ། གང་མ་བྱུང་བ་དེ་ནི་མིག་གི་འདུས་ཏེ་རེག་པ་ལས་བྱུང་བའི་ཚོར་བ་མ་ཡིན་ནོ། །
+027-tagged, l. 1198 (76a.6): punctuation: invalid shad sequence
+  -> [76a.6]དཔའ་སེམས་དཔའ་ཆེན་པོ་ཐམས་ཅད་ཀྱི་རྟེན་ཡིན་ཏེ། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་གྱི་སྐྱེ་དགུའི་བར་གྱི་རྟེན་ཡིན་**ནོ། །།**ཤེས་རབ་ཀྱི་ཕ་རོལ་དུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། བམ་པོ་སུམ་ཅུ་གཉིས་པ། ཀཽ་ཤི་ཀ་རིགས་ཀྱི་བུ་
+027-tagged, l. 3044 (191b.4): punctuation: invalid shad sequence
+  -> [191b.4]བཅོམ་ལྡན་འདས་རྣམ་པར་དག་པས་གཟུགས་མ་འཚལ་ཏོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཤ་ར་དྭ་ཏིའི་བུ་ཤིན་དུ་རྣམ་པར་དག་པའི་ཕྱིར་**རོ། །།**གསོལ་པ་བཅོམ་ལྡན་འདས་ཇི་ལྟར་ན་རྣམ་པར་དག་པས་གཟུགས་མ་འཚལ་བ་ལགས། བཅོམ་ལྡན་འདས་
+028-tagged, l. 1041 (66b.1): punctuation: invalid end of line
+028-tagged, l. 1458 (92b.2): punctuation: invalid end of line
+028-tagged, l. 1471 (93a.7): punctuation: invalid end of line
+028-tagged, l. 1474 (93b.2): punctuation: invalid end of line
+028-tagged, l. 2190 (138a.6): punctuation: invalid end of line
+028-tagged, l. 3165 (199a.5): punctuation: invalid end of line
+028-tagged, l. 4646 (291b.6): punctuation: invalid end of line
+028-tagged, l. 4700 (295a.4): punctuation: invalid end of line
+028-tagged, l. 4708 (295b.4): punctuation: invalid end of line
+028-tagged, l. 4822 (302b.6): punctuation: invalid end of line
+028-tagged, l. 4825 (303a.1): punctuation: invalid end of line
+028-tagged, l. 6077 (381a.5): punctuation: invalid shad sequence
+  -> [381a.5]ཧེ་ཏུནྟེ་ཥཱན་ཏ་ཐཱ་ག་ཏོ་ཧྱ་ཝ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མཧཱ་ཤྲམ་ཎ**ཿ། །།** །། །།
+029-tagged, l. 3564 (224a.4): punctuation: invalid shad sequence
+  -> [224a.4]དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་ཁས་མི་ལེན་ཅིང་། མི་འཛིན་ལ་གནས་པར་མི་བགྱིད་དེ། མངོན་པར་ཞེན་པར་མི་བགྱིད་ཅིང་། འདི་ནི་རྣམ་པར་ཤེས་པའོ་ཞེས་འདོགས་པར་མི་བགྱིད་ལགས་སོ། །དེ་བཞིན་དུ་དེའི་**ཚེ་།** མིག་ཁས་
+030-tagged, l. 84 (6b.4): punctuation: invalid shad sequence
+  -> [6b.4]གྱ་ནོམ་སྣང་བ་དང་། མི་གདུང་བ་དང་། འོག་མིན་གྱི་ལྷའི་བུ་གང་ཡིན་པ་དེ་དག་ཀྱང་དེར་ལྷགས་ནས། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་གཟུང་བ་དང་། བཅང་བ་དང་། ཀླག་པ་དང་། ཀུན་ཆུབ་པར་བྱས་**ཏེ་།** ཕྱག་བྱས་ནས་ཕྱིར་འདོང་བར་
+030-tagged, l. 4106 (258a.2): punctuation: invalid shad sequence
+  -> [258a.2]རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་བརྒྱད་སྟོང་པ་ལས། རྣམ་པར་མི་རྟོག་པ་བསྟན་པའི་དཔེ་བརྗོད་པའི་ལེའུ་ཞེས་བྱ་སྟེ་ལྔ་བཅུ་རྩ་བརྒྱད་པ**འོ། །།**ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་བརྒྱད་སྟོང་པ། བམ་པོ་བཞི་བཅུ་རྩ་གཉིས་པ། དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་
+030-tagged, l. 4428 (278a.4): punctuation: invalid shad sequence
+  -> [278a.4]དཔའ་ཆེན་པོ་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཡོངས་སུ་འཛིན་པ་ཡིན་ནོ། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་བརྒྱད་སྟོང་པ་ལས་མི་ཟད་པའི་ལེའུ་ཞེས་བྱ་སྟེ་དྲུག་ཅུ་རྩ་གཅིག་པའོ**།།།**དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་
+030-tagged, l. 4847 (304a.7): punctuation: invalid shad sequence
+  -> [304a.7]བ་ད་ཏ། ཏེ་ཥཱ་ཉྩ་ཡོ་ནི་རོ་ངྷ་ཨེ་བྃ་བཱ་དཱི་མ་ཧཱ་ཤྲ་མ་ཎ**ཿ། །།**
+031-tagged, l. 874 (56a.2): punctuation: invalid end of line
+031-tagged, l. 1271 (80b.7): punctuation: invalid end of line
+031-tagged, l. 1287 (81b.7): punctuation: invalid end of line
+031-tagged, l. 1494 (94b.6): punctuation: invalid end of line
+031-tagged, l. 1540 (97b.4): punctuation: invalid end of line
+031-tagged, l. 1730 (109b.2): punctuation: invalid end of line
+031-tagged, l. 2386 (150b.2): punctuation: invalid end of line
+031-tagged, l. 2495 (157a.7): punctuation: invalid end of line
+031-tagged, l. 3163 (199a.3): punctuation: invalid end of line
+031-tagged, l. 3167 (199a.7): punctuation: invalid end of line
+031-tagged, l. 3219 (202b.3): punctuation: invalid end of line
+error on line 3281 leap in page numbers from 206 to 1
+031-tagged, l. 3449 (11b.7): punctuation: invalid shad sequence
+  -> [11b.7]སྟེ་དང་པོའོ**།།།**།ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་པ། བམ་པོ་གཉིས་པ། དེ་ནས་ཡང་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཤ་ར་དྭ་ཏིའི་བུ་ལ་བཀའ་སྩལ་པ། ཤ་ར་དྭ་ཏིའི་བུ་དེ་ལ་དེ་བཞིན་གཤེགས་པའི་སྟོབས་བཅུ་གང་ཞེ་ན། འདི་ལྟ་སྟེ། དེ་བཞིན་
+031-tagged, l. 3569 (19a.7): punctuation: invalid shad sequence
+  -> [19a.7]ཞེས་བྱ་སྟེ་གཉིས་པའོ**།།།**།དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཤ་ར་དྭ་ཏིའི་བུས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཙུན་པ་བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་མངོན་པར་ཞེན་པ་གང་ལགས། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཤ་ར་དྭ་ཏིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་
+031-tagged, l. 3607 (21b.5): punctuation: invalid end of line
+031-tagged, l. 3617 (22a.7): punctuation: invalid end of line
+031-tagged, l. 3636 (23b.2): punctuation: invalid end of line
+031-tagged, l. 3651 (24b.1): punctuation: invalid end of line
+031-tagged, l. 3798 (33b.4): punctuation: invalid shad sequence
+  -> [33b.4]ད་ལྟར་བྱུང་བ་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་བའི་ཕྱིར་རོ། །ཤ་ར་དྭ་ཏིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་ལྟར་བརྩོན་པ་ནི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བརྩོན་ཞེས་བྱའོ**།།།**།ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་པ། བམ་པོ་བཞི་པ། ཤ་ར་དྭ་ཏིའི་བུ་གཞན་ཡང་
+031-tagged, l. 4227 (60b.1): punctuation: invalid end of line
+031-tagged, l. 4529 (79a.7): punctuation: invalid shad sequence
+  -> [79a.7]ཆོས་རྣམས་དང་། ཕྱི་ནང་གི་ཆོས་རྣམས་ལ་ཆོས་ཀྱི་རྗེས་སུ་ལྟ་ཞིང་གནས་ལ། ཆོས་ལ་བརྟེན་པའི་རྣམ་པར་རིག་པ་ཡང་མི་སྐྱེད་པའོ**།།།**།ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་པ། བམ་པོ་བརྒྱད་པ། ཤ་ར་དྭ་ཏིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཇི་ལྟར་ན་ནང་གི་
+032-tagged, l. 4305 (270b.1): punctuation: invalid end of line
+032-tagged, l. 4879 (306a.7): punctuation: invalid end of line
+033-tagged, l. 1116 (71a.4): punctuation: invalid end of line
+033-tagged, l. 1727 (109a.7): punctuation: invalid shad sequence
+  -> [109a.7]བཅས་པ་དང་ཆགས་པ་མེད་པའོ་སྙམ་དུ་མི་སྤྱོད་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་དོ། །རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱི་བར་ལ་ཆགས་པ་དང་བཅས་པ་དང་ཆགས་པ་མེད་པའོ་སྙམ་དུ་མི་སྤྱོད་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་**དོ་།** །སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཆགས་པ་དང་
+034-tagged, l. 1641 (104a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+034-tagged, l. 1913 (121a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+034-tagged, l. 2105 (133a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+034-tagged, l. 2865 (180b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+034-tagged, l. 3252 (204b.4): punctuation: invalid shad sequence
+  -> [204b.4]དེ་ལ་དེས་བུ་དང་བུ་མོ་བྱིན་པ་དང་དེས་ལ་ཕུག་ཟ་བ་བཞིན་དུ་བུ་དང་བུ་མོ་ཟོས་ནས། གནོད་སྦྱིན་གྱིས་སྐྱེས་བུ་ཆེན་པོ་དེ་ལ་བལྟ་སྟེ། ཁ་གདངས་ནས་མེ་འབར་བ་བཞིན་དུ་ཁྲག་གི་རྒྱུན་འབབ་**བོ། །།**དེའི་ཁ་མཐོང་ནས་ཀྱང་སྐྲའི་རྩེ་མོ་ཙམ་གྱི་ཡིད་མི་བདེ་བ་ཡང་མ་སྐྱེས་པར་ངས་བྱིན་པ་ཤིན་ཏུ་
+034-tagged, l. 4313 (271a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+034-tagged, l. 4481 (281b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+035-tagged, l. 102 (7b.6): punctuation: invalid end of line
+035-tagged, l. 479 (31a.7): punctuation: invalid end of line
+035-tagged, l. 2460 (155a.4): punctuation: invalid end of line
+035-tagged, l. 2670 (168a.6): punctuation: invalid end of line
+035-tagged, l. 3107 (195b.3): punctuation: invalid end of line
+035-tagged, l. 3762 (236b.2): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [236b.2]ཏིག་དམར་པོའི་མདོག་ལྟ་བུ། །དགའ་ལྡན་གནས་སུ་ཁ་བ་བ་མོའི་མདོག །མཚེ་མར་མཐོན་ཏིང་བཻ་ཌཱུ**རྻ**་ཡི་མདོག །སུམ་ཅུ་གསུམ་དུ་ཨ་སྨ་གར་བྷ་འདྲ། །རྒྱལ་ཆེན་གནས་སུ་ཤེལ་གྱི་མདོག་ལྟ་བུ། །རྡོ་རྗེ་མི་ཕྱེད་སྲ་མདོག་རྒྱ་མཚོར་རོ། །མི་ཡི་གནས་སུ་སྤོས་མཆོག་འདྲེས་
+035-tagged, l. 3765 (236b.5): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [236b.5]ཏེ། །སུམ་ཅུ་རྩ་གསུམ་གནས་སུ་གསེར་མདོག་ཏུ། །རྒྱལ་ཆེན་གནས་སུ་དཔལ་གྱི་སྙིང་པོའི་མདོག །མུ་ཏིག་དམར་པོའི་མདོག་ཏུ་རྒྱ་མཚོར་རོ། །མྱི་ཅིའི་གནས་སུ་མཐོན་ཏིང་བཻ་ཌཱུ**རྻ**། །ཀླུ་ཡི་གནས་སུ་དཔལ་གྱི་སྙིང་པོའི་མདོག །གནོད་སྦྱིན་གནས་སུ་ཤེལ་གྱི་ཁ་དོག་
+035-tagged, l. 4012 (252a.4): punctuation: invalid end of line
+035-tagged, l. 4059 (255a.3): punctuation: invalid end of line
+035-tagged, l. 4397 (276a.5): punctuation: invalid end of line
+035-tagged, l. 4535 (284b.7): punctuation: invalid shad sequence
+  -> [284b.7]མཐོང་རུང་སྲིད། །ཞིང་རྣམས་རྡུལ་དུ་བླགས་ཏེ་བགྲང་བར་ནུས་ཀྱང་སྲིད། །བར་སྣང་སྐྲ་ཡིས་མཉམ་པར་གཞལ་བར་ནུས་སྲིད་ཀ**ྱི། །།**བྱང་ཆུབ་སེམས་མཆོག་ཡོན་ཏན་མཐར་ཕྱིན་མྱི་ནུས་སོ། །འདི་ལས་དུས་གསུམ་སངས་རྒྱས་ཐམས་ཅད་རབ་ཏུ་
+035-tagged, l. 5003 (314a.3): punctuation: invalid end of line
+035-tagged, l. 5041 (316b.1): punctuation: invalid shad sequence
+  -> [316b.1]པ་ཐམས་ཅད་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་དོན་ཡོད་པར་འགྱུར་རོ།། །།སངས་རྒྱས་རྨད་ག་ཅད་ཅེས་བྱ་བ་ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ། །བམ་པོ་ཉི་ཤུ་དྲུག་**པ། །།** ཀྱེ་རྒྱལ་བའི་སྲས་དག །དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་
+035-tagged, l. 5106 (320b.2): punctuation: invalid end of line
+035-tagged, l. 5905 (370b.1): punctuation: invalid end of line
+035-tagged, l. 6139 (385a.3): punctuation: invalid end of line
+036-tagged, l. 479 (31a.7): punctuation: invalid end of line
+036-tagged, l. 1412 (89b.4): punctuation: invalid end of line
+036-tagged, l. 1929 (122a.1): punctuation: invalid end of line
+037-tagged, l. 132 (9b.4): punctuation: invalid end of line
+037-tagged, l. 295 (19b.7): punctuation: invalid end of line
+037-tagged, l. 815 (52a.7): punctuation: invalid end of line
+037-tagged, l. 1374 (87a.6): punctuation: invalid end of line
+037-tagged, l. 1609 (102a.1): punctuation: invalid end of line
+037-tagged, l. 1612 (102a.4): punctuation: invalid end of line
+037-tagged, l. 1839 (116a.7): punctuation: invalid end of line
+037-tagged, l. 1919 (121a.7): punctuation: invalid end of line
+037-tagged, l. 2445 (154a.5): punctuation: invalid end of line
+037-tagged, l. 2685 (169a.5): punctuation: invalid end of line
+037-tagged, l. 2701 (170a.5): punctuation: invalid end of line
+037-tagged, l. 2876 (181a.4): punctuation: invalid end of line
+037-tagged, l. 2897 (182b.1): punctuation: invalid end of line
+037-tagged, l. 3330 (209b.2): punctuation: invalid end of line
+037-tagged, l. 3603 (226b.3): punctuation: invalid shad sequence
+  -> [226b.3]གཤེགས་པའི་ཕྱག་འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་ཀུན་ནས་ཡོག་པར་སྐྱོབ་པ་བླ་ན་མེད་པ་འཐོབ་པར་འགྱུར་བ་དག་**གོ།། །།**སངས་རྒྱས་རྨད་གཅད་ཅེས་བྱ་བ་ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ། །བམ་པོ་ཉི་ཤུ་པ། །
+037-tagged, l. 3791 (238a.7): punctuation: invalid end of line
+037-tagged, l. 3933 (247a.5): punctuation: invalid end of line
+037-tagged, l. 4758 (298b.6): punctuation: invalid end of line
+038-tagged, l. 285 (19a.5): invalid: suspicious Tibetan character
+  -> [19a.5]གིས**༑** དེའི་གན་དུ་སོང་ལ་ཇི་ལྟར་བྱང་ཆུབ་སེམས་དཔས་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་བསླབ་པར་བྱ་བ་དང་། ཇི་ལྟར་ནན་ཏན་དུ་བྱ་བ་དྲིས་ཤིག །དེ་ནས་ཚོང་དཔོན་གྱི་བུ་ནོར་བཟངས་ཀྱིས་ཆོས་ཀྱི་ཚོང་དཔོན་རིན་ཆེན་གཙུགས་ཕུད་ཀྱི་རྐང་པ་གཉིས་ལ་སྤྱི་བོས་ཕྱག་
+038-tagged, l. 458 (30a.2): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [30a.2]ཧ་ཅང་ཡང་མི་རིང་བ་ཞིག་ན། རྒྱན་ཆེན་པོ་དང་ལྡན་པའི་ཁྲི་ཆེན་པོ་བཻ་ཌཱུ**རྻ**་སྔོན་པོའི་རྐང་པ་བཀྱེ་བ། བཻ་ཌཱུཪྻ་དཀར་པོའི་སེང་གེས་བླངས་པ། འཛམ་བུ་ཆུ་ཀླུང་གི་གསེར་གྱི་ལྕགས་པོད་ཀྱི་དྲ་བ་ལེགས་པར་བཏགས་པ། ལྷ་རྫས་ལས་ཀྱང་འདས་པའི་རིན་པོ་ཆེའི་སྟན་སྣ་ཚོགས་བཏིང་བ། 
+038-tagged, l. 574 (37a.6): invalid: suspicious Tibetan character
+  -> [37a.6]དང་**༑** ཞི་བའི་གནས་ཀྱི་ཏིང་ངེ་འཛིན་གྱི་སྒོ་མང་པོ་དང་། འགྲོ་བ་ཐམས་ཅད་དང་བྲལ་བའི་ཏིང་ངེ་འཛིན་གྱི་སྒོ་མང་པོ་དང་། ཀུན་ཏུ་ལྟ་བའི་བཏང་སྙོམས་དང་ལྡན་པའི་ཏིང་ངེ་འཛིན་གྱི་སྒོ་མང་པོ་དང་། དེ་བཞིན་གཤེགས་པའི་མཛོད་ཀྱི་ཏིང་ངེ་འཛིན་གྱི་སྒོ་མང་པོ་ལ་སྩོགས་པ། 
+038-tagged, l. 1468 (93a.4): punctuation: invalid end of line
+038-tagged, l. 1902 (120a.6): punctuation: invalid shad sequence
+  -> [120a.6]པར་གྱུར་པ་དེ་དག་ཀྱང་། སེམས་ཅན་ལུས་ཀྱི་དབྱིབས་མི་སྡུག་པར་འགྱུར་བ་རྣམས་ལ་རློམ་ཞིང་ཁྱད་དུ་གསོད་དོ། །དེ་དག་དེ་ལྟར་གཅིག་ལ་གཅིག་ཁྱད་དུ་གསོད་པ་ལས་བྱུང་བའི་མི་དགེ་བའི་རྩ་བས་ཚེའི་ཚད་ལས་ཀྱང་ཡོངས་སུ་བྲི་བར་གྱུར་**ཏོ། །།**ཁ་དོག་དང་སྟོབས་དང་བདེ་བ་ལས་ཀྱང་ཡོངས་སུ་བྲི་
+038-tagged, l. 2814 (177a.6): punctuation: invalid end of line
+038-tagged, l. 3727 (234a.7): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [234a.7]གྱུར་ཏེ། བ་སྤུའི་བུ་ག་རེ་རེ་ནས་བ་སྤུ་རེ་རེ་སྐྱེས་པར་གྱུར་པ། བཻཌཱུ**རྻ**་སྔོན་པོའི་ཁ་དོག་ལྟ་བུ་གཡས་ཕྱོགས་སུ་འཁྱིལ་བ། ལེགས་པར་སྐྱེས་པ། མཐང་ལ་ཞ་བར་འདུག་པ་ཤིན་ཏུ་ལེགས་པར་གནས་པ་དང་ལྡན་པར་གྱུར་ཏོ། །གཞོན་ནུ་དེའི་སྤུ་ཡན་ལག་གྱེན་དུ་
+038-tagged, l. 3739 (235a.3): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [235a.3]མེད་པའི་རླུང་ལྟར་མགྱོགས་པའི་རྟ་ཅང་ཤེས་སྟོང་དང་བཅས་པ་ལ་ཞོན་ནས་གདུགས་ཆེན་པོ་རིམ་གྱིས་གཞོལ་ཞིང་བལྟ་ན་སྡུག་པ། སྟེང་ཡོངས་རིན་པོ་ཆེའི་རྒྱལ་པོའི་བཻཌཱུ**རྻ**་དཀར་པོ་ལས་བྱས་པ། འོད་དྲི་མ་མྱེད་པ་ཚད་མེད་པ་འབྱུང་བ། རིན་པོ་ཆེ་བསམ་གྱིས་མི་ཁྱབ་པ་རྨད་དུ་བྱུང་བ་སྣ་ཚོགས་
+038-tagged, l. 3740 (235a.4): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [235a.4]ཐམས་ཅད་ཀྱིས་སྤ་བར་སྤྲས་ཏེ། རྣམ་པ་ཐམས་ཅད་དུ་མཛེས་པར་བརྒྱན་པ། ཡུ་བ་རིན་པོ་ཆེའི་རྒྱལ་པོ་བཻཌཱུ**རྻ**་སྔོན་པོ་ལས་བསྒྲེང་བས་ནི་བསྐྱབས། སྲོག་ཆགས་བརྒྱ་སྟོང་མང་པོས་ནི་ཡོངས་སུ་བསྐོར། རོལ་མོ་བརྒྱ་སྟོང་མང་པོ་ལྷ་རྫས་ཀྱི་དབྱངས་ཡིད་དུ་འོང་བ་སྙན་པ་དང་ལྡན་པ་དག་ནི་རབ་
+038-tagged, l. 4594 (288b.2): punctuation: invalid end of line
+039-tagged, l. 705 (45b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+039-tagged, l. 941 (60a.5): punctuation: invalid end of line
+039-tagged, l. 1343 (85a.7): punctuation: invalid end of line
+039-tagged, l. 1459 (92b.3): punctuation: invalid end of line
+039-tagged, l. 1577 (100a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+039-tagged, l. 1788 (113a.4): punctuation: invalid end of line
+039-tagged, l. 1902 (120a.6): punctuation: invalid end of line
+039-tagged, l. 2358 (148b.6): punctuation: invalid shad sequence
+  -> [148b.6]གཟི་བརྗིད་མཐའ་ཡས་པ། །འོད་གསལ་དྲི་མེད་དྲ་བ་གཅིག་ཀྱང་སྤྲུལ། །ཀླུ་དང་དྲི་ཟ་ལྟོ་འཕྱེ་ཆེན་པོ་དང**་། །།**ལྷ་མིན་མཁའ་ལྡིང་མིའམ་ཅི་ཀུན་གྱིས། །རང་རང་གནས་དང་བཀོད་པ་རྣམས་ཀྱིས་ནི། །འདོད་ཁམས་ལེགས་པར་བརྒྱན་ནས་མཛེས་པར་བྱས། །
+039-tagged, l. 3233 (203b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+039-tagged, l. 3777 (237b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+040-tagged, l. 1105 (70b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+040-tagged, l. 2225 (140b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+040-tagged, l. 2606 (164a.6): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+040-tagged, l. 2934 (184b.6): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+040-tagged, l. 3105 (195b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+040-tagged, l. 4065 (255b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+040-tagged, l. 4076 (256a.4): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [256a.4]འབྲུས་ཡོངས་སུ་གང་བའི་མཛོད་དང་། བང་བ་མང་བ། ནོར་བུ་དང་། མུ་ཏིག་དང་། བཻ་དཱུ**རྻ**་དང་། དུང་དང་། མན་ཤེལ་དང་། བྱི་རུ་མང་བ། གླང་པོ་ཆེ་དང་། རྟ་དང་། བ་ལང་དང་། ལུག་མང་བ། བྲན་ཕོ་དང་། བྲན་མོ་དང་། ལས་བྱེད་པ་དང་། ཞོ་ཤས་འཚོ་བ་མང་བ་ཞིག་གནས་
+040-tagged, l. 4331 (272a.3): punctuation: invalid shad sequence
+  -> [272a.3]གོ །ཡོངས་སུ་མི་རྟོག་པས་མི་རྟོག་རྣམ་པར་མི་རྟོག་གོ །ཅི་ལ་མི་རྟོག་ཅེ་ན། ང་དང་ངའི་ཞེས་མི་རྟོག་སྟེ། དེ་མི་སོགས་ཤིང་སོགས་པར་མི་བྱེད་ལ་སྤོངས་ཞིང་མི་ལེན་ཏོ། །སྤངས་པས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་སོ། །གྲོལ་**ལོ་།** །བྱུང་ངོ་། །རབ་ཏུ་རྣམ་པར་
+040-tagged, l. 4332 (272a.4): punctuation: invalid shad sequence
+  -> [272a.4]གྲོལ་ལོ། །བྲལ་**ལོ་།** །གང་ལས་བྱུང་ཞེ་ན། སྡུག་བསྔལ་ཐམས་ཅད་ལས་བྱུང་ངོ་། །ཁྱིམ་བདག་ཁྱེད་རྣམས་འབྱུང་བར་འདོད་ན། ཆོས་གང་ཡང་བླང་བར་མི་བྱའོ། །དེ་ཅིའི་ཕྱིར་ཞེ་ན། ཁྱིམ་བདག་རྣམས་ལེན་པས་ནི་སྲིད་པར་འགྱུར་རོ། །མི་ལེན་པས་ནི་སྲིད་པ་མེད་
+041-tagged, l. 257 (17b.1): punctuation: invalid end of line
+041-tagged, l. 363 (24a.3): punctuation: invalid end of line
+error on line 520 going backward in page sides
+041-tagged, l. 1127 (70b.7): punctuation: invalid end of line
+041-tagged, l. 1289 (81a.1): punctuation: invalid shad sequence
+  -> [81a.1]འདས་ནས་ལོ་སྟོང་ན་དེ་ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བར་འགྱུར་ཏེ། དེའི་རིང་བསྲེལ་ཡང་རྒྱས་པར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། དཔེར་ན། ང་ད་ལྟར་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་རིང་བསྲེལ་རབ་ཏུ་རྒྱས་པར་འགྱུར་བ་བཞིན་**ནོ་།** ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པ་ནི་ཡེ་
+041-tagged, l. 2238 (140a.6): punctuation: invalid end of line
+041-tagged, l. 2829 (177a.5): punctuation: invalid shad sequence
+  -> [177a.5]སུ་འཛིན་པ་མེད་པ་དེ་བཞིན་དུ་ལུས་འདི་ཡང་རྩྭ་དང་། རྩིག་པ་དང་། ཤིང་དང་། བོང་བ་དང་། མིག་ཡོར་ལྟ་**བུ་།** ཕུང་པོ་དང་། ཁམས་དང་། སྐྱེ་མཆེད་ཡོངས་སུ་འཛིན་པ། བདག་དང་བདག་གི་འམ། རྟག་པ་འམ། བརྟན་པའམ། ཐེར་ཟུག་གམ། མི་འགྱུར་བའི་ཆོས་ཀྱིས་སྟོང་སྟེ། 
+041-tagged, l. 2995 (187b.3): punctuation: invalid shad sequence
+  -> [187b.3]འབྱུང་བ་ལ་མཁས་པ་ཞེས་བྱའོ། །དེ་ཡང་གང་འགག་ཅེ་ན། ཚུལ་བཞིན་མ་ཡིན་པའི་ཡིད་ལ་བྱེད་པ་འགགས་པའི་ཕྱིར་མ་རིག་པ་འགག་གོ །མ་རིག་པ་འགགས་པའི་ཕྱིར་འདུ་བྱེད་འགག་པ་ནས་སྡུག་བསྔལ་གྱི་ཕུང་པོ་ཆེན་པོ་འབའ་ཞིག་གི་བར་དུ་འགག་པར་འགྱུར་**རོ་།** །ཞེས་དེ་སྙམ་དུ་
+041-tagged, l. 3159 (197b.7): punctuation: invalid end of line
+041-tagged, l. 3230 (202a.6): punctuation: invalid shad sequence
+  -> [202a.6]ལྟ་ས**ྟེ་།** ད་ལྟར་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཁྱོད་བཞིན་དུ་བདག་ཅག་ཀྱང་། བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་སེམས་ཅན་རྣམས་ལ་ཆོས་བསྟན་པར་བགྱིའོ། །འདི་ལྟ་སྟེ། ད་ལྟར་བཅོམ་ལྡན་འདས་ཚོགས་ལ་
+041-tagged, l. 3281 (205b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+041-tagged, l. 3438 (215a.6): punctuation: invalid end of line
+041-tagged, l. 3458 (216b.2): punctuation: invalid shad sequence
+  -> [216b.2]བའི་གནས་རྣམ་པར་འཇོག་ཅིང་དབུགས་ཕྱི་ནང་དུ་རྒྱུ་བ་ཐོགས་པ་མེད་པར་བྱེད་དེ། འདི་ལྟ་སྟེ། དཔེར་ན་རྫ་མཁན་ནམ་དེའི་སློབ་མས་འཇིམ་པའི་གོང་བུ་བླངས་**ཏེ་།** འཁོར་ལོའི་སྟེང་དུ་བཞག་ནས་ཇི་ལྟར་མོས་པ་བཞིན་དུ་སྣོད་ཀྱི་རྣམ་པར་དབྱིབས་ཐ་དད་པ་སྤེལ་ཞིང་རྣམ་པར་
+041-tagged, l. 3781 (236b.5): punctuation: invalid end of line
+041-tagged, l. 3785 (237a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+041-tagged, l. 3830 (239b.6): punctuation: invalid shad sequence
+  -> [239b.6]པར་གྲུབ་པར་བྱེད་དོ། །ཞག་བདུན་ཕྲག་གསུམ་པ་ལ་མའི་མངལ་དུ་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་མཛོད་ཀ་ཞེས་བྱ་ས**ྟེ་།** རླུང་དེའི་སྟོབས་ཀྱིས་ནུར་ནུར་པོ་གང་ཡིན་པ་དེ་མཐར་གྱིས་མཁྲེགས་ཤིང་ལྟར་ལྟར་པོར་བྱེད་པས། དེའི་དབྱིབས་ནི་སྨན་རྡུང་བའི་གཏུན་བུ་འདྲ་ལ་
+041-tagged, l. 3969 (248b.1): punctuation: invalid shad sequence
+  -> [248b.1]{T59}འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་ལེའུ་བཅྭ་ལྔ་པ་སྟེ། འཇམ་དཔལ་གྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་བསྟན་པ། བམ་པོ་དང་**པོ། །།**རྒྱ་གར་སྐད་དུ། ཨཱརྱ་མཉྫུ་ཤྲཱི་
+041-tagged, l. 3969 (248b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+042-tagged, l. 89 (7a.1): punctuation: invalid end of line
+042-tagged, l. 1340 (85a.4): punctuation: invalid end of line
+042-tagged, l. 2035 (128b.3): punctuation: invalid end of line
+042-tagged, l. 2406 (151b.6): punctuation: invalid shad sequence
+  -> [151b.6]བཞིན་དུ་དོན་མེད་པ་མ་ཡིན་པར་གྱུར་ཏོ། །རྒྱལ་པ་ཆེན་པོ་དེ་ནས་རྒྱལ་པོ་གྲགས་པ་མཐའ་ཡས་དེ་འདི་སྙམ་དུ་བདག་གི་བསོད་ནམས་ཀྱི་སྟོབས་ཉམས་པ་མེད་པ་ལ་བརྟག་པར་བྱའོ་སྙམ་ནས་དེ་འདི་སྙམ་དུ་སེམས་**ཏེ་།** ཀྱེ་མ་བདག་གི་གླིང་ཆེན་པོ་བཞི་པའི་འཇིག་རྟེན་གྱི་ཁམས་ན་ཤིང་ལྗོན་
+042-tagged, l. 2673 (168b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+042-tagged, l. 2900 (182b.4): punctuation: invalid end of line
+042-tagged, l. 3614 (227a.6): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+042-tagged, l. 4095 (257a.7): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+042-tagged, l. 4450 (279b.2): punctuation: invalid end of line
+042-tagged, l. 4453 (279b.5): punctuation: invalid end of line
+042-tagged, l. 4455 (279b.7): punctuation: invalid end of line
+043-tagged, l. 260 (17b.4): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+043-tagged, l. 553 (36a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+043-tagged, l. 1065 (68a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+043-tagged, l. 2079 (131a.7): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+043-tagged, l. 2873 (181a.1): punctuation: possible wrong beginning of text: "༄༅༅།" should be "༄༅༅། །"
+043-tagged, l. 3249 (204b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+043-tagged, l. 3433 (216a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+043-tagged, l. 3833 (241a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+043-tagged, l. 4166 (261b.6): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+043-tagged, l. 4246 (266b.6): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+043-tagged, l. 4537 (285a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+043-tagged, l. 4710 (295b.6): punctuation: invalid end of line
+043-tagged, l. 4743 (297b.7): punctuation: invalid end of line
+044-tagged, l. 223 (15a.7): punctuation: invalid shad sequence
+  -> [15a.7]འཇིག་ཚོགས་དང་། ཁམས་བཅོ་བརྒྱད་དང་། ནང་གི་སྐྱེ་མཆེད་དྲུག་དང་། ཕྱིའི་སྐྱེ་མཆེད་དྲུག་འཛིན་པར་བགྱིད་དོ། །རྟོག་པ་དང་། རྣམ་པར་རྟོག་པ་དང་། ཡོངས་སུ་རྟོག་པ་དང་། ལྟ་བའི་རྣམ་པ་དག་འཛིན་པར་བགྱིད་**དེ་།** བཅོམ་ལྡན་འདས་དེ་ལྟ་ལགས་པས་
+044-tagged, l. 457 (30a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 1113 (71a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 1460 (92b.4): punctuation: invalid shad sequence
+  -> [92b.4]བ་ཡོད་ཀྱིས་ཚུར་ཤོག་ཅེས་ཟེར་**ཏེ་།** དེ་དག་འདུས་ནས་མྱུར་བ་མྱུར་བར་སྐྱེད་མོས་ཚལ་དེའི་ནང་དུ་འགྲོའོ། །དེ་དག་དེའི་ནང་དུ་སོང་ནས་ཡུད་ཙམ་ཞིག་བདེ་བའི་འདུ་ཤེས་སྐྱེད་དོ། །དེ་དག་གིས་ཤིང་དེ་དག་ལས་བྱུང་བའི་མེ་ཏོག་དེ་དག་དང་། ལོ་མ་དེ་དག་རལ་གྲིར་འགྱུར་ཏེ། རལ་
+044-tagged, l. 1497 (95a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 1649 (104b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 1842 (116b.2): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 1889 (119b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 2409 (152a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 2786 (175b.2): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 2902 (182b.6): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 3337 (210a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 4057 (255a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+044-tagged, l. 4425 (278a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+045-tagged, l. 587 (38a.3): punctuation: invalid shad sequence
+  -> [38a.3]མོང་མ་ཡིན་པ་བྱང་ཆུབ་ཕྱོགས་གཅིག་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་མཐར་ཕྱིན་པ་གང་ཡིན་པ་དེ་ནི་འཇིག་རྟེན་ལས་འདས་པའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟེ། འདི་དག་ནི་འཇིག་རྟེན་ལས་འདས་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་**གོ།། །།**འཕགས་
+045-tagged, l. 948 (60b.4): punctuation: invalid shad sequence
+  -> [60b.4]རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་རྣམ་པར་སྨིན་པ་སྟེ། འདི་དག་ནི་རྣམ་པར་སྨིན་པ་ལྟེ་བ་ཟབ་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་**གོ།། །།**འཕགས་པ་བསྐལ་པ་བཟང་པོ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། བམ་པོ་དྲུག་པ། དེ་ལ་རྣམ་པར་སྨིན་པ་སྤུ་རེ་རེའི་ཕ་
+045-tagged, l. 1133 (72a.5): punctuation: invalid shad sequence
+  -> [72a.5]རབ་ཀྱི་སྟེ། འདི་དག་ནི་ཆོས་དྲན་པ་ཉེ་བར་གཞག་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་**གོ།། །།**འཕགས་པ་བསྐལ་པ་བཟང་པོ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། བམ་པོ་བདུན་པ། དེ་ལ་སྡུག་བསྔལ་འཕགས་པའི་བདེན་པ་མཐོང་བའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་གང་ཞེ་ན། 
+045-tagged, l. 1335 (84b.7): punctuation: invalid shad sequence
+  -> [84b.7]དང་། ཆེན་པོས་ངེས་པ་དང་། མ་ངེས་པར་རྟོག་པ་གང་ཡིན་པ་དེ་ནི་ཤེས་རབ་ཀྱི་སྟེ། འདི་དག་ནི་བར་དུ་གཅོད་པའི་ཆོས་ཀྱི་གཏམ་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་**གོ།། །།**འཕགས་པ་བསྐལ་པ་བཟང་པོ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། བམ་པོ་བརྒྱད་པ། 
+046-tagged, l. 4 (1b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+046-tagged, l. 2865 (180b.1): punctuation: invalid shad sequence
+  -> [180b.1]དེ་བཞིན་གཤེགས་པ་ཤར་གྱི་རྒྱ་མཚོ་ནས་ནུབ་ཀྱི་རྒྱ་མཚོའི་བར་དུ་མི་རིང་བའི་འཆགས་པས་འཆག་**གོ།། །།**འཕགས་པ་རྒྱ་ཆེར་རོལ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། བམ་པོ་བཅུ་དྲུག་པ། དེ་ནས་བདུད་སྡིག་ཅན་དེ་བཞིན་གཤེགས་པ་ག་ལ་
+046-tagged, l. 4260 (267b.4): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [267b.4]དུ་ཤྩ་རི་ཏམ་བཱ། ཝཱག་དུཤྩ་རི་ཏ་མ་བཱ། མ་ནོ་དུཤྩ་རི་ཏམ་བཱ། དཱ་རི་**དྲྱ**མ་བཱ། ཏད་ས་ཀྵཱ་པ་ཡ། ཨ་ལོ་ཀ་ཡ། བི་ལོ་ཀ་ཡ། ཏ་ཐཱ་ག་ཏ་དར་ཥ་ཎན་ཙ། ཨ་ཧ་མ་དྷི་ཀཱཾ། ཀྵཱ་མི། བོ་དྷི་སཏྱ་དར་ཥ་ཎམ། དྷུ་དྷུ་མ། ད་དས་སྭ་མེ་ད་ར་ཥ་ཎམ། 
+error on line 3352 leap in page numbers from 210 to 212
+048-tagged, l. 3604 (227b.4): punctuation: invalid end of line
+048-tagged, l. 3650 (230b.2): punctuation: invalid end of line
+049-tagged, l. 3049 (192a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+051-tagged, l. 2873 (181a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+051-tagged, l. 3108 (195b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+052-tagged, l. 591 (38a.7): punctuation: invalid shad sequence
+  -> [38a.7]ཁྱེད་ལ་སོགས་པས་འཁོར་རྣམ་བཞི་ཡང་དེ་ལྟ་བུའི་ཚུལ་དུ་ཆོས་ཐམས་ཅད་ལ་ནན་ཏན་གྱིས་ཤི**ག།། །།**བམ་པོ་བཞི་པ། བཅོམ་ལྡན་འདས་ཀྱིས་གཞན་ཡང་དགེ་སློང་རྣམས་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །དགེ་སློང་དག་ཁྱེད་འདུལ་
+052-tagged, l. 757 (48b.5): punctuation: invalid shad sequence
+  -> [48b.5]ཉིད་ཀྱི་རྐྱེན་གྱིས་ཚེ་རིང་བ་དང་། སྔོན་གྱི་གནས་ཤེས་པར་འགྱུར་རོ། །འཕགས་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ཆེན་པོའི་མདོ་ལས་སྐུ་ཚེའི་ལེའུ་ཞེས་བྱ་སྟེ་གཅིག་**གོ།། །།**དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འོད་སྲུང་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་
+052-tagged, l. 3699 (232b.3): punctuation: invalid shad sequence
+  -> [232b.3]ལ་གནས་པ་ན་འཕགས་པའི་སྤྱད་པ་སྤྱོད་པ་ཞེས་བྱའོ། །འཕགས་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ཐེག་པ་ཆེན་པོའི་མདོ་ལས། འཕགས་པའི་སྤྱོད་པ་ཞེས་བྱ་བའི་ལེའུ་སྟེ་དྲུག་**གོ།། །།**འཕགས་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ཆེན་པོའི་མདོ། བམ་
+053-tagged, l. 1676 (106a.4): punctuation: invalid shad sequence
+  -> [106a.4]དེ་ཡང་མི་རུང་བ་སྟེ། ཇི་ལྟར་འཇིག་རྟེན་པ་དག་བུ་མེད་པར་མཐོང་ནས། བུ་མེད་དོ་ཞེས་མཆི་བ་དང་མཚུངས་**ཏེ་།** སེམས་ཅན་ལ་སངས་རྒྱས་ཀྱི་རང་བཞིན་མ་མཆིས་པར་ཅིའི་སླད་དུ་སེམས་ཅན་ཐམས་ཅད་ལ་སངས་རྒྱས་ཀྱི་རང་བཞིན་མཆིས་ཞེས་གསུངས། བཅོམ་ལྡན་
+054-tagged, l. 2433 (153b.1): punctuation: possible wrong beginning of text: "སངས་" should be "༄༅༅། །"
+054-tagged, l. 2901 (182b.5): punctuation: invalid end of line
+054-tagged, l. 3385 (213a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+055-tagged, l. 3615 (227a.7): punctuation: invalid end of line
+055-tagged, l. 3860 (242b.4): punctuation: invalid shad sequence
+  -> [242b.4]བསྒྲུབས་པས་ན། །མར་མེ་མཛད་པ་མཐོང་མ་ཐག་ཏུ་ནི། །སོམ་ཉི་སྤངས་ནས་མཉམ་པ་ཉིད་མཐོང་བས། །དེ་ནས་ཁྱོད་ནི་ཤཱཀྱ་སེང་གེ་ཡི། །སངས་རྒྱས་འགྱུར་ཞེས་འདྲེན་པས་བདག་ལུང་བསྟ**ན། །།**འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་ཡེ་ཤེས་ཀྱི་ཕྱག་རྒྱའི་ཏིང་ངེ་འཛིན་
+056-tagged, l. 391 (25b.7): punctuation: invalid end of line
+056-tagged, l. 1106 (70b.2): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+056-tagged, l. 2290 (144b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+056-tagged, l. 4477 (281a.5): punctuation: invalid end of line
+056-tagged, l. 4779 (300a.3): punctuation: invalid shad sequence
+  -> [300a.3]མངོན་པར་བསྟོད་དོ།། །།འཕགས་པ་སྒོ་དྲུག་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སྷོ།། །།ཤུ་བྷམ་སྟུ་སརྦ་ཛ་ག་ཏ**ཱཾ། །།**
+057-tagged, l. 524 (34a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+057-tagged, l. 1291 (82a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+057-tagged, l. 2249 (142a.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+057-tagged, l. 3115 (196a.3): punctuation: invalid shad sequence
+  -> [196a.3]དེ་བཞིན་གཤེགས་པས་རབ་ཏུ་མཁྱེན་ཏོ། །རིགས་ཀྱི་བུ་གཞན་ཡང་ཀུན་ནས་ཉོན་མོངས་པ་ལ་དམིགས་པ་ཚད་མེད། རྣམ་པར་དག་པ་ལ་དམིགས་པ་ཡང་ཚད་མེད་**དེ་།** ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་སོ་སོར་རྟོག་པས་ཀུན་ནས་ཉོན་མོངས་པ་ལ་དམིགས་པ་རྣམ་པར་བྱང་བ་ལ་དམིགས་པར་
+057-tagged, l. 3865 (243a.1): punctuation: possible wrong beginning of text: "༄༅༅།" should be "༄༅༅། །"
+057-tagged, l. 5265 (330b.1): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+057-tagged, l. 5274 (331a.2): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+057-tagged, l. 5285 (331b.5): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+058-tagged, l. 3273 (206a.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+058-tagged, l. 3370 (212a.2): punctuation: invalid end of line
+059-tagged, l. 1593 (101a.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+059-tagged, l. 2537 (160a.1): punctuation: possible wrong beginning of text: "༄༅༅།" should be "༄༅༅། །"
+059-tagged, l. 2785 (175b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+059-tagged, l. 3353 (211a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+060-tagged, l. 924 (59a.4): punctuation: invalid shad sequence
+  -> [59a.4]ཤེས་ཤིང་མཐོང་བའི་དོན་ནི་དྲན་པ་ཉེ་བར་གཞག་པ་ཞེས་བྱའོ། །དྲན་པ་ཉེ་བར་གཞག་པ་ཞེས་བྱ་བའི་ལེའུ་སྟེ་དྲུག་**གོ།། །།**འཇིག་རྟེན་འཛིན་དེ་ལ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་དབང་པོ་རྣམས་ལ་མཁས་པ་ཞེ་ན། བྱང་ཆུབ་
+060-tagged, l. 1217 (77b.1): punctuation: invalid shad sequence
+  -> [77b.1]པར་བྱའོ། །སྔོན་བྱུང་བའི་བསྟན་པ་ཞེས་བྱ་བའི་ལེའུ་སྟེ་བཅུ་གཅིག་གོ** ། །།**དེ་ནས་དེའི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཇིག་རྟེན་འཛིན་གྱིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་
+060-tagged, l. 4497 (282b.1): punctuation: invalid end of line
+061-tagged, l. 1673 (106a.1): punctuation: possible wrong beginning of text: "༄༅༅།" should be "༄༅༅། །"
+061-tagged, l. 1834 (116a.2): punctuation: invalid end of line
+061-tagged, l. 2276 (143b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+061-tagged, l. 3041 (191b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+061-tagged, l. 3174 (199b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+061-tagged, l. 3878 (243b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+061-tagged, l. 4721 (296b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+061-tagged, l. 4830 (303a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+062-tagged, l. 719 (46a.7): punctuation: invalid end of line
+062-tagged, l. 1182 (75a.6): punctuation: invalid shad sequence
+  -> [75a.6]མཆོག་དང་། དྷ་ནུ་སྐ་རི་དང་། ལྷའི་སྣ་མའི་མེ་ཏོག་དང་། ཨུད་པ་ལ་དང་། པད་མ་དང་། ཀུ་མུ་ད་དང་། པད་མ་དཀར་པོ་དང་། མེ་ཏོག་ཆེན་པོ་རྣམས་བཀྲམ་པ་བྱེད་དུ་བཅུག་ས**ྟེ་།** རང་སངས་རྒྱས་དེ་དག་ལ་ལྷའི་ཟས་རོ་བརྒྱ་དང་ལྡན་པ་བྱིན་ཞིང་ལྷའི་གོས་དག་ཀྱང་
+062-tagged, l. 1188 (75b.4): punctuation: invalid end of line
+062-tagged, l. 1481 (94a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+062-tagged, l. 3890 (244b.2): punctuation: invalid shad sequence
+  -> [244b.2]མི་བགྱིད་པ་དེའི་ཟས་དེ་རིང་འཚལ་ལོ། །གནས་བརྟན་གྱིས་སྨྲས་པ། འཇམ་དཔལ་དེ་ལྟར་སྦྱིན་པར་བགྱིད་པ་དེ་དང་དེ་དག་ནི་སྦྱིན་བདག་ཆེན་པོ་ལགས་ཀྱིས་མཆི**འོ། །།**བམ་པོ་བཞི་པ། དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་འདི་སྙམ་དུ་གྱུར་ཏེ། བདག་
+062-tagged, l. 4523 (284a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+063-tagged, l. 1116 (71a.4): punctuation: invalid end of line
+063-tagged, l. 1225 (78a.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+063-tagged, l. 1484 (94a.4): punctuation: invalid shad sequence
+  -> [94a.4]ན། སོང་ན་དེ་མཐོང་བར་འགྱུར་རོ། །འོད་སྲུང་དེ་བཞིན་དུ་ཁྱོད་ཀྱིས་མ་མཐོང་བར་དད་པས་ཡིད་ཆེས་པར་གྱིས་ཤི**ག།། །།**འཕགས་པ་རྔ་བོ་ཆེ་ཆེན་པོའི་ལེའུ་བམ་པོ་གཉིས་པ། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །
+063-tagged, l. 2009 (127a.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+063-tagged, l. 2782 (175a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+063-tagged, l. 2811 (177a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+064-tagged, l. 3913 (246a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+065-tagged, l. 361 (24a.1): punctuation: invalid end of line
+066-tagged, l. 721 (46b.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+066-tagged, l. 1115 (71a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+066-tagged, l. 2827 (178a.3): punctuation: invalid shad sequence
+  -> [178a.3]བཅོས་བུ་དང་། ཕྲེང་བ་རྣམས་གཏོར་ཏོ། །འཕགས་པ་འདུས་པ་ཆེན་པོ་ཐེག་པ་ཆེན་པོའི་མདོ་ཉི་མའི་སྙིང་པོའི་ལེའུ་བཅུ་གཅིག་པ་ལས་ལས་འབྱང་བའི་ལེའུ་སྟེ་བཞི་པ**འོ། །།**དེ་ནས་དེ་སྙེད་ཀྱི་ལྷའི་དབང་པོ་འཁོར་དང་བཅས་པ་ཐམས་ཅད་དང་། ཀླུའི་
+067-tagged, l. 4 (1b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+067-tagged, l. 453 (29b.5): punctuation: invalid end of line
+067-tagged, l. 814 (52a.6): punctuation: invalid end of line
+067-tagged, l. 1795 (113b.3): punctuation: invalid end of line
+067-tagged, l. 2631 (165b.7): punctuation: invalid shad sequence
+  -> [165b.7]ཚུལ་ནམ་མཁའ་ལ་འགྲོ་བའི་འོད་ཀྱིས་འདུལ་བའི་བཟོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་ལེའུ་དྲུག་**གོ།། །།**དེ་ནས་དེ་ཉིད་ཀྱི་ཚེ་ན་ཤཱཀྱ་ཐུབ་པ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་སྐར་མདའ་ཉི་ཤུ་བའི་རྒྱུན་བཅད་དེ། དེ་བཞིན་
+067-tagged, l. 3885 (244a.5): punctuation: invalid shad sequence
+  -> [244a.5]རྫབ་ཀྱིས་མ་གོས་པས་ན་དོན་འདི་ལྟ་བུ་དག་འདྲི་ནུས་པ་ཡིན་ནོ། །རིགས་ཀྱི་བུ་ཁྱོད་ཡང་ཉོན་ཅིག །འདི་ལྟ་སྟེ། ཆོས་སོ་ཅོག་ཐམས་ཅད་ཡང་དག་པར་ན་དངོས་པོ་མེད་**དེ་།** ཡི་གེ་ཡོད་པའི་ཕྱིར་ཆོས་ཡོད་ཅེས་བཤད། ཆོས་ཀྱི་ནང་དུ་ཡི་གེ་མེད་ལ་ཡི་གེའི་ནང་དུ་ཡང་ཆོས་མེད་དོ། །
+067-tagged, l. 4201 (264a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 193 (13b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 319 (21a.7): punctuation: invalid shad sequence
+  -> [21a.7]རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། སུ་རེནྡྲ་བོ་དྷི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།ཤློ་ཀ་དགུ་བཅུ་རྩ་གཅི**ག ། །།**
+068-tagged, l. 321 (21b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 397 (26a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 399 (26a.7): punctuation: invalid end of line
+068-tagged, l. 454 (29b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 553 (36a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 691 (44b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 774 (49b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 822 (52b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 854 (54b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 863 (55a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 868 (55b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 870 (55b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 877 (56a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 891 (57a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 1211 (77a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 1255 (79b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+068-tagged, l. 2027 (128b.2): punctuation: invalid shad sequence
+  -> [128b.2]ལས་དག་གཅོད་བྱེད་**ལ། །།**དགེ་འདུན་སྤྱོད་ཡུལ་མི་སྤྱོད་པ། །དེ་ནི་དགེ་སློང་སངས་རྒྱས་གསུངས། །སྦྲུལ་གདུག་དང་ནི་ཏ་མྲ་དག །སྨིན་པ་ཟ་བ་ཉིས་ན་རུང་། །ཚུལ་ཁྲིམས་འཆལ་ན་དགེ་འདུན་གྱི། །བཟའ་བཏུང་སྤྱོད་པ་མི་རུང་ངོ་། །གང་
+068-tagged, l. 4503 (283a.6): punctuation: invalid shad sequence
+  -> [283a.6]ནས་ཀྱང་ལས་དེ་དང་རྒྱུ་འཐུན་པར་ཚེ་རབས་ལྔ་བརྒྱར་དུད་འགྲོ་སི་མི་སི་མི་རྣམས་ཀྱི་ནང་དུ་སྐྱེ་བར་འགྱུར་ཏེ། དེ་ལས་ཐར་ནས་ཀྱང་མི་རྣམས་ཀྱི་ནང་དུ་བྱ་རོག་ལྟར་དམན་པར་སྐྱེ་བར་འགྱུར་ཏེ། དེར་རྟག་ཏུ་ཁ་ཟས་སྙིང་**པོ་།** མེད་པ་ཟ་ཞིང་སྐོམ་ཡང་རྙོག་མ་ཅན་འཐུང་བར་འགྱུར་
+069-tagged, l. 2743 (172b.7): punctuation: invalid shad sequence
+  -> [172b.7]ལྔ་འབྱོར་ཅིང་ལྡན་པར་གྱུར་པ་རྣམས་ཀྱིས་ཡུན་རིང་དུ་འཁོད་དོ། །དེ་ལེགས་པར་བྱས་པའི་ལས་ཟད་ནས། དེ་ནས་ཡང་སླར་ལྟུང་**དོ་།** །དེས་སུམ་ཅུ་རྩ་གསུམ་གྱི་གནས་འདི་དག་ཀུན་དཔྱད་ནས། འདི་ལྟར་ཀུན་དགའ་ར་བའི་སྐྱེད་མོས་ཚལ་འདིར་དགའ་བའི་རྣམ་པ་འདི་ལྟ་བུ་གཞན་མ་
+069-tagged, l. 4535 (284b.7): punctuation: invalid shad sequence
+  -> [284b.7]གཏན་སྒྲའི་བྱ་བས་དབེན་པ་དང་། ང་རྒྱལ་ལྡོག་པ་དང་། འཇུག་པའི་སྤྱོད་པ་དང་། ཚོགས་པ་རྒྱུ་བ་ན་རྣམ་པར་རྒྱུ་བ་དང་། རང་གི་ཡུལ་བར་རྒྱུ་བ་དང་། རང་ལུས་ཀྱི་རྒྱགས་པ་དང་། ང་རྒྱལ་རྟགས་ཀྱི་གཟི་བརྗིད་དང་། སྐྱེད་མོས་ཚལ་གྱི་མཆོག་དང་། ནགས་ཚལ་གྱི་འོད་ཟེར་ཞེས་བྱ་བ་སྟེ་ས་ཉི་ཤུ་རྩ་བདུན་པོ་དེ་དག་**གོ།། །།**
+071-tagged, l. 3657 (230a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+071-tagged, l. 4705 (295b.1): punctuation: invalid shad sequence
+  -> [295b.1]འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་ནས་དོང་བར་གྱུར་ཏོ། །འཕགས་པ་རྡོ་འཕངས་པའི་མདོ་རྫོགས་སོ།། །།ལོཙྪ་བ་བཟང་སྐྱོང་གིས་བསྒྱུར། དཔལ་བརྩེགས་ཀྱིས་ཞུ་ཆེན་བགྱི**ས། །།**
+072-tagged, l. 403 (26b.3): punctuation: invalid shad sequence
+  -> [26b.3]པོར་འགྱུར་རོ་ཞེས་ལུང་བསྟན་ཏོ། །འདི་སྐད་ཅེས་ཀྱང་སྨྲས་**སོ། །།**གལ་ཏེ་དེ་ཡི་བཟང་པོ་གཟིགས་བཞེད་ན། །དེ་སླད་དགུང་བདུན་བར་དུ་སྲུངས་ཤིག་དང་། །མི་དབང་གདུགས་ནི་བདལ་བར་གྱུར་པ་ལྟའི། །རིན་ཆེན་སྣ་བདུན་འབྱུང་བར་ཐེ་ཙོམ་མེད། །ཁྱོད་སྲས་
+072-tagged, l. 1710 (108a.6): punctuation: invalid shad sequence
+  -> [108a.6]ལྟར་ཁམ་གྱི་ཟས་རིམ་གྱིས་ཟ་བ་མཐོང་ངོ་། །མཐོང་ནས་ཀྱང་དེ་རྣམས་ཀྱིས་ཀྱང་མཛུབ་མོའི་རྩེ་མོས་སའི་བཅུད་མྱང་བར་རྩོམ་སྟེ། ཇི་ལྟ་ཇི་ལྟར་མྱངས་པ་དེ་ལྟ་དེ་ལྟར་སྲེད་དོ། །ཇི་ལྟ་ཇི་ལྟར་སྲེད་པ་**དེ་།** ལྟ་དེ་ལྟར་ཁམ་གྱི་ཟས་རིམ་གྱིས་ཟའོ། །གང་གི་ཚེ་སེམས་ཅན་དེ་རྣམས་ཀྱིས་སའི་
+072-tagged, l. 1983 (125a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 2010 (127a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 2599 (163b.7): punctuation: invalid end of line
+072-tagged, l. 3239 (203b.7): punctuation: invalid shad sequence
+  -> [203b.7]པ་དེ་དག་ནི། །སྤྱན་ལྔ་དག་ཀྱང་ངེས་པར་འཐོབ་པར་འགྱུ**ར། །།**མི་རྣམས་གང་དག་དགེ་བའི་སེམས་ལྡན་པས། །རྒྱལ་བའི་མཆོད་རྟེན་གཞན་གྱིས་བྱས་པ་ལ། །རྗེས་སུ་ཡི་རངས་དོན་དེ་མ་བྱས་ཀྱང་། །མདོར་ན་དེ་དག་གིས་ཀྱང་བྱས་པར་འགྱུར། །ཚུལ་ཁྲིམས་ལྡན་པ་ཕྱོགས་
+072-tagged, l. 3302 (207b.6): punctuation: invalid end of line
+072-tagged, l. 4033 (253b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4051 (254b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4095 (257a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4119 (258b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4131 (259b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4141 (260a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4198 (263b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4269 (268a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4317 (271a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4367 (274a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4382 (275a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4412 (277a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+072-tagged, l. 4759 (298b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+073-tagged, l. 2772 (174b.4): punctuation: invalid end of line
+074-tagged, l. 2042 (129b.1): punctuation: possible wrong beginning of text: "མཛངས" should be "༄༅༅། །"
+074-tagged, l. 4746 (298b.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+075-tagged, l. 4569 (287a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+075-tagged, l. 4610 (289b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+075-tagged, l. 4641 (291b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+076-tagged, l. 2 (1a.1): punctuation: invalid visarga + tshek
+  -> [1a.1]༄༅། །མདོ་སྡེ་ཨཱཾ**ཿ་**ཞུགས་སོ།།
+076-tagged, l. 179 (12b.3): punctuation: invalid shad sequence
+  -> [12b.3]མི་འདི་བདེན་པས་བསྐུལ་བས་སྔོན་གྱི་ལུས་ཇི་ལྟ་བ་བཞིན་དུ་བཞག་**གོ།། །།**བསོད་ནམས་སྟོབས་ཀྱི་རྟོགས་པ་བརྗོད་པ་བམ་པོ་གཉིས་པ་སྟེ་ཐ་མ། །དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་མཆོག་ཏུ་ཡ་མཚན་དུ་གྱུར་ནས་བྲམ་ཟེའི་ཆ་ལུགས་མི་སྣང་བར་བྱས་ནས་རང་
+076-tagged, l. 1106 (70b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+076-tagged, l. 1354 (86a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+076-tagged, l. 3321 (209a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+076-tagged, l. 3437 (216a.5): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+076-tagged, l. 4481 (281b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+077-tagged, l. 18 (2b.2): punctuation: invalid shad sequence
+  -> [2b.2]ན་རྡོ་རྗེ་ཡིས། །དེ་བཞིན་གཤེགས་ལ་དེ་སྐད་དུ། །གསོལ་བཏབ་ཐལ་མོ་སྦྱར་བྱས་ཏེ། །ལུས་བཏུད་ནས་ནི་སྤྱན་སྔར་འདུག །གསོལ་བ་འདེབས་པའི་ཚིགས་སུ་བཅད་པ་བཅུ་དྲུག་**གོ།། །།**དེ་ནས་བཅོམ་ལྡན་ཤཱཀྱ་ཐུབ། །རྫོགས་པའི་སངས་རྒྱས་རྐང་གཉིས་
+077-tagged, l. 22 (2b.6): punctuation: invalid shad sequence
+  -> [2b.6]ཉོན། །བཅོམ་ལྡན་དེ་ནི་ལེགས་ཞེས་གསོལ། །ལན་གྱི་གསུང་ཚིགས་སུ་བཅད་པ་དྲུག་**གོ།། །།**དེ་ནས་བཅོམ་ལྡན་ཤཱཀྱ་ཐུབ། །གསང་སྔགས་མཐའ་དག་རིགས་ཆེན་པོ། །གསང་སྔགས་རིག་པ་འཆང་བའི་རིགས། །རིགས་གསུམ་ལ་ནི་རྣམ་པར་
+077-tagged, l. 201 (14a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+077-tagged, l. 363 (25a.1): punctuation: invalid end of line
+077-tagged, l. 377 (25b.7): punctuation: invalid end of line
+077-tagged, l. 389 (26b.3): punctuation: invalid end of line
+077-tagged, l. 396 (27a.2): punctuation: invalid end of line
+077-tagged, l. 460 (31a.2): punctuation: invalid end of line
+077-tagged, l. 481 (32a.7): punctuation: invalid end of line
+077-tagged, l. 526 (35a.4): punctuation: invalid end of line
+077-tagged, l. 630 (41b.4): punctuation: invalid end of line
+077-tagged, l. 661 (43b.3): punctuation: invalid end of line
+077-tagged, l. 673 (44a.7): punctuation: invalid end of line
+077-tagged, l. 692 (45b.2): punctuation: invalid end of line
+077-tagged, l. 721 (47a.7): punctuation: invalid end of line
+077-tagged, l. 749 (49a.3): punctuation: invalid end of line
+077-tagged, l. 757 (49b.3): punctuation: invalid end of line
+077-tagged, l. 775 (50b.5): punctuation: invalid end of line
+077-tagged, l. 860 (56a.2): punctuation: invalid end of line
+077-tagged, l. 886 (57b.4): punctuation: invalid end of line
+077-tagged, l. 892 (58a.2): punctuation: invalid end of line
+077-tagged, l. 960 (62a.6): punctuation: invalid end of line
+077-tagged, l. 1021 (66a.3): punctuation: invalid shad sequence
+  -> [66a.3]པར་འགྱུར། །ཨ་སོགས་དང་བཅས་ཧྲྃ་ཡིག་དྲུག་སྟེ་རོ་རྐང་ན་མཿསོགས་ཀྱི་དཔལ་ལྡན་ཡན་ལག་དྲུག་ཏུ་འགྱུ**ར། །།**ཕྲེཾ་གྱི་ཡི་གེ་སྣ་ཚོགས་ཡུམ་གྱིར་འགྱུར་ཏེ་རྣམ་བཅུ་བརྩེགས་པའི་སྔགས་ནི་རྒྱལ་བ་དག་གིའོ། ༨༢ །ཧཱུྃ་ཡིག་ཡེ་ཤེས་ས་བོན་སྙིང་པོ་དག་ཀྱང་བརྩེགས་པ་ཆེན་པོའི་སྔགས་ནི་ཞལ་དང་
+077-tagged, l. 1022 (66a.4): punctuation: invalid end of line
+077-tagged, l. 1031 (66b.5): punctuation: invalid end of line
+077-tagged, l. 1068 (69a.2): punctuation: invalid end of line
+077-tagged, l. 1132 (73a.2): punctuation: invalid end of line
+077-tagged, l. 1144 (73b.6): punctuation: invalid end of line
+077-tagged, l. 1173 (75b.3): punctuation: invalid end of line
+077-tagged, l. 1299 (83b.1): punctuation: invalid end of line
+077-tagged, l. 1319 (84b.5): punctuation: invalid end of line
+077-tagged, l. 1417 (90b.7): punctuation: invalid end of line
+077-tagged, l. 1421 (91a.3): punctuation: invalid end of line
+077-tagged, l. 1461 (93b.3): punctuation: invalid end of line
+077-tagged, l. 1472 (94a.6): punctuation: invalid end of line
+077-tagged, l. 1488 (95a.6): punctuation: invalid end of line
+077-tagged, l. 1496 (95b.6): punctuation: invalid shad sequence
+  -> [95b.6]རེངས་པར་བྱེད། །ཚ་བ་གསུམ་པོ་སྦྱར་བའི་སྡོང་བུ་སྲོག་ནི་རབ་ཏུ་འབབ་པར་དུག་མེད་བྱེད་ལ་སྦྱར་བྱས་ཏེ། །ཡང་ན་ཁ་ནི་རྣམ་པར་ཕྱེ་བའི་ལྕེའུ་ཆུང་ལ་སོར་མོ་ཡིས་ནི་ཊཾ་ག་ཎ་སྦྱར་བྱ། ༡༧༦ །ཛཱ་ཏཱི་བཛྲཱི་གཞོན་ནུ་ཚ་བ་གསུམ་དང་ལན་ཚྭ་ལངྒ་ལཱི་དང་དེ་བ་དཱ་ལི་དང**་། །།**བྲཧྨཱི་ཀྵཱ་རོ་ཨ་ཤྭ་གནྡྷ་ཉིན་མོར་
+077-tagged, l. 1510 (96b.4): punctuation: invalid end of line
+077-tagged, l. 1535 (98a.5): punctuation: invalid end of line
+077-tagged, l. 1583 (101a.5): punctuation: invalid end of line
+077-tagged, l. 1701 (108b.3): punctuation: invalid end of line
+077-tagged, l. 1729 (110a.7): punctuation: invalid end of line
+077-tagged, l. 1745 (111a.7): punctuation: invalid end of line
+077-tagged, l. 1872 (119a.6): punctuation: invalid end of line
+077-tagged, l. 1901 (121a.3): punctuation: invalid end of line
+077-tagged, l. 1911 (121b.5): punctuation: invalid end of line
+077-tagged, l. 2027 (129a.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+077-tagged, l. 2275 (144b.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+077-tagged, l. 2305 (146a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+077-tagged, l. 2373 (151b.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+077-tagged, l. 2531 (161a.7): punctuation: invalid end of line
+077-tagged, l. 3628 (230b.6): punctuation: invalid shad sequence
+  -> [230b.6]ཀུ་**རུ་།** བནྡྷ་བནྡྷ། ཏྲཱ་ས་ཡ་ཏྲཱ་ས་ཡ། ཀྵོ་བྷ་ཡ་ཀྵོ་བྷ་ཡ། ཧྲཽཾ་ཧྲཽཾ། ཧྲཿཧྲཿ། ཕེཾ་ཕེཾ། ཕཊ་ཕཊ། ད་ཧ་དཧ། པ་ཙ་པ་ཙ། བྷ་ཀྵ་བྷ་ཀྵ་པ་ས་རུ་དྷི་རཱ་ནྟྲ་མཱ་ལཱ་བ་ལཾ་བི་ནེ། གྲྀཧྣ་གྲྀཧྣ་ས་པྟ་པཱ་ཏཱུ་ལ་ག་ཏ་བྷུ་ཛཾ་ག་སརྦཾ་བཱ། །ཏརྫ་ཡ་ཏརྫ་ཡ། ཨཱཀ་ཌྷ་ཨཱཀ་ཌྷ། ཧྲཱིཾ་ཧྲཱིཾ། ཛྞཽཾ་ཛྞཽཾ། ཀྵླཾ་ཀྵླཾ། ཧཱཾ་ཧཱཾ། 
+077-tagged, l. 3863 (245b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [245b.1]གོ་མཱ་ཡུ་ནི་བསྲེག་བྱས་པས། །ཅི་བདེ་བར་ནི་འགྲུབ་པར་འགྱུར། །གོ་མཱ་ཡུ་ཡི་སྦྱིན་སྲེག་གིས། །མྱུར་དུ་ནོར་བདག་མཉམ་པར་འགྱུར། །བརྟུལ་ཞུགས་གཙང་སྦྲ་མེད་ན་ཡང་། །བསྟན་པའི་དངོས་གྲུབ་ཐོབ་པར་འགྱུར། །ལྷག་པའི་ཚེ་དང་ཀུཥྨཎྜཾ། །མུ**ཏྒ**་མཱ་ཥ་ཙ་ན་ཀ །སྦྲང་རྩི་གཙིགས་
+077-tagged, l. 4173 (264b.7): punctuation: invalid end of line
+077-tagged, l. 4792 (303b.2): punctuation: invalid shad sequence
+  -> [303b.2]ཨེ་ཨཻ། ཨོ་ཨཽ། ཨཾ་ཨཿ། ཌཱ་ཀི་ནཱི་ཛཱ་ལ་སམྦ་རྃ་ཧུྃ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨ་ཨཱ་ཨཾ་ཨཿཧུྃ་ཧཱུྃ་ཕཊ། །ཨོྃ་ཨ་ཨཱ་ཨཾ་ཨཿཧུཾ་ཧཱུྃ་ཕཊ། སྙིང་པོ་དང་ཉེ་བའི་སྙིང་པོའོ། །ཨོྃ་བཛྲ་ཝཱ་རཱ་ཧི། ཨ་ཨཱ། ཨི་ཨཱི། ཨུ་ཨཱུ། ཨེ་ཨཻ། ཨོ་ཨཽ། ཨཾ་ཨཿ། ཧུྃ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་བཛྲ་བཻ་རོ་ཙ་ནཱི་ཡེ། ཨ་ཨཱ། ཨཾ་ཨ**ཿ།ཧ**ུྃ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ལྷ་མོའི་སྙིང་
+078-tagged, l. 820 (52b.4): punctuation: invalid end of line
+error on line 820 tsheg not matching in parenthesis
+078-tagged, l. 994 (63b.2): punctuation: invalid shad sequence
+  -> [63b.2]ཐུན་ཕྱེད་ལྔ་དང་བདུན་པ་ལ། །བྱ་བ་ཅི་ཡང་མི་འགྲུབ་**བོ། །།**ཟླ་བ་ཡི་ནི་བཞི་དང་དྲུག །མིག་དམར་གྱི་ནི་གསུམ་དང་ལྔ། །གཟའ་ལག་གཉིས་དང་བཞི་པ་ལ། །གདོན་མི་ཟ་བར་འཇོམས་པར་འགྱུར། །བླ་མས་དང་པོ་གསུམ་པ་ལ། །འཆི་བ་ཉིད་དུ་འགྱུར་བ་ཡིན། །
+078-tagged, l. 1118 (71a.6): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [71a.6]མོ། །བདག་ཉིད་ཆེན་མོ་རྣམས་དང་ནི། །ཁྱད་པར་དུ་ཡང་སློབ་དཔོན་ལ། །རྟག་པར་བདག་ནི་སྐྱབས་སུ་མཆི། །ཨོཾ་པཉྩ་ཌཱ་ཀི་ནཱི་པཱུ་ཛོ་པ་སྭཱ་ནཱ་ཡ་ཨཱ་ཏྨཱ་ནཱཾ་ནི་རྱ་ཏ་ཡཱ་མི་ཧཱུྃ། སརྦྦ་ཨཱ་ཙཱ་ཪྻ་པཱུ་ཛོ་བ་སྭཱ་ནཱ་ཡ་ཨཱཏྨཱ་ནཱཾ་ནི་**རྻ**ཱ་ཏ་ཡཱ་མི་ཧཱུྃ། སརྦྦ་ས་ཏྭ་པ་རི་ཏྲཱ་ཎ་ཨ་རྠེ་ཨཱ་ཏྨ་ནཱཾ་ནིཪྻ་ཏ་
+078-tagged, l. 1553 (98b.1): punctuation: invalid shad sequence
+  -> [98b.1]གཞན་མི་ཐུབ། །ས་ཧ་དེ་བའི་སྨན་ཆེན་བཅས། །གསེར་དང་དངུལ་དང་མུ་ཏིག་དང**་། །།**མུ་མེན་བྱི་རུ་རིན་ཆེན་ལྔ། །ཏིལ་དང་ནས་དང་གྲོ་དང་ནི། །མོན་སྲན་གྲེའུ་དང་མུ་དགར་བཅས། །ག་བུར་ཙནྡན་དམར་པོ་སོགས། །སྨན་གྱི་ཆུ་ཡིས་དགང་བར་བྱ། །དེ་ལྟར་དམ་ཚིག་ཆེན་པོ་
+078-tagged, l. 1618 (102b.2): punctuation: invalid shad sequence
+  -> [102b.2]དྲུག་ཅུ་སྟེ། །བདུན་པོ་ཡལ་ག་འདབ་སོགས་བཅས། །ཚ་དང་ཁ་བ་བསྐམ་སྐྱེས་མཆོག །མངར་དང་སྐྱུར་བ་རླན་ཅན་བཟང**་། །།**ལན་ཚྭ་བསྐ་བ་གཉི་ག་འང་རུང་། །ནིམ་པ་བ་རུ་ར་དང་ནི། །ཨ་རུ་ར་ཡི་འབྲས་བུ་རྣམས། །མར་ནག་བསྐོལ་ན་བྱ་བ་བྱེད། །སྐྱུ་རུ་ར་ཁུས་
+078-tagged, l. 3506 (220b.2): punctuation: invalid shad sequence
+  -> [220b.2]པར་ཕཊ་ཡིག་གོ། །ཉི་ཤུ་དྲུག་པར་ཛ་ཡིག་སྦྱིན། །ཧཱུྃ་ཡིག་ཉི་ཤུ་བདུན་པར་རོ། །ཉི་ཤུ་བརྒྱད་པར་ཕཊ་ཡིག་སྟེ། །གྲི་ཡིག་ཉི་ཤུ་དགུ་པ་ལ**འོ། །།**སུམ་ཅུ་པ་ལ་བྷ་ཡིག་སྟེ། །སུམ་ཅུ་གཅིག་པར་ཧཱུྃ་ཡིག་གོ། །སུམ་ཅུ་གཉིས་པར་དེ་ཉིད་སྦྱིན། །ཧཱུྃ་ཡིག་སུམ་ཅུ་གསུམ་པར་
+078-tagged, l. 4690 (294b.2): punctuation: invalid shad sequence
+  -> [294b.2]གྱིས་ནི་བདེ་ཀུན་སྟེར། །མེས་ནི་འདོད་དོན་དངོས་གྲུབ་ས**ྟེ། །།**རབ་འདོད་ལྷས་ནི་གྲོལ་བར་སྩོལ། །ལྷག་མ་ལས་ཀྱི་རྗེས་མཐུན་པར། །ཞི་སོགས་ལས་བྱས་ཤེས་པར་བྱ། །དགང་གཟར་ཤེས་རབ་བླུགས་གཟར་ཐབས། །དེ་གཉིས་སྦྱར་བ་གཉིས་མེད་བསྒོམ། །དེ་ལས་ངེས་
+078-tagged, l. 4692 (294b.4): punctuation: invalid shad sequence
+  -> [294b.4]པའོ།། །།དེ་ནས་ལས་ནི་རབ་འབྱམ་འབྱུང་། །དངོས་གྲུབ་སྣ་ཚོགས་གོ་འཕང་སྔགས། །སྣ་ཚོགས་ལས་ཀྱི་འབྲས་འབྱུང་བ། །ཡང་དག་པར་ནི་རབ་ཏུ་བཤད། །ཨོཾ་ན་མཿཤྨ་ཤཱ་ན་པཱ་སི་**ནེ་།** མ་ཧཱ་ཀཱ་ལ་ཨ་ནུ་ཙཱརྻ། ཏདྱ་ཐཱ། ཨོཾ་ཙ་ལ་པྲ་ཙ་ལ། ལཱ་
+078-tagged, l. 4692 (294b.4): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [294b.4]པའོ།། །།དེ་ནས་ལས་ནི་རབ་འབྱམ་འབྱུང་། །དངོས་གྲུབ་སྣ་ཚོགས་གོ་འཕང་སྔགས། །སྣ་ཚོགས་ལས་ཀྱི་འབྲས་འབྱུང་བ། །ཡང་དག་པར་ནི་རབ་ཏུ་བཤད། །ཨོཾ་ན་མཿཤྨ་ཤཱ་ན་པཱ་སི་ནེ་། མ་ཧཱ་ཀཱ་ལ་ཨ་ནུ་ཙཱ**རྻ**། ཏདྱ་ཐཱ། ཨོཾ་ཙ་ལ་པྲ་ཙ་ལ། ལཱ་
+079-tagged, l. 785 (50b.1): punctuation: invalid shad sequence
+  -> [50b.1]གཟུང**་། །།**དོན་ཀུན་རྣལ་འབྱོར་ཀུན་གྱིས་ནི། །མཛེས་པར་སྐུ་གཟུགས་མཆོད་པར་བྱ། །ཤ་དང་ཆང་དག་རབ་ཏུ་བཀང་། །རོ་ཡི་སྟེང་དུ་ཡང་དག་གནས། །པར་པ་ཊི་ཀཱ་ཤཾ་ཀུ་ལི། །མཆོད་པ་ཀུན་གྱིས་དགྱེས་པར་བྱ། །མེ་ཏོག་སྤོས་དང་མར་མེ་དང་། །དྲི་ཉིད་དང་ནི་
+079-tagged, l. 852 (54b.4): punctuation: invalid shad sequence
+  -> [54b.4]སེར་པོར་ལྡན། །གྲུ་བཞི་པ་ལ་རྡོ་རྗེས་མཚན། །འོད་ཟེར་སེར་པོའི་ཚོགས་འཁྲུགས་པའོ། །དེ་སྟེང་རྣལ་འབྱོར་པ་བསྒོམས་པ། །རི་ཡི་རྒྱལ་པོ་རི་རབ་མཆོག །ཟུར་བཞི་རིན་ཆེན་བཞི་རང་བཞིན། །རྩེ་མོ་བརྒྱད་ཀྱིས་ཉེ་བར་མཛེ**ས། །།**སུཾ་ལས་བྱུང་བ་བཟང་
+079-tagged, l. 1115 (71a.3): punctuation: possible wrong beginning of text: "དུར་" should be "༄༅༅། །"
+079-tagged, l. 1533 (97a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [97a.5]འདི་ཡི་སྔགས་ཀྱིས་ནི། །བྱང་ཆུབ་སེམས་ནི་སྐྱེད་པར་བྱེད། །ཨོཾ་བོ་དྷི་ཙིཏྟ་ཨུ**ཏྦ**ཱ་ད་ཡཱ་མི། བྱས་པའི་རྗེས་སུ་རིམ་འབྱུང་བ། །སེམས་ཅན་རྗེས་སུ་འཛིན་པ་པོ། །དགེ་བའི་ཆོས་ཀྱིས་ཡང་དག་གང་། །ཉོན་མོངས་ཐམས་ཅད་ངེས་པར་གནོན། །ཟླ་
+079-tagged, l. 2450 (154b.2): punctuation: invalid end of line
+079-tagged, l. 2519 (158b.7): punctuation: possible wrong beginning of text: "དེ་ན" should be "༄༅༅། །"
+079-tagged, l. 3974 (249b.6): punctuation: possible wrong beginning of text: "༄༅༅།" should be "༄༅༅། །"
+080-tagged, l. 197 (13b.5): punctuation: possible wrong beginning of text: "རྡོ་" should be "༄༅༅། །"
+080-tagged, l. 345 (23a.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [23a.1]ཅན་རྣམས་ཀྱི་སྲོག་བསྲུང་ཕྱིར། །རྡོ་རྗེ་སེམས་དཔས་གཏོར་མ་བསྟན། །ཨོཾ་ཨིནྡ་ཛ་མ་ཛ་ལ་ཛ་ཀླ། བྷུ་ཏ་བ་ཧྣི་བཱ་ཨུ་རཀྑ་ཙནྡ་སུཛྫ་མཱད་བ**པྦ**་ཏ་ལ་པཱ་ཏཱ་ལེ་ཨཊྛ་ས་པྦ་སྭཱ་ཧཱ། ཨི་དམ་བ་ལིང་བྷུཉྫ་ཛི་གྷ་ཕུལླ་དྷུཔྤ་མཱཾ་ས་བིཾ་གྷ། ཨམྦྷ་སབྦ་ཀཛྫ་སཱ་དྷ་ཁནྟི་ཁུ་ཎི་པེ་ཌ་གཱ་དེ། ཨོཾ་
+080-tagged, l. 345 (23a.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [23a.1]ཅན་རྣམས་ཀྱི་སྲོག་བསྲུང་ཕྱིར། །རྡོ་རྗེ་སེམས་དཔས་གཏོར་མ་བསྟན། །ཨོཾ་ཨིནྡ་ཛ་མ་ཛ་ལ་ཛ་ཀླ། བྷུ་ཏ་བ་ཧྣི་བཱ་ཨུ་རཀྑ་ཙནྡ་སུཛྫ་མཱད་བཔྦ་ཏ་ལ་པཱ་ཏཱ་ལེ་ཨཊྛ་ས་**པྦ**་སྭཱ་ཧཱ། ཨི་དམ་བ་ལིང་བྷུཉྫ་ཛི་གྷ་ཕུལླ་དྷུཔྤ་མཱཾ་ས་བིཾ་གྷ། ཨམྦྷ་སབྦ་ཀཛྫ་སཱ་དྷ་ཁནྟི་ཁུ་ཎི་པེ་ཌ་གཱ་དེ། ཨོཾ་
+080-tagged, l. 1031 (65b.7): punctuation: invalid shad sequence
+  -> [65b.7]འཕགས་པ་མཁའ་འགྲོ་མ་དྲ་བའི་རྡོ་རྗེ་གུར་རྒྱུད་ཀྱི་རྒྱལ་པོའི་བརྟག་པ་རྫོགས་**སོ། །།**རྒྱ་གར་གྱི་མཁན་པོ་ག་ཡ་དྷ་ར་དང་། ལོ་ཙྪ་བ་དགེ་སློང་ཤཱཀྱ་ཡེ་ཤེས་ཀྱིས་བསྒྱུར་བའོ། །
+080-tagged, l. 1526 (96b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+080-tagged, l. 2654 (167a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+080-tagged, l. 2714 (171a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+080-tagged, l. 2794 (176a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+080-tagged, l. 3251 (204b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [204b.3]ལག་པ་སྙིང་གར་རེག་བྱེད་ན། །ད་ནི་ང་ཡི་ཡིད་འོང་བའོ། །རུ་ཙ་ཊ་བ་ཏ། སྣ་རྩེར་ཁུ་ཚུར་འཆང་བ་ནི། །མེད་དོ་ཞེས་ནི་སྟོན་པའོ། །ཤཱུནྱ་ཏཱ། ལག་པ་བརྐྱང་སྟེ་ལྟོར་བརྡེབས་ན། །ཕུན་སུམ་ལྡན་པར་ཡོད་ཞེས་པའོ། །བི**པྡ**ྷ་ཀ་སི་ཌ། ལྟེ་བ་རུ་
+080-tagged, l. 4133 (259b.5): punctuation: invalid end of line
+080-tagged, l. 4204 (264a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [264a.4]རཀྵ་དུཀྵ་བན་དྷ་ཡ་ཧཱུྃ་ཕཊ། ཤར་ཕྱོགས་ཀྱི་སྒོར་ཞི་བ་ཡིའོ། །ཨོྃ་ཨཱ་ཀརྵ་ཡ་ས་ཏྭ་དྷཱ་ཏུ་ནཱྃ་ཀྲོ་སྭཱ་ཧཱ། བྱང་དུ་རྒྱས་པ་ཡིའོ། །ཨོྃ་མོ་ཧ་ཡ་མོ་ཧ་ཡ། །སརྦ་ས་ཏྭཱ་ནཱྃ་ཤྲཱི་སྭཱ་ཧཱ། ནུབ་ཏུ་དབང་གིའོ། །ཨོཾ་ཤཀྵ་སརྦ་དུཥྚ་**ཀྡ**ཱ་ཏ་ཡ་ཧྲི་ཕཊ། ལྷོ་རུ་མངོན་
+080-tagged, l. 4501 (282b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [282b.5]མ**ཀྒ**་ཡི་ནི་རང་དོན་དང་། །ཁྱུ་མཆོག་པུ་མ་པ་ཀརྐ་ཊ། །མི་དང་ཆུ་སྲིན་སྤང་གིས་ཁྱབ། །དེ་ནི་དུད་པ་ས་ཡི་དངོས། །དགུན་གྱི་དབུས་སུ་སྔ་མ་བཞིན། །ལག་མཐིལ་སེན་མོའི་ཚོགས་དང་ནི། །ངེས་པར་དེ་བཞིན་མཆན་ཁུང་དང་། །མགྲིན་པ་མཆུ་དང་
+080-tagged, l. 4849 (304b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+081-tagged, l. 177 (12b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+081-tagged, l. 2505 (158a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+081-tagged, l. 3809 (239b.1): punctuation: invalid shad sequence
+  -> [239b.1]བྱས་པའི། །ཡང་དག་གནས་ཀྱི་དབྱེ་བ་དང་། །ལྷ་མོ་རྟག་ཏུ་རྣལ་འབྱོར་པས། །བདག་ལ་བྱིན་རླབས་གོ་འཕང་གནས། །འདོད་པ་ལྔ་ལ་ལོངས་སྤྱོད་ཅིང་། །རབ་ཏུ་འབད་དེ་མཆོད་པ་བ**ྱ། །།**རྡོ་ཤིང་ས་ཡི་རང་བཞིན་གྱི། །ཕྱི་རོལ་ལྷ་ལ་ཕྱག་མི་བྱ། །བདག་ལ་བྱིན་རླབས་རིམ་དེ་
+081-tagged, l. 4073 (256a.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [256a.1]ཡ་ཏི། །ཀཱ་ཡ་བཱཀྩིཏྟ་བཛྲ་དང་། །ཀཱི་ལ་ཡ་ཧཱུྃ་ཕཊ་ཡི་གེའི། །མཐའ་ཅན་གྱི་ནི་ཕུར་བུས་གདབ། །ཨོྃ་དང་བཛྲ་མུ**ཏྒ**་ར། །བཛྲ་ཀཱི་ལ་ཡ་ཨཱ་ཀོ་ཊ། །ཡ་དང་ཧཱུྃ་གཉིས་ཕཊ་མཐའ་དང་། །སྔགས་དང་ཕུར་བུས་བརྡུང་བ་བརྗོད། །དེ་རྗེས་བགེགས་ནི་
+081-tagged, l. 4102 (257b.6): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [257b.6]འདི་ནི་དོན་ཀུན་སྒྲུབ་བྱེད་པ། །ཨོྃ་བྲཧྨ་དེ་བ་ཏཱ་སརྦ། ཨིནྡྲ་ད་ཤ་ལོ་ཀ་རཀྵ་ཀ། ནཱ་ག་གན་དྡརྦྦ་ཀུཾ་བྷཱཎྜ། ཡཀྵ་བྷཱུ་ཏ་ག་ཎཱཿ། ཏ་ཐཱ་བྲེ་ཏ་ཨུཏྒ་ཏ། པི་ཤཱ་ཙི་ཨ་པ་སྨཱ་ར། ཌཱ་ཀི་ནཱི་གྲ་ཧ། །བིགྷྣཱཾ་མཱ་ཏྲྀ་ག་ཎཱ། སརྦྦ་ཏ་ཐཱ་ག་ཏ་ཨག་ནི་མ་ར་གྲ་ཧཱ། །ཨོྃ་ཛོ་བྷཀྵ་མ་ཧཱ་ཏེ་ཛ། མ་ནུ**ཥྲྱ**ནཱ་མ། བི་ཧིཾ་
+081-tagged, l. 4102 (257b.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [257b.6]འདི་ནི་དོན་ཀུན་སྒྲུབ་བྱེད་པ། །ཨོྃ་བྲཧྨ་དེ་བ་ཏཱ་སརྦ། ཨིནྡྲ་ད་ཤ་ལོ་ཀ་རཀྵ་ཀ། ནཱ་ག་གན་དྡརྦྦ་ཀུཾ་བྷཱཎྜ། ཡཀྵ་བྷཱུ་ཏ་ག་ཎཱཿ། ཏ་ཐཱ་བྲེ་ཏ་ཨུ**ཏྒ**་ཏ། པི་ཤཱ་ཙི་ཨ་པ་སྨཱ་ར། ཌཱ་ཀི་ནཱི་གྲ་ཧ། །བིགྷྣཱཾ་མཱ་ཏྲྀ་ག་ཎཱ། སརྦྦ་ཏ་ཐཱ་ག་ཏ་ཨག་ནི་མ་ར་གྲ་ཧཱ། །ཨོྃ་ཛོ་བྷཀྵ་མ་ཧཱ་ཏེ་ཛ། མ་ནུཥྲྱནཱ་མ། བི་ཧིཾ་
+081-tagged, l. 4270 (268a.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [268a.6]མེད་པས་བསྟན་པར་བྱ། །རབ་མཆོག་དེ་ཡི་དངོས་གྲུབ་ནི། །ཐོབ་པར་འདི་ལ་ཐེ་ཚོམ་མེད། །ལྷག་མའི་གཏོར་མ་བླངས་ནས་ནི། །དགོན་པ་ཆེན་པོར་སོང་ནས་དོར། །[**ཀྡ**ྨཱིཾ་]ཨུ་ཙྪིཥྚ་ཀྵེ་ཏཱ་པཱ། །ལཱ་ཡ་སྭཱ་ཧཱ་སྔགས་བརྗོད་བྱ། །གལ་ཏེ་དེ་ལྟར་རབ་བྱེད་པའི། །རྣལ་
+081-tagged, l. 4363 (274a.3): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [274a.3]བཛྲ་དཾཥྚྲི་ཀིཉྩི་རཱ་ཡ་སི་ཨི་དཾ་དུཥྚ་གྲ་ཧཾ་དཾཥྚ་སརྦྦཾ་བཱ། དྷུ་ན་དྷུ་ན། མཱ་ཐ་མཱ་ཐ། མརྡ་མརྡ། བུདྡྷ་དྷརྨ་ར་དྷ། བུདྡྷ་དྷརྨ་སཾ་གྷ་ཨ་ནུ་ཛྙཱ་ན་ཀ**རྻ**ཾ་ཀུ་རུ་སྭཱ་ཧཱ། ཆེ་གེ་མོའི་དུག་ལ་སོགས་པ་སེལ་བར་མཛོད་ཅིག་ཧཱུྃ་ཞེས་བྱ་བ་དང་སྔགས་སྤེལ་ལོ། །རྩ་བའི་རྒྱུད་ཀྱི་རྗེས་འབྲངས་ཏེ། །
+081-tagged, l. 4419 (277b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+081-tagged, l. 4489 (282a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+081-tagged, l. 4561 (286b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+081-tagged, l. 4623 (290a.7): punctuation: invalid end of line
+081-tagged, l. 4700 (295a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+081-tagged, l. 4738 (297b.2): punctuation: invalid end of line
+082-tagged, l. 1493 (94b.5): punctuation: invalid shad sequence
+  -> [94b.5]འགྲུབ་སྟེ། །སངས་རྒྱས་ཡེ་ཤེས་རང་ཉིད་ཀྱང་། །དེ་བཞིན་གཤེགས་པའི་གསང་བ་རྡོ་རྗེ་སེམས་དཔའ་མཉེས་པར་བྱེད་པའི་ལེའུ་སྟེ་བཅྭ་བརྒྱད་པ་རྫོགས་སོ**།།།**།དེ་ནས་བཅོམ་ལྡན་འདས་རྣམ་པར་སྣང་མཛད་ཆེན་པོས་སྔགས་ཐམས་ཅད་ཀྱི་
+082-tagged, l. 1606 (101b.6): punctuation: invalid shad sequence
+  -> [101b.6]ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རྡུལ་ཕྲ་རབ་ཀྱི་ཆ་ཤས་སུ་གྱུར་པ་གཞིའི་སེམས་ཅན་རྣམས་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་རོ། །དེ་བཞིན་དུ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཕྱག་ན་རྡོ་རྗེའི་ཚུལ་འདི་བལྟ་བར་བྱ**འོ་།** །དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་དེ་
+082-tagged, l. 3207 (201b.7): punctuation: invalid shad sequence
+  -> [201b.7]འཛིན་ལ་སྙོམས་པར་ཞུགས་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་འདི་གསུངས་སོ། །མངལ་ལས་སྐྱེ་དང་སྒོ་ང་དང་། །རྫུས་ཏེ་སྐྱེས་དང་དྲོད་གཤེར་ལས། །སྐྱེ་བའི་སེམས་ཅན་མ་དམིགས་པས། །སེམས་ཅན་སྤྱོད་པ་མི་དམིགས་**སོ་།** །ཞེས་གསུངས་སོ། །དེ་ནས་དེ་བཞིན་གཤེགས་པ་མི་ཟད་པའི་ཡེ་ཤེས་
+082-tagged, l. 4251 (267a.3): punctuation: invalid shad sequence
+  -> [267a.3]ཤུགས་ཀྱིས་དོར་བ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྨོན་ལམ་རྣམ་པར་དག་པ་རྡོ་རྗེའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་འདི་གསུངས་སོ། །གཞི་མེད་ཐ་དད་མེད་པ་དང་། །དམ་ཆོས་རྒྱ་མཚོ་ཚད་མེད་པས། །རྣམ་པར་སྤྲོས་པ་ཡང་མེད་**དེ་།** །དག་པ་
+082-tagged, l. 4364 (274a.4): punctuation: invalid shad sequence
+  -> [274a.4]འབྱུང་བ་རྡོ་རྗེའི་ཏིང་ངེ་འཛིན་འདི་བསྟན་པའོ། །དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་ཀུན་དུ་བཟང་པོ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཐམས་ཅད་ཀྱི་ཡེ་ཤེས་མངོན་པར་རོལ་པ་འབྱུང་བའི་རྒྱལ་པོ་འདི་བསྟན་**ཏོ། །།**སྐྱེས་བུ་ལ་ལ་བསོད་ནམས་ལྡན་གྱུར་པས། །གཏེར་གྱི་
+083-tagged, l. 34 (3b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 108 (8a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 174 (12a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 221 (15a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 465 (30b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 564 (36b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 617 (40a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 1031 (65b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 1065 (68a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 1087 (69a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 1481 (94a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 3075 (193b.3): punctuation: invalid shad sequence
+  -> [193b.3]**དུ། །།**སློབ་མའི་ཁར་ཡང་བླུད་པར་བྱ། །གཤིན་རྗེ་གཤེད་ཀྱིས་རབ་ཏུ་གསུངས། །སེམས་ནི་རབ་ཏུ་དགའ་བ་ཡིས། །རྡོ་རྗེ་སློབ་མ་བདག་ཉིད་ཆེ། །དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་སྐུ་གསུང་ཐུགས་གཤིན་རྗེ་གཤེད་དམར་པོའི་རྒྱུད་ལས་སྔགས་ཀྱིས་འགུགས་པ་
+083-tagged, l. 3345 (210b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [210b.1][དྱ་ནུ**ཏྦ**་ནྣ་ཏྭཱ]ཏ། དཔལ་ལྡན་གཤིན་རྗེ་མཐར་བྱེད་གཟུགས། །སློབ་མ་རྣམ་པར་སྣང་མཛད་བྱ། །ཡེ་ཤེས་ཐིག་མཆོག་རྩེ་དག་གཟུང་། །མཉམ་གཞག་ནས་ནི་ལེགས་པར་གདབ། །དེ་ལ་འདི་ནི་དཀྱིལ་འཁོར་ཆེན་པོར་རབ་ཏུ་འཇུག་པའི་དམ་ཚིག་གོ། །ཨོཾ་ཨཱཿཧཱུྃ། དཀྱིལ་འཁོར་
+083-tagged, l. 3895 (244b.7): punctuation: invalid shad sequence
+  -> [244b.7]གདན་ས་གནས་གསར་དགོན་པར་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།རྒྱུད་འདི་འགྱུར་ལས་འབད་པའི་བསོད་ནམས་ཀྱིས། །ནག་པོའི་རྩ་ལག་མ་ལུས་ཀུན་བཅོམ་སྟེ། །བསྟན་པའི་བྱ་བ་ཡིད་བཞིན་འགྲུབ་པ་དང་། །མཐར་ཐུག་འཇམ་པའི་རྡོ་རྗེ་ཉིད་གྱུར་ཅི**ག།། །།**
+083-tagged, l. 3914 (246a.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [246a.2]ཨཱཿཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿབཛྲ་བ་ལ་ཨཱཿཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿབཛྲ་རཱུ་པ་ཎི་ཀ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿབཛྲ་ཤ**པྡ**་ཙ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿབཛྲ་གནྡྷ་ཊ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿར་ས་ཏ་བཛྲ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿབཛྲ་སྥརྵ་པ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿབཛྲ་དྷརྨ་ཡ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿབཛྲ་ཀྵི་ཏྲ་ཤ་ཧཱུྃ་
+083-tagged, l. 3940 (247b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+083-tagged, l. 5301 (332b.5): invalid: invalid vowel duplication (use 0F7D and 0F7B when relevant)
+  -> [332b.5]ཡང་ན་ཏཱ[མ**ཱཱ**ུ]ལ་ཡིས་རྡུལ་དང་བྲལ་བར་འགྱུར་རོ། །ཤིང་སྣུ་ཧིའི་ལོ་མ་དང་། མརྐ་ཊའི་ས་བོན་དང་། ཤིང་སྲིན་གྱི་ཕྱེ་མ་བུ་རམ་དང་ལྷན་ཅིག་ཟོས་པ་ལས་ཁྲག་ལྟུང་ངོ་། །ཏེའུ་ལོའི་ཕྱེ་མས་རྟའི་སྣ་ལ་བཀུས་ན་ཟས་མི་བྱེད་དོ། །ཙནྡན་གྱིས་བཀྲུས་པ་ལས་ཐར་རོ། །ཤིང་ཀེ་ཏ་ཀཱིའི་
+084-tagged, l. 430 (28a.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [28a.6]ཏཏྤ་ར་ཨུ་**ཏྒ**ྷ་ཊ། ཡ་ཏི་སརྦྦཱ་ཀྵོ་བཛྲ་ཙཀྵུ་ཨ་ནུཏྟ་རཾ་ཧེ་བཛྲ་པཱ་ཤྱ། དེ་ནས་དཀྱིལ་འཁོར་ཆེན་པོ་རིམ་པ་བཞིན་དུ་བསྟན་ཏོ། །དཀྱིལ་འཁོར་ཆེན་པོ་མཐོང་མ་ཐག་ཏུ་ཡང་། དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱིས་བྱིན་གྱིས་བརླབས་པར་འགྱུར་རོ། །རྡོ་རྗེ་སེམས་དཔའ་ཡང་དེའི་སྙིང་ག་
+084-tagged, l. 1153 (73b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [73b.1]ན་རྡོ་རྗེ་ལ་ཕུལ་ལོ། །ཨོཾ་བཛྲ་ཨཾ་ཀུ་ཤ་ཨཱ་ཀརྵ་ཡ། སརྦཾ་མ་ཧཱ་ཙིཏྟ་ཧཱུྃ་ཕཊ། དེ་ནས་རྡོ་རྗེ་དུས་ཀྱིས་རང་གི་སྙིང་པོ་ཕུལ་བ། ཨོཾ་བཛྲ་ཀཱ་ལ་མ་ཧཱ་མྲྀ་ཏྱུ་མུ**ཏྦ**ཱ་ད་ཧཱུྃ་ཕཊ། དེ་ནས་རྡོ་རྗེ་ངན་ཁྲིད་ཀྱིས་རང་གི་སྙིང་པོ་ཕུལ་བ། ཨོཾ་བཛྲ་བི་ནཱ་ཡ་ཀ་སྱ་བིགྷྣན་ཀུ་རུ་ཧཱུྃ་ཕཊ། དེ་ནས་རྡོ་རྗེ་ཀླུའི་རྡོ་རྗེས་རང་གི་སྙིང་
+084-tagged, l. 1241 (79a.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [79a.1]མོས་རང་གི་ལས་ཀྱི་དམ་ཚིག་འདི་སྨྲས་སོ། །ཨོཾ་བཛྲ་ཧེ་མ་ཙྪིནྡ་ཙཀྲེ་ཎ་བཛྲི་ཎི་ཧཱུྃ་ཕཊ། དེ་ནས་རྡོ་རྗེ་གཞོན་ནུ་མས་རང་གི་ལས་ཀྱི་དམ་ཚིག་འདི་སྨྲས་སོ། །ཨོཾ་བཛྲ་ཀུ་མཱ་རི་ཤཱི་གྷྲཾ་ཨཱ་བེ་ཤ་ཡ་གྷཎྚཱ་ཤ**པྡ**ེ་ན་བཛྲ་བཱ་ཎི་པྲི་ཡེ་བཛྲ་ས་མ་ཡེ་མ་ནུ་སྨར་ཎ་ཧཱུྃ་ཕཊ། དེ་ནས་ལྷ་མོ་ཆེན་མོ་རྡོ་
+084-tagged, l. 1314 (83b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [83b.2]པྲ་བེ་ཤ་ཡ་བནྡྷ་ཡ་ཨཱ་བེ་ཤ་ཡ་སརྦ་ཀརྨ་སིདྡྷི་མེ་པྲ་ཡཙྪ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་ཧཱུཾ། ཨོཾ་བ་ཡ་ན་དྷ་ཏ་ད་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་རཀྵ་བནྡྷ་ཡ་ཀ་བཙེ་ས་མ་ཡེ་ཧཱུྃ། ཨོཾ་མ་ཧཱ་པྲ་ཙཎྚེ་བི་ཤྭ་རཱུ་པ་ཙི་ཀ །པདྨ་དཾཥྚ་ཨཱ་ཀ་རཱ་ལ་བི་ཤྭན་བཛྲ་ཧྲྀ་ད་ཡ་སརྦ་པདྨ་ཡཀྵ་ཁཱ་ད་ཁཱ་ད་དྷི་**ཀྡ**ྷི་ཀྡྷི་ཀྡྷི་ཀེ །ཨོཾ་པདྨ་མུཥྚི་
+084-tagged, l. 1314 (83b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [83b.2]པྲ་བེ་ཤ་ཡ་བནྡྷ་ཡ་ཨཱ་བེ་ཤ་ཡ་སརྦ་ཀརྨ་སིདྡྷི་མེ་པྲ་ཡཙྪ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་ཧཱུཾ། ཨོཾ་བ་ཡ་ན་དྷ་ཏ་ད་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་རཀྵ་བནྡྷ་ཡ་ཀ་བཙེ་ས་མ་ཡེ་ཧཱུྃ། ཨོཾ་མ་ཧཱ་པྲ་ཙཎྚེ་བི་ཤྭ་རཱུ་པ་ཙི་ཀ །པདྨ་དཾཥྚ་ཨཱ་ཀ་རཱ་ལ་བི་ཤྭན་བཛྲ་ཧྲྀ་ད་ཡ་སརྦ་པདྨ་ཡཀྵ་ཁཱ་ད་ཁཱ་ད་དྷི་ཀྡྷི་**ཀྡ**ྷི་ཀྡྷི་ཀེ །ཨོཾ་པདྨ་མུཥྚི་
+084-tagged, l. 1314 (83b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [83b.2]པྲ་བེ་ཤ་ཡ་བནྡྷ་ཡ་ཨཱ་བེ་ཤ་ཡ་སརྦ་ཀརྨ་སིདྡྷི་མེ་པྲ་ཡཙྪ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་ཧཱུཾ། ཨོཾ་བ་ཡ་ན་དྷ་ཏ་ད་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་རཀྵ་བནྡྷ་ཡ་ཀ་བཙེ་ས་མ་ཡེ་ཧཱུྃ། ཨོཾ་མ་ཧཱ་པྲ་ཙཎྚེ་བི་ཤྭ་རཱུ་པ་ཙི་ཀ །པདྨ་དཾཥྚ་ཨཱ་ཀ་རཱ་ལ་བི་ཤྭན་བཛྲ་ཧྲྀ་ད་ཡ་སརྦ་པདྨ་ཡཀྵ་ཁཱ་ད་ཁཱ་ད་དྷི་ཀྡྷི་ཀྡྷི་**ཀྡ**ྷི་ཀེ །ཨོཾ་པདྨ་མུཥྚི་
+084-tagged, l. 2337 (147b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [147b.1]སྤངས་པའི། །དག་པ་ཡི་ནི་སྙིང་པོ་འདིས། །ཟླ་བའི་དཀྱིལ་འཁོར་དབུས་སུ་ནི། །བྱང་ཆུབ་ཀྱི་ནི་སེམས་ལ་རྟོགས། །ཨོཾ་བོདྷི་ཙིཏྟ་ཨུ**ཏྦ**ཱ་ད་ཡཱ་མི། སྙིང་པོ་དག་པ་བླངས་ནས་ནི། །སེམས་ཀྱི་དབུས་སུ་རྟོག་པ་ན། །ཟླ་བའི་དབུས་སུ་ཡང་ཟླ་བའི། །དཀྱིལ་འཁོར་གཉིས་པ་མཐོང་བ་ནི། །
+084-tagged, l. 2516 (158b.4): punctuation: invalid end of line
+084-tagged, l. 3991 (250b.7): punctuation: invalid end of line
+085-tagged, l. 137 (10a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+085-tagged, l. 199 (13b.7): punctuation: invalid end of line
+085-tagged, l. 913 (58b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+085-tagged, l. 1060 (67b.4): punctuation: invalid shad sequence
+  -> [67b.4]མེད་ན་ནི། །སྡིག་ཅན་དེ་དག་མི་ཐར་ཞེས། །བདེར་གཤེགས་རྒྱལ་བ་ཉིད་ཀྱིས་གསུང**ས། །།**དེ་ནས་བརྒྱ་བྱིན་ལ་སོགས་ལྷ། །པདྨ་ལྟ་བུའི་མིག་ཕྱེ་ནས། །ལེགས་ཞེས་བྱ་བས་མཉེས་བྱས་ཏེ། །རབ་ཏུ་མགུ་བས་མཆོད་བྱས་ནས། །བརྒྱ་བྱིན་གཞན་ལ་ཕན་བརྩོན་པས། །
+085-tagged, l. 1515 (96a.3): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+085-tagged, l. 1603 (101b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [101b.3]པ་དང་། འདིས་ཕྱག་བྱའོ། །ཨོྃ་སརྦ་བིདྱ་ཀཱ་ཡ་བཱ་ཀྩིཏྟ་པྲ་ཎ་མེ་ན་བཛྲ་བནྡ་ནཾ་ཀ་རོ་མི་ཞེས་པའོ། །དེ་ནས་ཕྱག་བཞི་བྱ་བ་སྟེ་འདི་ལྟར་ལུས་ཐམས་ཅད་ཀྱིས་དང་། རྡོ་རྗེ་ཐལ་མོ་བརྐྱང་བས་ཤར་ཕྱོགས་སུ་ཕྱག་བྱས་ཏེ། ཨོྃ་སརྦ་བི**ཏྦ**ཱུ་ཛོ་པ་སྠཱ་ནཱ་ཡཱ་ཏྨཱ་ནཾ་ནིཪྻཱ་ཏ་ཡཱ་མི། སརྦ་ཏ་ཐཱ་ག་ཏ་བཛྲ་
+085-tagged, l. 1613 (102a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [102a.5]བི**ཏྦ**ུ་ཥྤ་པཱུ་ཛཱ་མེ་གྷ་ས་མུ་དྲསྥ་ར་ཎ་ས་མ་ཡེ་ཧཱུྃ་ཞེས་པའོ། །བདུག་པའི་ཕྱག་རྒྱ་བཅིངས་ལ་འདི་སྐད་ཅེས་བརྗོད་དེ། ཨོྃ་སརྦ་བིདྡྷཱུ་པ་པཱུ་མེ་གྷ་ས་མུ་དྲ་སྥར་ཎ་ས་མ་ཡེ་ཧཱུྃ་ཞེས་པའོ། །མར་མེའི་ཕྱག་རྒྱ་བཅིངས་ལ་འདི་སྐད་ཅེས་བརྗོད་དེ། །ཨོྃ་སརྦ་བི་དཱ་ལོ་ཀེ་པཱུ་ཛཱ་མེ་གྷ་ས་མུ་དྲ་སྦར་ཎ་
+085-tagged, l. 1729 (109b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [109b.1]བརྗོད་ནས་སུ། །ཐུགས་ཀ་ནས་ཀྱང་དབྱུང་བྱ་སྟེ། །བདུག་པ་ལ་སོགས་ལྷ་མོ་བཞི། །པདྨ་ལ་གནས་ཟླ་བ་ཡི། །དཀྱིལ་འཁོར་དུ་ནི་མཚམས་བཞི་པོ། །ཐམས་ཅད་དུ་ཡང་སྐུ་མདོག་ནི། །རིགས་ཀྱི་རིམ་པ་ཉིད་ཀྱིས་སོ། །ཨོྃ་སརྦ་སྃ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་
+085-tagged, l. 1827 (115b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [115b.3]འདིས་གདོང་གཡོགས་དགྲོལ་བར་བྱའོ། །ཨོྃ་བཛྲ་ཧཱ་སྱོ་**ཏྒ**ྷ་ཊཱ་ཡ་ཧཱུྃ། དེ་ནས་འདིས་དཀྱིལ་འཁོར་བསྟན་པར་བྱའོ། །ཨོྃ་བཛྲ་དྲྀ་ཤྱ་ཧོ། །དེ་ནས་དབང་བསྐུར་བ་སྦྱིན་ཏེ། ཨོྃ་བཛྲཱ་བྷི་ཥིཉྩ་ཧཱུྃ། ཨོྃ་བུདྡྷཱ་བྱི་ཥིཉྩ་ཨོྃ། ཨོྃ་རཏྣ་བྷི་ཥིཉྩ་ཏྲཱྃ། ཨོྃ་པདྨ་བྷི་ཥིཉྩ་ཧྲཱིཿ། ཨོྃ་ཀརྨ་བྷི་ཥིཉྩ་
+085-tagged, l. 2124 (134a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [134a.4]རྗེ་སྒོ་ནི་བཞི་པོ་རྣམས། །ཡིད་ཀྱིས་དབྱེ་བར་བྱ་བ་ཉིད། །ཨོྃ་བཛྲོ་**ཏྒ**ྷ་ཊ་ཡ་ས་མ་ཡ་པྲ་བེ་ཤ་ཧཱུྃ་ཞེས་བྱའོ། །ཕྱག་རྒྱ་ཡང་འདི་ཡིན་ཏེ། རྡོ་རྗེ་ཁུ་ཚུར་གཉིས་གཤིབས་ཏེ། །མཛུབ་མོ་གན་རྐྱལ་ཡང་དག་གཟུང་། །ལེགས་པར་དྲག་ཏུ་རྣམ་པར་དབྱེ། །སྒོ་དབྱེ་བ་ཡི་ཆོ་ག་
+085-tagged, l. 3375 (212a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [212a.7]འདི་ཡིན་ཏེ། ཨོྃ་ཨ་ཀཱ་རོ་མུ་ཁྃ་སརྦ་དྷ་རྨཱ་ཎཱྃ་ཨཱདྱཱ་ནུ་**ཏྦ**་ནྣ་ཏྭཱ་ད། དེ་ནས་ཆོ་ག་ཇི་བཞིན་དུ། །སྟོན་ལ་མེ་ཏོག་སིལ་མ་དོར། །སངས་རྒྱས་བྱང་ཆུབ་རབ་བསྒྲུབ་ཕྱིར། །འགྲོ་བའི་མགོན་ལ་དེ་ཉིད་བརྗོད། །དེ་ཡིས་ཀུན་ནས་སངས་རྒྱས་ནི། །ཐམས་ཅད་འདུས་པ་ཉིད་དུ་འགྱུར། །
+086-tagged, l. 497 (32b.1): invalid: suspicious Tibetan character
+  -> [32b.1]གཟུགས་དང་དེ་བཞིན་སྦྱོར། །ཡི་གེའི་ཕྲེང་བ་དེ་བཞིན་ཏེ། །ཟླ་བའི་དཀྱིལ་འཁོར་དབུས་གནས་པར། །སྔགས་པས་ཐམས་ཅད་རྣམ་པར་བསམ། །ཧཱུྃ**༑** སྔགས་པས་སྙིང་གར་སོན་པ་བསྒོམ། །གསང་སྔགས་དགེ་བ་བརྗོད་ནས་སུ། །དེ་བཞིན་གཤེགས་པའི་
+086-tagged, l. 874 (56a.2): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [56a.2]ཏེ་པྲ་ཛྭ་ལི་ཏ། ཧསྟཱ་ཡ་ན་མོ་ནཱི་ལ་ཀཎྛཱ་ཡ་ཀི་རཱ་ཏ་རཱུ་པ་ལམྦོ་ད་རཱ་ཡ། བྷྲྀ་ཀུ་ཊཱི་མུ་ཁཱ་ཡ། མཱ་ཛཱར་མུ་ཁཱ་ཡ། ཙ་ཏུ་དྃཥྚཱ་ཀ་རཱ་ལཱ་ཡ། ཨེ་ཧྱེ་ཧི་ཨ་སྱ་ཤ་རཱི་ར། མ་ནུ་པྲ་བི་ཤྱ། ཤི་རཾ་གྲྀཧྞ། **གྲླ**ི་བ་བ་གྲྀཧྞ། ཧསྟ་པཱ་དཾ་གྲྀཧྞ་བི་ཥ། ཨཱ་བེ་ཤ་ཡ། ཀྃ་པ་ཡ། ཀྃ་པ་ཡ། བྷྲ་མ་ཡ། བྷྲ་མ་ཡ། 
+086-tagged, l. 963 (61b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [61b.3]ཀྱི་རོལ་པ་ཆེན་པོའི་ལྷ་མོ་སྒོའི་མཚམས་རྣམས་སུ་གཟུགས་ལ་སོགས་པའི་ཨོཾ་བཛྲི་རཱུ་པེ། ཨོཾ་བཛྲི་ཤ**པྡ**ེ། ཨོཾབཛྲི་གནྡྷེ། ཨོཾ་བཛྲི་ར་སེ། ཨོཾ་བཛྲི་སྤརྴེ། མཉེས་པར་བྱེད་པའོ། །དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་ཤིན་ཏུ་དགའ་བ་རྡོ་རྗེའི་སྙིང་པོ་ནི། ཨོཾ་ས་མ་ཡ་ཧོཿསུ་
+error on line 1480 going backward in page sides
+086-tagged, l. 2418 (151b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+086-tagged, l. 4161 (260b.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+error on line 4168 leap in page numbers from 260 to 262
+087-tagged, l. 2489 (157a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+087-tagged, l. 2809 (177a.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+087-tagged, l. 3419 (215a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [215a.3]ག་ཏཱ་ནཱཾ། སརྦ་ཨུ**ཏྒ**་ཏེ་སྥ་ར་ཎ་ཧི་མཱཾ་ག་ག་ན་ཁཾ་ས་མནྟཱ་ཏ་སྭཱ་ཧཱ། དེ་ནས་སྔགས་འདིས་གཏོར་མ་བྱིན་གྱིས་བརླབས་ལ་དཀྱིལ་འཁོར་གྱི་ཕྱི་རོལ་དུ་སྦྱིན་པར་བྱའོ། །ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏཱ་ནཱཾ། བ་ལ་བ་ཏི་བ་ལིཾ་དེ་སྭཱ་ཧཱ། དེ་ནས་སྔ་མ་བཞིན་དུ་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པས་སངས་རྒྱས་དང་བྱང་ཆུབ་
+087-tagged, l. 3467 (218a.3): invalid: invalid character order (vowel before subscript or achung after vowel)
+  -> [218a.3]བཛྲཱ་ཎཱཾ། ཨ་ཏི་བ་ར་བཛྲ་ས་མནྟི་ནི་ཧཱུཾ་ཏྲི་པྲྀ་ཏི། ཀུ་རུ་ཀུ་རུ། ཏ་ར་ཏ་ར། ཏཱ་རེ་ཏཱ་རེ། ཨ་ས་མ་མ་ཧཱ་བ་ལི་ས་མ་ཡེ། དྷུ་ན་དྷུ་ན། ཧ་ར་ཧ་ར། ཨ་མྲྀ་ཏེ་སྭཱ་ཧཱ། ཡན་ལག་གི་སྟོབས་ཞེས་བྱ་བའི་ཕྱག་རྒྱའི་རྒྱལ་མོ་ཡིན་ནོ། །ན་མཿས་མནྟ་བཛྲཱ་ཎཱཾ། ཏྲཱཾ་ཏྲཱཾ་ཏྲ**ཱྱ**ཾ་ཏྲཱྱཾ། གི་ནི་ཙྪིནྡྷ་
+087-tagged, l. 3467 (218a.3): invalid: invalid character order (vowel before subscript or achung after vowel)
+  -> [218a.3]བཛྲཱ་ཎཱཾ། ཨ་ཏི་བ་ར་བཛྲ་ས་མནྟི་ནི་ཧཱུཾ་ཏྲི་པྲྀ་ཏི། ཀུ་རུ་ཀུ་རུ། ཏ་ར་ཏ་ར། ཏཱ་རེ་ཏཱ་རེ། ཨ་ས་མ་མ་ཧཱ་བ་ལི་ས་མ་ཡེ། དྷུ་ན་དྷུ་ན། ཧ་ར་ཧ་ར། ཨ་མྲྀ་ཏེ་སྭཱ་ཧཱ། ཡན་ལག་གི་སྟོབས་ཞེས་བྱ་བའི་ཕྱག་རྒྱའི་རྒྱལ་མོ་ཡིན་ནོ། །ན་མཿས་མནྟ་བཛྲཱ་ཎཱཾ། ཏྲཱཾ་ཏྲཱཾ་ཏྲཱྱཾ་ཏྲ**ཱྱ**ཾ། གི་ནི་ཙྪིནྡྷ་
+087-tagged, l. 3559 (223b.7): invalid: invalid character order (vowel before subscript or achung after vowel)
+  -> [223b.7]བི་དུ་རི། སཱ་དྷ་ཡ་སཱ་དྷ་ཡ། སིདྡྷི་ཛྭཱ་ལཱ་ཡ། ན་མ་སྭཱ་ཧཱ། རྡོ་རྗེ་ཐམས་ཅད་པ་ཞེས་བྱ་བའི་ཕོ་ཉ་མོའོ། །ན་མཿས་མནྟ་བཛྲཱ་ཎཱཾ། ཨ་ཏཱི་ས་ཡེ་ན་བྷོ་ཏི་ནཾ་ས་མ་ཏེ། ཏྲ**ཱྱ**ཾ་གི་ནཱི་ཀ་རུ་དེ་བཱི་ཨ་གྲེ་ཏེ་ཨ་གྲེ་ཏེ། མཱ་ཧི་ཏཾ་ཙི་ཡེ། ཏོ་ཥ་ཡ་ཧི་ནཱ་ཡ་ཀཱ་ན། ཏྲ་ཏྲ་ཨེ་དཾ། ཏ་ར་ཏི་ཏ་ར་ཏི། བ་ར་ཏི་བ་
+087-tagged, l. 3939 (248b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+087-tagged, l. 4347 (274a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+087-tagged, l. 4531 (285b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [285b.1]པཱུ་ར་ཡ་མེ། སརྦ་ཨཱ་ཤཱ་མེ། བཻ་ཌཱུརྱ་པྲ་ཏི་བྷཱ་སེ། སརྦ་པཱ་པཾ་ཀྵ་ཡཾ་ཀ་རི་སྭཱ་ཧཱ། ཨོཾ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱེ། མ་ཧཱ་བྷཻ་ཥ་ཛྱེ། ས་མུ**ཏྒ**་ཏེ་སྭཱ་ཧཱ། དེ་བཞིན་གཤེགས་པའི་མཚན་དང་གཟུངས་འདི་བཀའ་སྩལ་པའི་ཚེ་སྣང་བ་ཆེན་པོ་བྱུང་སྟེ། ས་ཆེན་པོ་ཡང་གཡོས་ནས་
+087-tagged, l. 4545 (286a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [286a.7]ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྨན་གྱི་བླ་བཻ་ཌཱུརྱ་འོད་ཀྱི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཨོཾ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱེ། མ་ཧཱ་བྷཻ་ཥ་ཛྱེ། བྷཻ་ཥ་ཛྱེ་ས་མུ**ཏྒ**་ཏེ་སྭཱ་ཧཱ། སྨན་གཏོང་བའི་ཚེ་སྨན་ལ་སྔགས་ཀྱིས་གདབ་པ་རྫོགས་སོ། །
+088-tagged, l. 548 (35b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 665 (43a.1): punctuation: possible wrong beginning of text: "༄༅༅།" should be "༄༅༅། །"
+088-tagged, l. 690 (44b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 726 (46b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 750 (48a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 786 (50b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 839 (53b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [53b.7]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །
+088-tagged, l. 845 (54a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 911 (58a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 924 (59a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 927 (59a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 948 (60b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 969 (62a.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+088-tagged, l. 974 (62a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 1113 (71a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 1124 (71b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 1427 (90b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 1462 (92b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 1571 (99b.3): punctuation: possible wrong beginning of text: "དེ་བ" should be "༄༅༅། །"
+088-tagged, l. 1572 (99b.4): punctuation: possible wrong beginning of text: "དཀོན" should be "༄༅༅། །"
+088-tagged, l. 1575 (99b.7): punctuation: possible wrong beginning of text: "ཟླ་བ" should be "༄༅༅། །"
+088-tagged, l. 1578 (100a.2): punctuation: possible wrong beginning of text: "ནམཿས" should be "༄༅༅། །"
+088-tagged, l. 1579 (100a.3): punctuation: possible wrong beginning of text: "སངས་" should be "༄༅༅། །"
+088-tagged, l. 1587 (100b.3): punctuation: possible wrong beginning of text: "ཨོཾ་" should be "༄༅༅། །"
+088-tagged, l. 1589 (100b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [100b.5]ཨོྃ་སརྦ་ཏ་ཐཱ་ག་ཏ་པཱུ་ཛ་མེ་གྷ་པྲ་ས་ར་ས་མཱུ་ཧེ་སྥ་ར་ཎ་ཨི་མཾ་ག་ག་ན་ཀཾ་ཧཱུྃ་ཞེས་པས་མཆོད་པ་བྱིན་གྱིས་བརླབ་པོ།། །།ན་མཿསརྦ་བུངྡྷ་བོ་ངྷི་ས་ཏྭཱ་ནཱཾ། སརྦ་ཐཱ་ཨུ**ཏྒ**་ཏེ་སྥ་ར་ན་ཨི་མཾ་ག་ག་ན་ཁཾ་ས་མནྟ་སྭཱ་ཧཱ། ཞེས་ལན་བརྒྱད་བརྗོད་པས་མཆོད་པའི་སྤྲིན་འབྱུང་ངོ་།། །།ན་མཿསརྦ་བུངྡྷ་བོ་ངྷི་
+088-tagged, l. 1597 (101a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 1603 (101b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 1606 (101b.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [101b.6]ཡཱ་ཀལྤེ། ཀལྤེ་ནི་ག་ཎི། ཨ་ནནྟ་ཀལྤེ། ཨ་མྲྀ་ཏ་ཀལྤེ། ཧུ་ཏཱ་ཤ་རེ། ཨ་ནནྟ་མུ་ཁེ། ཨ་ནནྟ་ཙཀྵུ་ས་མུ**ཏྒ**་ཏེ། ཨོྃ་བྷ་སྭཱ་ཧཱ། རིགས་ཀྱི་བུ་གཟུངས་ཀྱི་གསང་སྔགས་འདི་དག་ནི་སེམས་ཅན་ངན་སོང་དུ་འགྲོ་བ་རྣམས་ཀྱི་དོན་གྱི་ཕྱིར། སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་གིས་
+088-tagged, l. 1611 (102a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+088-tagged, l. 1641 (104a.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [104a.1]བྷི་ཥིཀྟཱ་ཡཻ་སྭཱ་ཧཱ། ཨེ་ཀ་ཤྲིང་གཱ་ཡཻ་སྭཱ་ཧཱ། ཨ་ཤྲིང་གྲཱ་ཡཻ་སྭཱ་ཧཱ། བྷཱུ་ཏཱ་ཡཻ་སྭཱ་ཧཱ། ཨ་སྃ་བྷཱུ་ཏཱ་ཡཻ་སྭཱ་ཧཱ། སརྦ་དུཿཁོ་པྲ་ཤ་མ་ནྱཻ་སྭཱ་ཧཱ། ཟླ་འོད་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཙནྡྲ་པྲ་བྷེ། སུ་པྲ་བྷེ། པྲ་བྷཱ་ཀ་རེ། པྲ་བྷོ**ཏྒ**་ཏེ། པྲ་བྷོཏྒ་ཏེ། པྲ་བྷ་བ་ཏི། པྲ་བྷ་བ་ཏི། དྷརྨ་བི་ཤུདྡྷེ། 
+088-tagged, l. 1641 (104a.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [104a.1]བྷི་ཥིཀྟཱ་ཡཻ་སྭཱ་ཧཱ། ཨེ་ཀ་ཤྲིང་གཱ་ཡཻ་སྭཱ་ཧཱ། ཨ་ཤྲིང་གྲཱ་ཡཻ་སྭཱ་ཧཱ། བྷཱུ་ཏཱ་ཡཻ་སྭཱ་ཧཱ། ཨ་སྃ་བྷཱུ་ཏཱ་ཡཻ་སྭཱ་ཧཱ། སརྦ་དུཿཁོ་པྲ་ཤ་མ་ནྱཻ་སྭཱ་ཧཱ། ཟླ་འོད་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཙནྡྲ་པྲ་བྷེ། སུ་པྲ་བྷེ། པྲ་བྷཱ་ཀ་རེ། པྲ་བྷོཏྒ་ཏེ། པྲ་བྷོ**ཏྒ**་ཏེ། པྲ་བྷ་བ་ཏི། པྲ་བྷ་བ་ཏི། དྷརྨ་བི་ཤུདྡྷེ། 
+089-tagged, l. 37 (3b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [3b.5]པར་ཐེ་ཚོམ་མེད་དོ། །ལན་ཚྭ་དང་སྐེ་ཚེ་མཉམ་པའི་སྦྱིན་སྲེག་གམ་ཕུབ་མའི་སྦྱིན་སྲེག་གིས་ཕ་རོལ་གྱི་དཔུང་གི་ཚོགས་རྣམས་འབྱེར་བར་བྱེད་དོ། །ཨོཾ་ཨམྴ་སིམྴ་ཀ་སྱཱ་སུ་ཛོ་མེ་ཕེ་ཌ་ཨེ་དུ་སྱཱ་སུ་སྭཱ་ཧཱ། ཞེས་བྱུང་ངོ་། །ཨོཾ་ཨམ་བཱ་ཤིམ་བྷཱ་ཀཔྤ་སུ་ཛོ་མེ་ཕི་དུ་**པྦ**ཱ་སུ། སྔགས་ཀྱི་རྒྱལ་
+089-tagged, l. 190 (13a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+089-tagged, l. 197 (13b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+089-tagged, l. 205 (14a.5): punctuation: possible wrong beginning of text: "ན་མོ" should be "༄༅༅། །"
+089-tagged, l. 209 (14b.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+089-tagged, l. 211 (14b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+089-tagged, l. 215 (14b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [14b.7]ཅིག །རྗེ་བཙུན་འཕགས་པ་འཇམ་དཔལ་གྱི་ཤེས་རབ་དང་བློ་འཕེལ་བ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།{T550}འཕགས་པ་འཇམ་དཔལ་གྱི་སྔགས་ཡི་གེ་འབྲུ་གཅིག་པའི་ཆོ་ག །ཏདྱ་ཐཱ། [ཨོཾ་**ཀྡ**ིཾ྅།] གསང་སྔགས་ཡི་གེ་འབྲུ་གཅིག་པ་འདི་རབ་ཏུ་གསང་བ་སྟེ། 
+089-tagged, l. 215 (14b.7): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+089-tagged, l. 220 (15a.4): punctuation: possible wrong beginning of text: "ཐམས་" should be "༄༅༅། །"
+089-tagged, l. 230 (15b.6): punctuation: possible wrong beginning of text: "འཇམ་" should be "༄༅༅། །"
+089-tagged, l. 236 (16a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+089-tagged, l. 260 (17b.4): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+089-tagged, l. 1059 (68a.2): punctuation: invalid shad sequence
+  -> [68a.2]གཟུངས་གང་ཡིན་པ་དེ་ནི་ཡོན་ཏན་ལ་གནས་པའི་སྟོབས་ཞེས་བྱའོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་གཟུངས་སྔགས་བཀའ་སྩལ་པ། ཏདྱ་ཐཱ། པཱུརྞ་མ་ནོར་ཐེ། དོ་ཧོ་དོ་ཧོ། ཡཱ་བཏ་སཱུརྱ། ཨ་བ་བྷཱ་ས་ཏཱ། ཡཱ་བད་ཙནྡ**ྲེ་།** དཽ་དནྟེ། ཏཱ་བད་རཀྵ་མཱན་དཎྜ་
+090-tagged, l. 977 (62b.1): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+error on line 984 leap in page numbers from 62 to 64
+090-tagged, l. 1950 (124a.6): punctuation: invalid end of line
+090-tagged, l. 2466 (157a.1): punctuation: possible wrong beginning of text: "༄༅༅།" should be "༄༅༅། །"
+090-tagged, l. 2629 (167b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [167b.3]གཞན་ཡང་ལས་ནི་བ་གླང་སེར་སྐྱའི་རྭ་གཡས་པའི་ཕྱི་ཤུན་ནི་མཆོག་ཏུ་གྱུར་པ་ཡིན་ཏེ། དེ་དག་ཕག་པའི་རྣ་བ་གཡོན་པའི་ཁྲག་དང་མིག་སྨན་ཆ་མཉམ་པར་བྱས་ཏེ། ཨོཾ་མཱ་རཱི་ཙྱཻ་ཨཱནྡྷ**ཀྫ**ཱ་ན་མ་སི་སྭཱ་ཧཱ་ཞེས་བྱའོ། །ཟླ་བ་གཟས་བཟུང་བའི་དུས་སུ་ཇི་སྲིད་མ་བཏང་གི་བར་དུ་
+090-tagged, l. 3191 (202b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3195 (203a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3197 (203a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3199 (203a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3203 (203b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3207 (203b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3208 (203b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3211 (204a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3213 (204a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3215 (204a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [204a.5]{T585}དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །ན་མཿས་མནྟཱ་བུད་དྷཱ་ནཱཾ། ཨ་པྲ་ཏི་ཧ་ཏ་ཤཱ་ས་ནཱ་ནཱཾ། ཨོྃ་ཀི་ཎི་ཀི་ཎི་ཏ་ཏཱ་ག་ཏ་ཨུ**ཏྦ**ྷ་བ་ཤཱནྟེ་བ་ར་དེ། ཨུཏྟ་མ་ཨུཏྟ་མ་ཏ་ཐཱ་ག་ཏ། ཨུཏྦྷ་བ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། འདི་བཟུང་བས་འཕགས་པ་སྡོང་པོ་བཀོད་པའི་མདོ་ཐམས་ཅད་རྫོགས་པར་བཀླགས་
+090-tagged, l. 3215 (204a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [204a.5]{T585}དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །ན་མཿས་མནྟཱ་བུད་དྷཱ་ནཱཾ། ཨ་པྲ་ཏི་ཧ་ཏ་ཤཱ་ས་ནཱ་ནཱཾ། ཨོྃ་ཀི་ཎི་ཀི་ཎི་ཏ་ཏཱ་ག་ཏ་ཨུཏྦྷ་བ་ཤཱནྟེ་བ་ར་དེ། ཨུཏྟ་མ་ཨུཏྟ་མ་ཏ་ཐཱ་ག་ཏ། ཨུ**ཏྦ**ྷ་བ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། འདི་བཟུང་བས་འཕགས་པ་སྡོང་པོ་བཀོད་པའི་མདོ་ཐམས་ཅད་རྫོགས་པར་བཀླགས་
+090-tagged, l. 3215 (204a.5): punctuation: possible wrong beginning of text: "དཀོན" should be "༄༅༅། །"
+090-tagged, l. 3216 (204a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3219 (204b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3221 (204b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 3540 (224b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+090-tagged, l. 4107 (260a.1): punctuation: possible wrong beginning of text: "བཅོམ" should be "༄༅༅། །"
+090-tagged, l. 4214 (266b.4): punctuation: possible wrong beginning of text: "མཆོད" should be "༄༅༅། །"
+090-tagged, l. 4215 (266b.5): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [266b.5]བྱེ་བ་བཏབ་པར་འགྱུར་བའི་སྔགས་དང་ཆོ་ག་ནི་འཇིམ་པ་ལ་སོགས་པ་ཡོ་བྱད་ཐམས་ཅད་ལ་སྔགས་འདི་ལན་ཉི་ཤུ་རྩ་གཅིག་བཟླས་པར་བྱའོ། །ན་མ་སྟྲཻ་ཡ་དྷྭི་ཀཱ་ནཱན། ཛི་ནཱ་ནཱན། བན་དྷེ་རཏྣ་ཊ་ཡན་ཤུ་བྷ་ན། ཨཀྵོ་བྷྱ་ཨ་མི་ཏཱ་བན་ཙ་བན་དེ། ཨ་ཧཾ་ཨ་ལོ་ཀི་ཏཾ། ན་མས**ྟྲྱ**་
+091-tagged, l. 50 (4b.2): punctuation: invalid end of line
+091-tagged, l. 570 (37a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 585 (38a.1): punctuation: invalid end of line
+091-tagged, l. 605 (39a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 631 (40b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 646 (41b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 667 (43a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 699 (45a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 705 (45b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 725 (46b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 737 (47b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 813 (52a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 822 (52b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 879 (56a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 915 (58b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 926 (59a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 948 (60b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 954 (61a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 969 (62a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 977 (62b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 978 (62b.2): punctuation: invalid end of line
+091-tagged, l. 978 (62b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 979 (62b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 987 (63a.3): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+091-tagged, l. 988 (63a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 990 (63a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1050 (67a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1060 (67b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1067 (68a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1121 (71b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [71b.1]རྩི་དང་། ཁ་ར་དང་། གསེར་དང་། དངུལ་དང་། ཟངས་དང་། མུ་ཏིག་དང་། བྱི་རུ་དག་བླུགས་ཏེ། འབྲུ་གསུམ་པའི་སྔགས་ཀྱིས་བྱིན་གྱིས་བརླབས་ནས་སྔགས་འདི་བརྗོད་པར་བྱའོ། །ན་མཿས་མནྟ་ཏ་ཐཱ་ག་ཏེ་བྷྱོ། བི་ཤྭ་མུ་ཁེ་བྷྱཿ སརྦ་ཐཱ་ཁཾ་ཨུ**ཏྒ**་ཏེ། སྥ་ར་ཎ་ཨི་མཾ་
+091-tagged, l. 1273 (81a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1659 (105a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1697 (107b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1725 (109a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1772 (112a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1834 (116a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1877 (118b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1881 (119a.1): punctuation: invalid end of line
+091-tagged, l. 1930 (122a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1965 (124a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 1998 (126a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2018 (127b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2027 (128a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2043 (129a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2049 (129b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [129b.1]ཕྱག་རྡོ་རྗེ་ལྟར་བྱས་ཏེ་གཟུངས་འདི་གཟུངས་སོ། །ཨོཾ་སརྦ་དྷརྨ་ཏཱ་བཛྲ་སིདྡྷ་ཧཱུཾ། ཨོཾ་ཨ་མྲྀ་ཏ་ཧཱུཾ། ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱོ་བི་ཤྭ་མུ་ཁེ་བྷྱཿསརྦ་ཐཱ་ཁཾ་ཨུ**ཏྒ**་ཏེ་སྥ་ར་ཎ་ཨི་མཾ་ག་ག་ན་ཁཾ་སྭཱ་ཧཱ། ཨོཾ་ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏ་ཨ་བ་ལོ་ཀི་ཏེ་སཾ་བྷ་ར་སཾ་བྷ་ར་ཧཱུཾ། ཨོཾ་རུ་རུ་སྥུ་རུ་ཛྭཱ་ལ་
+091-tagged, l. 2098 (132b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2126 (134a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2159 (136a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2164 (136b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2167 (136b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2170 (137a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2173 (137a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2313 (146a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2337 (147b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [147b.1]མན་ཏུ་ཀེ། ཨ་བ་ཏེ། ས་ཧ་རཱ། ས་དྷུ་མ་ཏི། ཨི་ལ་ལ་བ་མ་ཏི། ཨ་བ་ཏི། ཏ་ར་པ་ར། ཡི་བིཥྚ། ས་ད་བིཥྚ། ཨ་བ་ཏིཥྛ། པ་རི་བརྟ། ཨི་ཤ་བརྡ། ས་ད་བརྟ། ཀྲ་མ་ཀྲ་མ་ཏི་རན། ཨ་སི་བ་ཙ་མ་ལ་བི་ན་ཧ་ཐི། ཋ་ཤ་སུ་རེ། དྷུ་ར་དྷུ་ར། ཨུ**ཀྒ**ྲ་མུཀྒྲ། ཨུཀྒྲ་པ་ཏི། བི་ས་ར་གྲ་མ་ཏི། 
+091-tagged, l. 2337 (147b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [147b.1]མན་ཏུ་ཀེ། ཨ་བ་ཏེ། ས་ཧ་རཱ། ས་དྷུ་མ་ཏི། ཨི་ལ་ལ་བ་མ་ཏི། ཨ་བ་ཏི། ཏ་ར་པ་ར། ཡི་བིཥྚ། ས་ད་བིཥྚ། ཨ་བ་ཏིཥྛ། པ་རི་བརྟ། ཨི་ཤ་བརྡ། ས་ད་བརྟ། ཀྲ་མ་ཀྲ་མ་ཏི་རན། ཨ་སི་བ་ཙ་མ་ལ་བི་ན་ཧ་ཐི། ཋ་ཤ་སུ་རེ། དྷུ་ར་དྷུ་ར། ཨུཀྒྲ་མུ**ཀྒ**ྲ། ཨུཀྒྲ་པ་ཏི། བི་ས་ར་གྲ་མ་ཏི། 
+091-tagged, l. 2337 (147b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [147b.1]མན་ཏུ་ཀེ། ཨ་བ་ཏེ། ས་ཧ་རཱ། ས་དྷུ་མ་ཏི། ཨི་ལ་ལ་བ་མ་ཏི། ཨ་བ་ཏི། ཏ་ར་པ་ར། ཡི་བིཥྚ། ས་ད་བིཥྚ། ཨ་བ་ཏིཥྛ། པ་རི་བརྟ། ཨི་ཤ་བརྡ། ས་ད་བརྟ། ཀྲ་མ་ཀྲ་མ་ཏི་རན། ཨ་སི་བ་ཙ་མ་ལ་བི་ན་ཧ་ཐི། ཋ་ཤ་སུ་རེ། དྷུ་ར་དྷུ་ར། ཨུཀྒྲ་མུཀྒྲ། ཨུ**ཀྒ**ྲ་པ་ཏི། བི་ས་ར་གྲ་མ་ཏི། 
+091-tagged, l. 2353 (148b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [148b.1]སཾ་པྲ་མུ་ཁེ། ཨ་ག་བ་རེ། ཋ་ཧུ་ས་ཧུ། ཨི་ཏི་ཡ། ཐཱ་ཧུ། ཙ་ཏུར་དྭཱི་པི་ཀ་ཡན། ཋ་ཧུ་མ་ཧུ། ཨུ**ཀྒ**ྲ་ཧུ། དྷཱ་ར་ས་ཧུ། སཾ་གྲ་ཧ། ཨ་བི་ན་གྲ་ཧ། ཨ་བི་ན་གྲ་ཧ། པྲཛྙཱ་བྲྀད་དྷ་ཡེ། ཋ་ཧུ་ས་ཧུ། ཀ་ར་ཀུ་རུ། དྷ་ས་ཧུ། དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ། །གསང་སྔགས་ཀྱི་ནི་ཚིག་འདི་དག །གང་གིས་
+091-tagged, l. 2355 (148b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [148b.3]འདི་དག་བཀའ་སྩལ་ཏོ། །སྱཱད་ཡ་ཐེ་དན། ཙ་ར་དྷེ་བི་ཙ་ར་དྷེ། ཨ་མཾ་ཀུ་ཏེ། ཨ་ཏི་མི་ཏི། པ་ར་ཧ་རེ། གྷ་ཎ་བྷེ། ཧི་བར་མེ། མ་ཧཱ་པྲ་ཏི་བཱ་ཧཱ་ནེ། ཛ་ཡ་ཛ་ཡ། ཨ་ནུ་ཀེ། པ་ལ་པ་ལེ། ཨུ**ཀྒ**ྲ་བ་ཏི། སྭ་ར་སྭ་ར། ཨ་བི་ས་རེ། གུ་གུན་དེ། པྲ་བི་བརྡྷེ། ས་མེ། ཨ་ཛི་ཏེ་ཛ་ཡེ། ནུ་པ་ལེ་སུ། 
+091-tagged, l. 2362 (149a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2370 (149b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2585 (163a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2787 (175b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2860 (180a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 2869 (180b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3019 (190a.3): punctuation: possible wrong beginning of text: "དེ་ན" should be "༄༅༅། །"
+091-tagged, l. 3034 (191a.2): punctuation: possible wrong beginning of text: "ན་མོ" should be "༄༅༅། །"
+091-tagged, l. 3060 (192b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3217 (202b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3222 (202b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3333 (209b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3358 (211a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3509 (220b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3542 (222b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3549 (223a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 3736 (235b.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [235b.6]སཏྭེ་བྷྱཿན་མཿཔྲ་ཏྱེ་ཀ་བུདྡྷ་ཨཱརྱ་ཤྲཱ་པ་ཀ་སཾ་གྷེ་བྷྱོ་ཨ་ཏཱི་ཏ་ཨནཱ་ག་ཏ་པྲ་ཏྱཱཏ་པན་ནེ་བྷྱཿན་མཿསཾ་མྱ**ཀྒ**་ཏཱ་ནཱཾ། ན་མཿསཾ་མྱཀ་པྲ་ཏི་པནྣ་ནཱཾ། ན་མཿཤཱ་ར་དཱ་ཏཱི་པུ་ཏྲཱ་ཡ་མ་ཧཱ་མ་ཏ་ཡེ། ན་མཿཨཱརྒྱ་མཻ་ཏྲེ་ཡ་པྲ་མུ་ཁེ་བྷྱོ། མ་ཧཱ་བོ་དྷི་སཏྭ་སཾ་གྷེ་བྷྱཿན་མཿསུ་པྲ་ཏིཥྛ་ཏ་ཤཻ་ལེནྡྲ་རཱ་ཛ་པྲ་མུ་ཁེ་བྷྱཿསརྦ་
+091-tagged, l. 4419 (278b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 4464 (281a.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [281a.6]གྱི་ཕྱིར་ཡང་ངོ་། །ན་མ་སྟྲཻ་ཡ་དྷྭཱ་ནུ་ག་ཏ་པྲ་ཏིཥྛི་ཏེ་བྷྱཿ། སརྦ་བུདྡྷ་བོ་དྷི་ས་ཏྭེ་བྷྱཿ། ན་མཿཔྲ་ཏྱེ་ཀ་བུད་དྷཱཪྻ་ཤྲཱ་བ་ཀ་སཾ་གྷེ་བྷྱོ྅་ཏཱི་ཏཱ་ནཱ་ག་ཏ་པྲ་ཏྱཏྤནྣེ་བྷྱཿ། ན་མ་སྶམྱ**ཀྒ**་ཏཱ་ནཱཾ། ན་མཿསཾ་མྱ་ཀྤྲ་ཏྱུཏྤནྣཱ་ནཱཾ། ན་མཿཤ་ར་དྭ་ཏཱི་པུ་ཏྲཱ་ཡ། མ་ཧཱ་མ་ཏ་ཡེ། ན་མཿཨཱརྱ་མཻ་ཏྲེ་ཡ་པྲ་མུ་ཁེ་བྷྱོ་མ་ཧཱ་བོ་དྷི་
+091-tagged, l. 4467 (281b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [281b.1]ཏིཥྛི་ཏེ་མ་ཎི་ཀཱུ་ཊ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ནམཿས་མནྟ་ར་སྨྱུ་**ཏྒ**་ཏ་ཤྲཱི་ཀཱུ་ཊ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མོ་བི་པ་ཤྱི་ནེ་ཏ་ཐཱ་ག་ཏཱ་ཡ། ནམཿཤི་ཁི་ནེ་ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མོ་བི་ཤྭ་བྷུ་ཛེ་ཏ་ཐཱ་ག་ཏཱ་ཡ། ནམཿཀྲ་ཀུཙྪཱ་ནྡཱཡ་ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མཿཀ་ན་ཀ་མུ་ན་ཡེ་ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མཿཀཱ་ཤྱ་པཱ་ཡ་
+091-tagged, l. 4471 (281b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [281b.5]ན་མ་ཨཱརྱཱ་ཝ་ལོ་ཀི་ཏེ་ཤྭ་རྭ་ཡ་བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་ས་ཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ན་མོ་མ་ཧཱ་སྠཱ་མ་བྲ་པྟཱ་ཡ་བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཨེ་བྷྱོ་ན་མ་སྐྲྀ་ཏཱ་ཨི་དམཱརྱཱ་ཝ་ལོ་ཀི་ཏེ་ཤྭ་ར་མུ་ཁོ་**ཏྒ**ི་རྞྞཾ། ཨ་མོ་གྷ་པཱ་ཤྭ་རཱ་ཛ་ནཱ་མ་ཧྲྀ་ད་ཡི་ཏ་ཐཱ་ག་ཏཱ་སཾ་མུ་ཁཾ་བྷཱ་ཥི་ཏཾ་མཧཱ་ཏཱཾ་
+091-tagged, l. 4563 (287b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+091-tagged, l. 4607 (290a.5): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+092-tagged, l. 1506 (95b.2): punctuation: invalid shad sequence
+  -> [95b.2]ཏ་ཐཱ་ག་ཏ། ཨཱརྱཱ་པ་ལོ་ཀི་ཏེ་ཤྭ་ར་བཛྲ་དྷ་རེ་བྷྱཿ ཨོཾ་ཙ་ར་ཙ་ར། ཙུ་རུ་ཙུ་**རུ་།** མ་ཧཱ་ཀཱ་རུ་ཎི་ཀ །ཙི་རི་ཙི་རི། བི་རི་བི་རི། མ་ཧཱ་པདྨ་ཧ་སྟ། ཀ་ལ་ཀ་ལ། ཀུ་ལུ་ཀུ་ལུ། མ་ཧཱ་སྠཱམ་པྲཱ་པ་ཏ། ཙ་ར་ཙ་ར། ཙ་ཙ་རི་ཏ། ཙ་རེ་ཤྭ་ར། ཨེ་ཧྱེ་ཧི། སིདྷྱ་སིདྷྱ། བུདྷྱ་བུདྷྱ། དྷཱ་བ་དྷཱ་བ། ཀི་ཎི་
+092-tagged, l. 4209 (264b.1): punctuation: invalid end of line
+093-tagged, l. 717 (46a.5): punctuation: invalid end of line
+093-tagged, l. 905 (58a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 931 (59b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 971 (62a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 1033 (66a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2055 (129b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2209 (139b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2337 (147b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2339 (147b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2347 (148a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2369 (149b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2381 (150a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2417 (152b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2498 (157b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2612 (164b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2629 (165b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2717 (171a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2721 (171b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2750 (173a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2777 (175a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2801 (176b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2822 (177b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2825 (178a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2831 (178a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2834 (178b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2836 (178b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2838 (178b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2842 (179a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2845 (179a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2850 (179b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2858 (180a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 2860 (180a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 3018 (190a.2): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [190a.2]ཛེ། མ་ཧཱ་ཏེ་ཛེ། ཡན་མ་མ་ཀཱ་ཡ་དུཤྩ་རི་ཏ་མ་བཱ། ཝཱག་དུཤྩ་རི་ཏ་མ་བཱ། མ་ནོ་དུཤྩ་རི་ཏམ་བཱ། དཱ་རི་**དྲྱ**མ་བཱ། ཏད་སརྦཾ་ཀྵཱ་པ་ཡ། ཨ་ལོ་ཀ་ཡ། བི་ལོ་ཀ་ཡ། ཏ་ཐཱ་ག་ཏ་དརྵ་ཎན་ཙ། ཨ་ཧ་མ་དྷིཀཱཾ་ཀྵཱ་མི་བོ་དྷི་ས་ཏྱ་དརྵ་ཎམ། དྷུ་དྷུ་མ། ད་དས་སྭ་མེ་དརྵ་ཎ་མ། སརྦ་མེ་
+093-tagged, l. 3177 (200a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+093-tagged, l. 3203 (201b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+error on line 3256 leap in page numbers from 204 to 206
+094-tagged, l. 101 (7b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [7b.5]སཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ། སམྨྱ་ཀྶཾ་བུདྡྷཱ་ཡ། བེཥྚི་ཀོ་ཊི་ཡཀྵ་པ་རི་བྲི་ཏི་ཡ་ན་མ་ཨཱརྱ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཏདྱ་ཐཱ། ཨུ**ཏྡ**ྡྷ་ཛྫ་ཊ། པྲ་ཛྭ་ལི་ཏ་ཡ། པདྨ་ཨ་བྷཱ་སཿཏ་ཐཱ་ག་ཏཱ་བ་ཙ་ནེ་ན་ཏྭ་ཡ་བྷ་ཤཱི་ཏཾ། 
+094-tagged, l. 708 (45b.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [45b.4]ཎི་ཀཱ་ཡ། ན་མོ་བྷ་ག་བ་ཏེ་ཨཱརྱ་ཏཱ་རཱ་ཡཻ། སརྦ་སཏྭཱ་ཀྲི་ཏ། པྲི་ཀྲི་ཏ། པྲཽ་**ཀྡ**ྱ། ཀྲི་ཏ། ས་ཀ་ལེ་ད་སེ། ས་ཀ་ལོ་བི་ཤོ་དྷ་ནི་སྭཱ་ཧཱ། རིག་པ་འདིས་ལྷ་བཤོས་དབུལ་བར་བྱའོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མོ་ཨ་མི་ཏཱ་བྷཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ། སམྱཀྶཾ་བུདྡྷཱ་ཡ། ན་མ་ཨཱརྱ་
+094-tagged, l. 1173 (74b.5): punctuation: invalid shad sequence
+  -> [74b.5]ཏི་ཛྱོ་ཏི། བ་ཏཱི་ཏཱ་རེ་ཏུ་རེ་སྭཱ་ཧཱ། འཕགས་མ་སྒྲོལ་མ་སྐར་འོད་ལྡན་མ་ཞེས་བྱ་བའོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། ཏདྱ་ཐཱ། བོ་དྷྱང**ྒེ་།** བོ་དྷྱཾ་ག་བ་ཏི་ཏཱ་རེ། ཏུཏྟཱ་རེ་སྭཱ་ཧཱ། འཕགས་མ་སྒྲོལ་མ་བྱང་ཆུབ་ཀྱི་
+094-tagged, l. 1204 (76b.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [76b.4]ཁྲིམས་འོད་ཅེས་བྱ་བའོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། ཏདྱ་ཐཱ། **ཀྦ**ཱནྟི་ཀྵཱནྟ་པྲ་བྷེ་ཏུ་རེ་ཏུ་རེ་སྭཱ་ཧཱ། འཕགས་མ་སྒྲོལ་མ་བཟོད་པའི་འོད་ཅེས་བྱ་བའོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་
+094-tagged, l. 2483 (156b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [156b.3]སྲིང་མོ་བཞིའོ། །ལྔ་པ་མིང་པོ་ནི། ན་མོ་ཨ་མི་ཏཱ་བྷཱ་ཡ། ཏདྱ་ཐཱ། ཨཪྷ་ཏེ། ན་མ་ཨཱརྱ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། ཨོྃ་ཀི་ནི་ཀི་ནི་སརྦ་ཏ་ཐཱ་ག་ཏཱ་ཨུ**ཏྦ**ྷ་བ་ཤཱནྟེ། བ་ར་དེ། ཨུཏྟ་མ་ཏ་ཐཱ་ག་ཏཱ་ཨུཏྦྷ་བ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། མིང་པོ་ཏུམ་བུ་རུ་ཞེས་པའོ། །
+094-tagged, l. 2483 (156b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [156b.3]སྲིང་མོ་བཞིའོ། །ལྔ་པ་མིང་པོ་ནི། ན་མོ་ཨ་མི་ཏཱ་བྷཱ་ཡ། ཏདྱ་ཐཱ། ཨཪྷ་ཏེ། ན་མ་ཨཱརྱ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། ཨོྃ་ཀི་ནི་ཀི་ནི་སརྦ་ཏ་ཐཱ་ག་ཏཱ་ཨུཏྦྷ་བ་ཤཱནྟེ། བ་ར་དེ། ཨུཏྟ་མ་ཏ་ཐཱ་ག་ཏཱ་ཨུ**ཏྦ**ྷ་བ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། མིང་པོ་ཏུམ་བུ་རུ་ཞེས་པའོ། །
+094-tagged, l. 3092 (194b.4): punctuation: invalid shad sequence
+  -> [194b.4]སྥུ་ཊནྡུ་མེ། སརྦ་པཱ་པཱ་ནི། སརྦ་བུད་དྷ་ས་ཏ**ྱེ་།** དྷརྨ་ས་ཏྱེ་ན། སཾ་གྷ་ས་ཏྱེ་ན། ཨིནྡྲ་ས་ཏྱེ་ན། བ་རུ་ཎ་ས་ཏྱེ་ན། ཡེ་ལོ་ཀ་ས་ཏྱེ་ན། བིར་ཎ་ས་ཏྱེ་ན། ས་ཏྱ་ས་ཙ་ནེ་ན་སྥུ་ཊནྟུ། སརྦ་པཱ་པཱ་ནི་སརྦ་བུད་དྷ་ཨ་དྷིཥྛཱ་ནེ་ན་སྭཱ་ཧཱ། མཚན་མོ་ཉི་ཤུ་
+094-tagged, l. 3209 (202a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3242 (204a.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [204a.2]ར་ཎ་ས་མ་ཡེ་ཧཱུྃ། ཨོྃ་སརྦ་ཏ་ཐཱ་ག་ཏ་ཨཱ་ལོ་ཀ་པཱུ་ཛ་མེ་གྷ་ས་མུ་དྲ་སྤ་ར་ཎ་ས་མ་ཡེ་ཧཱུྃ། ཨོྃ་སརྦ་ཏ་ཐཱ་ག་ཏ་གན་དྷེ་པཱུ་ཛ་མེ་གྷ་ས་མུ་དྲ་སྥ་ར་ཎ་ས་མ་ཡེ་ཧཱུྃ། ཨོྃ་སརྦ་ཏ་ཐཱ་ག་ཏ་ནཻ་ཝི་དྱེ་པཱུ་ཛ་མེ་གྷ་ས་མུ་དྲ་སྥ་ར་ཎ་ས་མ་ཡ་ཧཱུྃ། ཨོྃ་སརྦ་ཏ་ཐཱ་ག་ཏ་ཤ**པྡ**་པཱུ་ཛ་མེ་གྷ་ས་མུ་དྲ་སྤར་ཎ་ས་མ་ཡེ་
+094-tagged, l. 3245 (204a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [204a.5]ལོ་ཀྱ་ནཱ་ཐཱ་བཀྟྲཱ་**པྫ**། བི་ཀཱ་སཏྐེ་ས་རོད་བྷ་བེ། ན་མཿཤ་ཏ་ས་ར་ཙྩནྡྲ། སཾ་པཱུརྞྞ་པ་ཊ་ལཱ་ན་ནཱེ། ཏཱ་རཱ་ས་ཧ་སྲ་ནི་ཀ་ར། པྲ་ཧ་སཏྐི་ར་ཎོ་ཛྫྭ་ལེ། ན་མཿཀ་ན་ཀ་ནཱི་ལཱཔྫ། པཱ་ཎི་པདྨ་བི་བྷཱུ་ཥི་ཏེ། དཱ་ན་བཱིརྱ་ཏ་པཿ ཤཱནཏི། ཏི་ཏི་ཀྵ་དྷྱཱ་ན་གོ་ཙ་རེ། ན་མ་སྟ་ཐཱ་ག་ཏོཥྞཱི་ཥ། བི་ཛ་ཡཱ་ནནྟ་ཙཱ་རི་ཎི། 
+094-tagged, l. 3245 (204a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [204a.5]ལོ་ཀྱ་ནཱ་ཐཱ་བཀྟྲཱ་པྫ། བི་ཀཱ་སཏྐེ་ས་རོད་བྷ་བེ། ན་མཿཤ་ཏ་ས་ར་ཙྩནྡྲ། སཾ་པཱུརྞྞ་པ་ཊ་ལཱ་ན་ནཱེ། ཏཱ་རཱ་ས་ཧ་སྲ་ནི་ཀ་ར། པྲ་ཧ་སཏྐི་ར་ཎོ་ཛྫྭ་ལེ། ན་མཿཀ་ན་ཀ་ནཱི་ལཱ**པྫ**། པཱ་ཎི་པདྨ་བི་བྷཱུ་ཥི་ཏེ། དཱ་ན་བཱིརྱ་ཏ་པཿ ཤཱནཏི། ཏི་ཏི་ཀྵ་དྷྱཱ་ན་གོ་ཙ་རེ། ན་མ་སྟ་ཐཱ་ག་ཏོཥྞཱི་ཥ། བི་ཛ་ཡཱ་ནནྟ་ཙཱ་རི་ཎི། 
+094-tagged, l. 3247 (204a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [204a.7]པ་ར་ཡནྟྲ་པྲ་མརྡྡྷ་ནི། པྲ་ཏྱཱ་ལཱི་ཌྷ་པཱ་ད་ནྱཱ་སེ། ཤི་ཁི་ཛྭ་ལཱ་གུ་ལེ་ཀྵ་ཎེ། ན་མསྟུ་རེ་མ་ཧཱ་གྷོ་རེ། མཱ་ར་བཱི་ར་བི་ནཱ་ཤ་ནེ། བྷྲྀ་ཀུ་ཊཱི་ཀྲྀ་ཏ་བཱཀྟྲཱ**པྫ**། སརྦ་ཤ་ཏྲུཾ་ནི་སཱུ་ད་ནི། ན་མ་སྟྲི་རཏྣ་མུ་དྲཱཾ་ཀ །ཧྲྀ་དྱཱཾ་གུ་ལི་བི་བྷཱུ་ཥི་ཏེ། བྷཱུ་ཥི་ཏཱ་ཤེ་ཥ་དི་ཀ་ཙ་ཀྲ །ནི་ཀར་སྭ་ཀ་རཱ་ཀུ་ལེ། ན་མཿ པྲ་མུ་དི་
+094-tagged, l. 3309 (208a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [208a.5]ཐཱ་བཀྟྲཱ་**པྫ**་བི་ཀ་ཤཏྐེ་ས་རོ་ད་བྷ་བེ། ན་མཿཤ་ཏ་ཤ་རཙྩནྡྲ་སཾ་པཱུཎྞ་པ་ཊ་ལཱ་ན་ནེ། ཏཱ་རཱ་ས་ཧ་སྲ་ནི་ཀ་ར་པྲ་ཀ་ཤཏྙི་ར་ཎོ་ཛྫྭ་ལི། ན་མཿཀ་ན་ཀ་ནཱི་ལཱ་པྫ་པཱ་ཎི་པདྨ་བི་བྷཱུ་ཥ་ཏེ། དཱ་ན་བཱིརྱ་ཏ་པཿཤཱ་ན་ཏི་ཏེ་ཏི་ཀྵ་དྷྱཱ་ན་གོ་ཙ་རེ། ན་མ་སྟ་ཐཱ་ག་ཏོཥྞཱི་ཥ་བི་ཛ་ཡཱ་ནནྟ་ཙ་རི། ཨ་ཤེ་ཥ་པ་ར་མི་ཏཱ་པྲཱ་པྟ་
+094-tagged, l. 3309 (208a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [208a.5]ཐཱ་བཀྟྲཱ་པྫ་བི་ཀ་ཤཏྐེ་ས་རོ་ད་བྷ་བེ། ན་མཿཤ་ཏ་ཤ་རཙྩནྡྲ་སཾ་པཱུཎྞ་པ་ཊ་ལཱ་ན་ནེ། ཏཱ་རཱ་ས་ཧ་སྲ་ནི་ཀ་ར་པྲ་ཀ་ཤཏྙི་ར་ཎོ་ཛྫྭ་ལི། ན་མཿཀ་ན་ཀ་ནཱི་ལཱ་**པྫ**་པཱ་ཎི་པདྨ་བི་བྷཱུ་ཥ་ཏེ། དཱ་ན་བཱིརྱ་ཏ་པཿཤཱ་ན་ཏི་ཏེ་ཏི་ཀྵ་དྷྱཱ་ན་གོ་ཙ་རེ། ན་མ་སྟ་ཐཱ་ག་ཏོཥྞཱི་ཥ་བི་ཛ་ཡཱ་ནནྟ་ཙ་རི། ཨ་ཤེ་ཥ་པ་ར་མི་ཏཱ་པྲཱ་པྟ་
+094-tagged, l. 3315 (208b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [208b.3]བྷཱུ་ཏ་བེ་ཏཱ་ལ་གཾ་དར་བ་ག་ཎ་ཡཀྵ་པུ་ར་སྐྲྀ་ཏེ་ཕཊ་ཀཱ་ར་ཡནྟྲ་པྲ་མརྡ་ནི་པྲ་ཏྱཱ་ལཱི་ཌྟ་པཱ་ད་ནྱཱ་ས་ཤི་ཁི་ཛྭཱ་ལཱ་ཀུ་ལི་ཛ་ལི་རི་མ་ཧཱ་ཧྲོ་རི་མཱ་ར་བཱིར་བི་ནཱ་ཤ་ནི། བྷྲྀ་ཀུ་ཊི་ཀྲྀ་ཏ་བཱ་ཀ་ཏྲཱ་**པྫ**་སརྦ་ཤ་ཏྲུ་ནི་སཱུ་ད་ནི་རཏྣ་མུ་དྲཱཾ་ཀ་ཧྲྀ་དྱཱཾ་གུ་ལི་བི་བྷཱུ་ཥི་ཏྱ་པྷཱུ་ཥི་ཏཱ་ཤེ་ཥ་དི་ཀ་ཙཀྲ་ཀཱ་ར་སཽ་ཀ་རཱ་ཀུ་ལི་ཧཱུྃ་ཧཱུྃ་ཧཱུྃ་ཕཊ་ཕཊ་
+094-tagged, l. 3450 (217a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3486 (219a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3534 (222a.6): punctuation: possible wrong beginning of text: "དཀོན" should be "༄༅༅། །"
+094-tagged, l. 3535 (222a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3541 (222b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3569 (224b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3579 (225a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3591 (225b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3615 (227a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3633 (228b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3644 (229a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3652 (229b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3663 (230a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3730 (234b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3740 (235a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3749 (235b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 3755 (236a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+094-tagged, l. 4241 (266b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+095-tagged, l. 827 (53a.3): punctuation: invalid end of line
+095-tagged, l. 1180 (75a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [75a.4]ཧ་ན་ཧ་ན། ཤཱུ་ལེ་ན་བི་དཱ་ར་ཡ་བཛྲ་ཎ། ཀི་ལི་ཀི་ལི། །ཤ**པྡ**ེ་ཎ། སྟམྦྷ་ཡ་རུ་ཏྲེ་ཎ། དེ་ན་ཧ་ན་ཧ་ན། ཤཀྟི་ན། ཀི་རི་ཀི་རི། ཙི་རི་ཙི་རི། མི་རི་མི་རི། །ན་རུ་ཏི་ན་རུ་ཏི། ཐ་ར་ཐ་ར། ཐ་ཐ། ར་ར། པ་ཏ་ཡ་པ་ཏ་ཡ། སྟམྦྷ་ཡ་སྟམྦྷ་ཡ། པ་ཏ་ཡ་པ་ཏ་ཡ། གརྫ་
+095-tagged, l. 3318 (208b.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [208b.6]ཀཱི་ལི། མོ་ཀུ་ས་ཤ**པྡ**ཱ་རུ་ཏཾ་བཛྲོ་ཏྱཱ་ཏྟྭ་ཀ་ར་ཀ་ར་ཀྲྀ་ཏྱུ་ཀ་ར་ན་ར་ཎ་ཛ་ནཾ། ཨདྡྷ་ན་སིདྡྷཾ་པ་ར་མ་སིདྡྷཾ། པ་ཙ་ལཾ་ཙཎྜཾ་པི་ཏྲ། པ་ཀཾ་ས་ཀཾ་ར་ཀ་ཏ་ཀ་རཾ་ཤཱཾ་ཏི་ཀ་རཾ། པུཥྚི་ཀ་རཾ། སྭ་པ་ནོ་པ་ར་དརྵཾ། ཙ་ར་དན། སརྦ་ཀརྨ་ཨརྠ་སཱ་དྷ་ཀཾ། ཨཱ་ཀརྵཱ་ཎཱཾ། བཛྲ་བཱ་ཎི་སྱ། བོ་ལ་ལཱ་པ་ནཾ། བཛྲ་པཱ་ཎི་
+095-tagged, l. 3631 (228a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [228a.7]བསྣུན་པར་བྱའོ། །ན་མོ་བྷི་ན་ཡ་དུཾ་དུ་བྷི་ག་ཏཱ་ཡ་དུཾ་དུ་བྷི་ཐ། སུམྦྷ་སུམྦྷ་དྷ་རི་བྷསྨ་ཧ་ཧི། ས་མ་ཡཾ་མ་ཏེ་ན་ནུ་མ་ཏེ་ན་བྲྀཀྵ་མཱཛྙཱ་པ་ཡ་ཏི་ཨུ**ཏྒ**་ཏ་ནི་པ་ཏི་ནི་སྭཱ་ཧཱ། སྒོ་ལྕགས་དབྱེ་བ་དང་གཉིད་ལོག་ཏུ་གཞུག་པ་དང་དགྲོལ་བ་དང་། དབྱུང་བ་དང་། གཞོམ་པ་དང་། རབ་ཏུ་
+096-tagged, l. 52 (4b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 63 (5a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 77 (6a.5): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+096-tagged, l. 100 (7b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 111 (8a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 319 (21a.7): punctuation: invalid shad sequence
+  -> [21a.7]གཞན་གྱི་སྦྱོར་བ་འཆིང་བར་བྱེད། །རྡོ་རྗེ་ལུ་གུ་རྒྱུད་ཀྱི་རྟོག་པ་ལས་གསང་སྔགས་བསྟན་པའི་ལེའུ་སྟེ་དང་པོའོ**།།།**།དེ་ནས་འདིར་ནི་བཤད་བྱ་བ། །མཛེས་མ་རྡོ་རྗེ་ཁྲོ་མོ་ཡིས། །ལྷ་ཡི་ཏིང་འཛིན་སྦྱོར་བ་རྣམས། །ཐིག་ལེ་ཆེན་མོས་མཉན་པར་གྱིས། །ཨོཾ་བཛྲ་ཤྲིཾ་ཁཱ་
+096-tagged, l. 413 (27a.5): punctuation: invalid shad sequence
+  -> [27a.5]པའི་སྔགས་སོ། །ཨོཾ་ཤཱནྟི་ཀུ་རུ་ཨོཾ། །ཐམས་ཅད་དུ་ཞི་བའི་སྔགས་སོ། །ཧཱ་བ་ཤཾ་ཀུ་ར་ཧཱ། མཐའ་དག་དབང་དུ་བྱ་བ**འོ། །།**སྭཱ་པུཥྚི་ཀུ་རུ་སྭཱ་ཧཱ། ཐམས་ཅད་དུ་རྒྱས་པར་བྱེད་པའི་སྔགས་སོ། །ཕཊ་ཧཱུྃ་མཱ་ར་ཡ་མཱ་ར་ཡ་ཧཱུྃ་ཕཊ། གསོད་པའི་སྔགས་སོ། །བཾ་བི་དེ་ཤ་ཡ་བཾ། 
+096-tagged, l. 556 (36a.4): punctuation: invalid shad sequence
+  -> [36a.4]བོར་མ་ཐག་ཏུ་ཀླུ་ཐམས་ཅད་དགའ་བར་གྱུར་ཏེ། ཆར་གྱི་རྒྱུན་ཆེན་པོ་འབེབས་སོ། །གལ་ཏེ་དེ་མ་ཐག་མ་ཕབ་ན་ཀླུ་དེ་དག་ཐམས་ཅད་ལུས་ཞིག་པར་འགྱུར་རོ། །ཀླད་པ་ན་བར་འགྱུར་སྡུག་བསྔལ་ཆེན་པོ་འབྱུང་བར་འགྱུར་རོ། །འདི་ནི་ཆོ་ག་ག་གཉིས་པའོ**།།།**།
+096-tagged, l. 871 (55b.7): punctuation: invalid shad sequence
+  -> [55b.7]ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། དགེ་སློང་དེ་དག་རྣམས་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།འཕགས་པ་ལྕགས་མཆུ་ནག་པོའི་གཟུངས་རྫོགས་སྷོ**།།།**། 
+096-tagged, l. 882 (56b.2): punctuation: invalid shad sequence
+  -> [56b.2]བཟང་པོའི་གཟུངས་ཞེས་བྱ་བ་རྫོགས་སྷོ**།།།**།རྒྱ་གར་གྱི་མཁན་པོ་པིདྱཱ་ཀ་ར་སིང་ཧ་དང་། ལོ་ཙྪ་བ་བནྡེ་ཀླུའི་དབང་པོས་བསྒྱུར་བ།། {T765}༄༅༅། །རྒྱ་གར་སྐད་དུ། མ་ཎི་བྷ་དྲཱ་ཡ་ཡཀྵ་སེ་ན་ཀལྤ། བོད་སྐད་དུ། 
+096-tagged, l. 1131 (72a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [72a.3]ར་ཀུ་པ་ར། ཝ་ར་ཀུ་པ་ར། ཤུ་པ་ཀུ་པ་ར། ཡཀྵ་ཀུ་པར། གྷུ་ཧ་ཀུ་པར། མ་དྷ་མ་དྷ། གཛྫ་གཛྫ། ཏ་ཛྫ་ཏཛྫ། ན་རྪ་ནརྪ། ཧ་རི་ཧ་རི། ཧ་རི་ལོ་ཙ་ནི། ནཱི་ལ་ལོ་ཙ་ན། ཏཱི་བྱ་ལོ་ཙྪ་ན། སུ་ཝ་ར་ཎ་ལོ་ཙ་ན། མེགྷ་གྷོ་ཥོ་ད་བྷ་བ། ཧ་ལ་ཧ་ལ། ཤ**པྡ**་གཎ། ཀཱ་ནཱ་བ་
+096-tagged, l. 1133 (72a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [72a.5]མུཉྩ། ཤ**པྡ**་ཀཱུ་ལཾ། ནར་མུངྒ་ར། ཀུ་པར། བར་བར་བར། བཛྲ་དྷ་ར། པདྨ་དྷ་ར། མུ་ས་ལ་དྷ་ར། ཙཀྲ་དྷ་ར། ལངྒ་དྷ་ར། བར་ཤཱུ་དྷ་ར། ཨ་ཡོ་མུ་ས་ལ། ཏྲཱ་ས་ན་ཀ་ར། དྷ་ར་དྷ་ར། དྷ་ར་ཎི། དྷ་ར་ཙནྣ། སཱུརྱ་མཱ་ལ་དྷ་ར། ན་ཀྴ་ཏ། ན་ཀྵ་ཏྲ་གྲ་ཧ་མཎྜ་ལ་དྲ་ཧ་ཤ་ཨ་
+096-tagged, l. 1146 (73a.2): punctuation: invalid shad sequence
+  -> [73a.2]གི་བརྟག་པ་ལས་ལས་མང་པོའི་ལེའུ་སྟེ་དང་པོའོ**།།།**།ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མོ་བཻ་ཤྲ་མ་ཎ་སྱ། མ་ཧཱ་རཱ་ཛ་སྱ། ན་ར་ཀུ་པར་སྱ། གུ་ཧྱ་ཀཱནྟ་པ་ཏི། །མཱ་བརྟ་ཡིཥྱཱ་མི། ཨ་ནུ་རཱུ་བ་སུ་རཱུ་པ། ན་ར་ཀུ་པར་ཙནྡྲ། ཁན་ན་ཙ་ཀ་ན། ཧེ་མ་ཧཱ་ས་ཀ་ན། ན་ར་ཀུ་
+096-tagged, l. 1209 (77a.1): punctuation: invalid shad sequence
+  -> [77a.1]ནས་ཕུལ་ཏེ། ལན་ཅིག་བཟླས་པས་གུ་གུལ་གྱིས་བདུགས་ན་མི་སྣང་བར་འགྱུར་རོ། །གནོད་སྦྱིན་གར་མཁན་མཆོག་གི་བརྟག་པ་ལས། དཀྱིལ་འཁོར་སྒྲུབ་པའི་ཆོ་གའི་ལེའུ་སྟེ་བཞི་པའོ**།།།**།དེ་ནས་སྐུ་གཟུགས་ཀྱི་ཆོ་ག་བཤད་པར་བྱ་སྟེ། 
+096-tagged, l. 1226 (78a.2): punctuation: invalid shad sequence
+  -> [78a.2]སྔགས་ཀྱི་ལེའུ་སྟེ་དྲུག་པའོ**།།།**།འདི་མན་ཆད་ཕྱག་རྒྱའི་ཆོ་ག་བཤད་པར་བྱ་སྟེ། གར་མཁན་མཆོག་གི་སྤྱད་ཆེན་པོ་བླ་ན་མེད་པའི་མཆོག་སྒྲུབ་པའོ། །ཐལ་མོ་གཉིས་མཉམ་པར་སྦྱར་ཏེ། སོར་མོའི་རྩེ་མོ་རྣམས་མཉམ་པར་གཞག་ལ་མཐེ་བོང་དང་མཐེ་ཆུང་གཉིས་
+096-tagged, l. 1322 (84a.2): punctuation: invalid shad sequence
+  -> [84a.2]སྡེ་དཔོན་ཡང་དག་ཤེས་དེ་ལྟར་རྒྱལ་པོ་གནས་གསུམ་པོ་འདིའི་མིང་གི་རྣམ་གྲངས་རྣམས་ཤེས་པར་གྱིས་ཤིག །གནོད་སྦྱིན་གར་མཁན་མཆོག་གི་བརྟག་པ་ཕྱི་མ་ལས་རྣམ་ཐོས་སྲས་ཀྱི་མིང་གི་རྣམ་གྲངས་བསྟན་པའི་ལེའུ་སྟེ་བཅུ་གཅིག་པའོ**།།།**།དེ་ནས་སྡེ་དཔོན་
+096-tagged, l. 1335 (84b.7): punctuation: invalid shad sequence
+  -> [84b.7]སོགས་པའི་ཡོན་ཏན་རྣམས། །རིག་པ་འདི་ལས་འབྱུང་བར་འགྱུར། །གནོད་སྦྱིན་གར་མཁན་མཆོག་གི་བརྟག་པ་ཕྱི་མ་ལས། བཅུ་བདུན་པའི་ལེའུ་སྟེ་བཅུ་གཉིས་པའོ**།།།**།སྡེ་དཔོན་ཆེན་པོ་ཡང་དག་ཤེས། །གནས་གསུམ་པ་ཡི་རྒྱལ་པོ་ཡི། །སྒྲུབ་
+096-tagged, l. 1348 (85b.4): punctuation: invalid shad sequence
+  -> [85b.4]གནོད་སྦྱིན་གར་མཁན་མཆོག་གི་བརྟག་པ་ཕྱི་མ་ལས་གདུལ་བྱའི་ཕྱག་ན་རྡོ་རྗེའི་གསང་སྔགས་ཀྱི་ཕན་ཡོན་བསྟན་པའི་ལེའུ་སྟེ་བཅུ་གསུམ་པའོ**།།།**།སྡེ་དཔོན་ཆེན་པོ་ཡང་དག་ཤེས། །རིག་པའི་ཆོ་ག་ཟབ་མོ་འདི། །བསྒྲིམ་མི་དགོས་པ་ལས་ཐམས་ཅད་
+096-tagged, l. 1366 (86b.6): punctuation: invalid shad sequence
+  -> [86b.6]ལེའུ་སྟེ་བཅྭ་ལྔ་པའོ**།།།**།དེ་ནས་གཞན་ཡང་གནོད་སྦྱིན་ཆེན་པོའི་སྒྲུབ་པ་བཤད་པར་བྱ་སྟེ། དེ་ཡང་གང་ཞེ་ན། རླུང་དང་། མེ་དང་། སའི་ཁྱོན་དང་། རི་རབ་རྣམས་ཡོངས་སུ་གྱུར་པ་ལས་ལྷའི་ཕོ་བྲང་དུ་གྱུར་པ་ནི། ལྕང་ལོ་ཅན་གྱི་བཀོད་པ་ལས། 
+096-tagged, l. 1414 (89b.6): punctuation: invalid shad sequence
+  -> [89b.6]སྩལ་བར་གྱིས་ཤིག །དེ་ནས་གནོད་འཛིན་གྱིས་གསང་བ་པའི་བདག་པོ་དེ་ལྟར་བགྱིའོ་ཞེས་གསོལ་ཏེ། །ལན་གསུམ་དུ་བསྐོར་བ་ཆོས་བཞིན་དུ་བྱས་ཏེ་འཁོད་པར་གྱུར་ཏོ། །འཕགས་པ་གནོད་འཛིན་དཔལ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སྷོ**།།།**།
+096-tagged, l. 1671 (105b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1769 (112a.1): punctuation: possible wrong beginning of text: "འཕགས" should be "༄༅༅། །"
+096-tagged, l. 1780 (112b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1781 (112b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1783 (112b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1787 (113a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1793 (113b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1795 (113b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1797 (113b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1801 (114a.1): punctuation: possible wrong beginning of text: "དཀོན" should be "༄༅༅། །"
+096-tagged, l. 1802 (114a.2): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+096-tagged, l. 1805 (114a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1807 (114a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1809 (114b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1811 (114b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1813 (114b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [114b.5]ཕཊ་ཕཊ། ས་མ་ཡ་ས་མ་ཡ། ཨམྲྀ་ཏོ་**ཏྦ**ྷ་བོཏྦྷ་བ། པཱ་བཾ་མེ་ནཱ་ཤ་ཡ་སྭཱ་ཧཱ། སྡིག་པ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། {T787}༄༅། །དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་
+096-tagged, l. 1813 (114b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [114b.5]ཕཊ་ཕཊ། ས་མ་ཡ་ས་མ་ཡ། ཨམྲྀ་ཏོ་ཏྦྷ་བོ**ཏྦ**ྷ་བ། པཱ་བཾ་མེ་ནཱ་ཤ་ཡ་སྭཱ་ཧཱ། སྡིག་པ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། {T787}༄༅། །དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་
+096-tagged, l. 1813 (114b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1815 (114b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1817 (115a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1820 (115a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1821 (115a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1825 (115b.1): punctuation: possible wrong beginning of text: "དཀོན" should be "༄༅༅། །"
+096-tagged, l. 1827 (115b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1829 (115b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1834 (116a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1837 (116a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1838 (116a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1841 (116b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1843 (116b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1844 (116b.4): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+096-tagged, l. 1845 (116b.5): punctuation: invalid shad sequence
+  -> [116b.5]གསུམ་ལ་ཕྱག་འཚལ་ལོ། །ན་མོ་ཧེ་ཏུ་ཧེ་གེ་སྭཱ་ཧཱ། བསིལ་ཡབ་ཀྱིས་ལུས་ལ་གཡབས་ན་མཁྲིས་པའི་ནད་དང་། མིག་སེར་དང་། གཡའ་བའི་ནད་སོལ་བར་བྱེད་དོ། །མཁྲིས་པའི་ནད་སེལ་བར་བྱེད་པའི་གཟུངས་རྫོགས་སོ**།།།**།
+096-tagged, l. 1846 (116b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1847 (116b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1850 (117a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 1852 (117a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 3586 (226a.1): punctuation: possible wrong beginning of text: "༄༅༅།" should be "༄༅༅། །"
+096-tagged, l. 3636 (229a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 3981 (250b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 3990 (251a.5): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+096-tagged, l. 4019 (253a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4039 (254a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4045 (254b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4072 (256a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4086 (257a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4112 (258b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4122 (259b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4134 (260a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4146 (261a.1): punctuation: possible wrong beginning of text: "དཀོན" should be "༄༅༅། །"
+096-tagged, l. 4149 (261a.4): punctuation: invalid shad sequence
+  -> [261a.4]སྟོབས་ལྡན་བྲམ་ཟེའི་རིགས། །ཚེ་ལོ་བཞི་ཁྲིའི་དུས་ན་གྲོང་ཁྱེར་མཛེས་ལྡན་**དུ་།** །ཤི་རི་ཤ་ཡི་ཤིང་དྲུང་མངོན་པར་སངས་རྒྱས་པ། །དེང་འདིར་བདེ་གཤེགས་བཀྲ་ཤིས་ཕུན་སུམ་ཚོགས་གྱུར་ཅིག །འདྲེན་པ་གསེར་ཐུབ་བསླབ་པ་མཆོག་ལྡན་བྲམ་ཟེའི་རིགས། །
+096-tagged, l. 4154 (261b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4160 (261b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4164 (262a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4168 (262a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4172 (262b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+096-tagged, l. 4192 (263b.7): punctuation: possible wrong beginning of text: "༄༅།།" should be "༄༅༅། །"
+098-tagged, l. 1745 (110b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+098-tagged, l. 3105 (195b.1): punctuation: invalid shad sequence
+  -> [195b.1]རུ་བླངས་པ་ཡིས། །རྡུལ་སྙེད་བཅས་པའི་འཁོར་ཚོགས་རྣམས། །རང་རང་རྒྱན་དང་གོས་དོར་**ཏེ། །།**དཔའ་བོས་སྒེག་མོའི་ཚུལ་འཛིན་ཅིང་། །དཀྱིལ་འཁོར་ཕྱོགས་བཅུའི་རྡུལ་སྙེད་དུ། །གླུ་དང་གར་ནི་སྣ་ཚོགས་ཀྱིས། །ཐ་མལ་ཡིད་རྟོགས་བཅད་ནས་ནི། །བདེ་ཆེན་
+098-tagged, l. 3342 (210a.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [210a.6]ན་མེ། ཧཱུྃ་བཛྲ་གན་དྷ་པྲ་བྷཱ་ན་བྷཱ་ཥ་ཧཱུྃ། ཐཱྃ་པྲ་བྷཱ་ན་མཎྜ་ལ་ཐཱྃ། སྭཱྃ་བཛྲ་གན་དྷ་བྷཱ་ཥ་ཧྃ་པྲ་བྷཱ་ན་སྭཱྃ། ཧཱུྃ་རཏྣ་སྭྃ་སཱ་དྷ་བྷ་དྲ་པྲ་བྷཱ་ན་སྭཱ་ཧྲཱིཿ བཛྲ་གན་དྷ་བྷཱ་ཥ་པྲ་བྷཱ་ན་ཧྲཱིཿ མུ་ཨུཏྤ་ལ་ནཱི་ལ་བྲ་བྷཱ་ན་མུ། ཨཱ་བཛྲ་གན་དྷ་བྷཱ་ཥ་པྲ་བྷཱ་ན་ཨཱཿ། ཕཊ་བཛྲ་ཨ་མཿ མུ**ཏྒ**་ར་པྲ་བྷཱ་ན་ཕཊ་
+098-tagged, l. 3343 (210a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [210a.7]ཕཊ། ཨོྃ་བཛྲ་གནྡྷ་བྷཱ་ཥ་པྲ་བྷཱ་ན་ཨོྃ་ཨོྃ། ཕཊ་མ་ཧཱ་བཛྲ་པྲ་བྷཱ་ན་ཕཊ་ཕཊ། ཧཱུྃ་མ་ཧཱ་རཏྣ་བཛྲ་ག་ན་དྷ་བྷཱ་ཥ་པྲ་བྷཱ་ན་ཧཱུྃ་ཧཱུྃ། ཕཊ་ཧྲིཿ པདྨ་མུ**ཏྒ**་ར་པྲ་བྷཱ་ན་ཧྲཱི་ཧྲཱིཿ། ཨོྃ་མ་ཧཱ་བཛྲ་པདྨ་བཛྲ་གན་དྷ་བྷཱ་ཥ་པྲ་བྷཱ་ན་ཧྲཱིཿཧྲཱིཿ། ཨ་ཀརྨ་མུཏྒ་ར་བཛྲ་པྲ་བྷཱ་ན་ཕཊ་ཕཊ། ཨ་ཀརྨ་བཛྲ་
+098-tagged, l. 3343 (210a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [210a.7]ཕཊ། ཨོྃ་བཛྲ་གནྡྷ་བྷཱ་ཥ་པྲ་བྷཱ་ན་ཨོྃ་ཨོྃ། ཕཊ་མ་ཧཱ་བཛྲ་པྲ་བྷཱ་ན་ཕཊ་ཕཊ། ཧཱུྃ་མ་ཧཱ་རཏྣ་བཛྲ་ག་ན་དྷ་བྷཱ་ཥ་པྲ་བྷཱ་ན་ཧཱུྃ་ཧཱུྃ། ཕཊ་ཧྲིཿ པདྨ་མུཏྒ་ར་པྲ་བྷཱ་ན་ཧྲཱི་ཧྲཱིཿ། ཨོྃ་མ་ཧཱ་བཛྲ་པདྨ་བཛྲ་གན་དྷ་བྷཱ་ཥ་པྲ་བྷཱ་ན་ཧྲཱིཿཧྲཱིཿ། ཨ་ཀརྨ་མུ**ཏྒ**་ར་བཛྲ་པྲ་བྷཱ་ན་ཕཊ་ཕཊ། ཨ་ཀརྨ་བཛྲ་
+099-tagged, l. 531 (34b.3): punctuation: possible wrong beginning of text: "བོད་" should be "༄༅༅། །"
+099-tagged, l. 941 (60a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+099-tagged, l. 4027 (253a.3): punctuation: possible wrong beginning of text: "མཆོད" should be "༄༅༅། །"
+099-tagged, l. 4029 (253a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 33 (3b.1): punctuation: possible wrong beginning of text: "རྒྱུ" should be "༄༅༅། །"
+100-tagged, l. 38 (3b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+error on line 888 leap in page numbers from 56 to 58
+100-tagged, l. 891 (58a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [58a.3]ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། འཇམ་དཔལ་དེ་བཞིན་གཤེགས་པའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པོ་འདི་དག་གང་ལ་ལ་ཞིག་ཡི་གེར་འདྲི་འམ་ཡི་གེར་འདྲིར་འཇུག་གམ། གླེགས་བམ་ལ་བྲིས་ཏེ་ཁྱིམ་ན་འཆང་ངམ་
+100-tagged, l. 893 (58a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [58a.5]མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་སུ་བི་ནིཤྩི་ཏ་ཏེ་ཛོ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་བ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་
+100-tagged, l. 895 (58a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [58a.7]ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། ཡང་དེའི་ཚེ་སངས་རྒྱས་བྱེ་བ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞིས་དགོངས་པ་གཅིག་དང་དབྱངས་
+100-tagged, l. 898 (58b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [58b.2]བ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། ཡང་དེའི་ཚེ་སངས་རྒྱས་བྱེ་བ་ཕྲག་བདུན་ཅུ་རྩ་བདུན་གྱིས་དགོངས་པ་གཅིག་དང་དབྱངས་གཅིག་གིས་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་གསུངས་སོ། །ཨོྃ་ན་མོ་བྷ་ག་
+100-tagged, l. 899 (58b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [58b.3]བ་ཏེ། ཨ་པ་རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་སུ་བི་ནི་ཤྩི་ཏ་ཏེ་ཛོ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་
+100-tagged, l. 901 (58b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [58b.5]ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་བ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། ཡང་དེའི་ཚེ་སངས་རྒྱས་བྱེ་བ་ཕྲག་ལྔ་བཅུ་རྩ་ལྔས་དགོངས་པ་
+100-tagged, l. 903 (58b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [58b.7]པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་བ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། ཡང་དེའི་ཚེ་སངས་རྒྱས་བྱེ་བ་ཕྲག་བཞི་བཅུ་རྩ་ལྔས་དགོངས་པ་གཅིག་དང་དབྱངས་གཅིག་གིས་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་གསུངས་སོ། །ཨོྃ་ན་མོ་
+100-tagged, l. 905 (59a.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [59a.1]བྷ་ག་བ་ཏེ། ཨ་པ་རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་སུ་བི་ནི་ཤྩི་ཏ་ཏེ་ཛོ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་
+100-tagged, l. 907 (59a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [59a.3]ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། ཡང་དེའི་ཚེ་སངས་རྒྱས་བྱེ་བ་ཕྲག་ཉི་ཤུ་རྩ་
+100-tagged, l. 909 (59a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [59a.5]པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། ཡང་དེའི་ཚེ་སངས་རྒྱས་བྱེ་བ་ཕྲག་གང་གཱའི་ཀླུང་བཅུའི་བྱེ་མ་སྙེད་ཀྱིས་དགོངས་པ་གཅིག་དང་དབྱངས་གཅིག་གིས་ཚེ་
+100-tagged, l. 911 (59a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [59a.7]སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨཱ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་ཡི་གེར་འདྲིའམ་ཡི་གེར་འདྲིར་འཇུག་ན་དེ་ཚེ་ཟད་པ་ལས་ཚེ་ལོ་བརྒྱ་ཐུབ་པར་འགྱུར་ཏེ་ཚེ་ཡང་རྣམ་པར་འཕེལ་བར་འགྱུར་རོ། །ཨོྃ་ན་མོ་
+100-tagged, l. 913 (59b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [59b.1]བྷ་ག་བ་ཏེ། ཨ་པ་རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་སུ་བི་ནི་ཤྩི་ཏ་ཏེ་ཛོ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་བ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་
+100-tagged, l. 916 (59b.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [59b.4]སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་ཡི་གེར་འདྲིའམ་ཡི་གེར་འདྲིར་འཇུག་ན་དེས་ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་འདྲིར་འཇུག་པར་འགྱུར་རོ། །ཨོྃ་ན་མོ་
+100-tagged, l. 917 (59b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [59b.5]བྷ་ག་བ་ཏེ། ཨ་པ་རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་སུ་བི་ནི་ཤྩི་ཏ་ཏེ་ཛོ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷ་བ་བི་
+100-tagged, l. 919 (59b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [59b.7]ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་
+100-tagged, l. 922 (60a.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [60a.2]ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་བ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་བ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་ཡི་གེར་འདྲིའམ་ཡི་གེར་འདྲིར་འཇུག་ན་དེའི་སྡིག་པའི་ཕུང་བོ་རི་
+100-tagged, l. 924 (60a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [60a.4]ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་ཡི་གེར་འདྲི་འམ་ཡི་གེར་འདྲིར་འཇུག་ན་དེ་ལ་བདུད་དམ་བདུད་ཀྱི་རིས་ཀྱི་ལྷ་དང་། གནོད་སྦྱིན་དང་སྲིན་པོས་གླགས་བལྟས་ཀྱང་གླགས་རྙེད་པར་མི་འགྱུར་རོ། །
+100-tagged, l. 925 (60a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [60a.5]ཨོྃ་ན་མོ་བྷ་ག་བ་ཏེ། ཨ་པ་རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་སུ་བི་ནི་ཤྩི་ཏ་ཏེ་ཛོ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་བ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་
+100-tagged, l. 929 (60b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [60b.1]པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་ཡི་གེར་འདྲི་འམ་ཡི་གེར་འདྲིར་འཇུག་ན་རྒྱལ་པོ་ཆེན་པོ་བཞི་
+100-tagged, l. 931 (60b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [60b.3]པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་ཡི་གེར་འདྲི་འམ་ཡི་གེར་འདྲིར་འཇུག་ན་དེ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་ཏུ་མེད་པའི་སངས་རྒྱས་ཀྱི་ཞིང་
+100-tagged, l. 933 (60b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [60b.5]སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། ས་ཕྱོགས་གང་དུ་མདོ་སྡེ་དཀོན་མཆོག་འདི་འདྲི་བའི་ས་ཕྱོགས་དེ་ཡང་མཆོད་རྟེན་དུ་འགྱུར་ཏེ་ཕྱག་བྱ་བར་ཡང་འོས་པར་འགྱུར་རོ། །བྱོལ་སོང་གི་སྐྱེ་གནས་སུ་སོང་བའི་བྱ་དང་རི་དགས་གང་
+100-tagged, l. 935 (60b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [60b.7]ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་ཡི་གེར་འདྲི་འམ་ཡི་གེར་འདྲིར་
+100-tagged, l. 938 (61a.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [61a.2]པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་བ་རི་བུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སཱ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭ་ཧཱ། གང་ལ་ལ་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་ཕྱིར་ཀཱརྵཱ་པ་ཎ་འགའ་ཞིག་སྦྱིན་པ་བྱིན་ན་དེས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རིན་པོ་ཆེ་སྣ་བདུན་
+100-tagged, l. 940 (61a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [61a.4]ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ལ་ལ་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་མཆོད་པ་བྱེད་པར་འགྱུར་བ་དེས་དམ་པའི་ཆོས་མཐའ་དག་མཆོད་པར་འགྱུར་རོ། །ཨོྃ་ན་མོ་བྷ་ག་བ་ཏེ། ཨ་པ་རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་
+100-tagged, l. 941 (61a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [61a.5]ན་སུ་བི་ནི་ཤྩི་ཏ་ཏེ་ཛོ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་བ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། འདི་
+100-tagged, l. 945 (61b.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [61b.1]པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་བ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། འདི་ལྟ་སྟེ་དཔེར་ན་རིན་པོ་ཆེའི་ཕུང་པོ་རི་རབ་ཙམ་སྤུངས་ཏེ་སྦྱིན་པ་བྱིན་པ་དེའི་བསོད་ནམས་ཀྱི་ཕུང་པོའི་ཚད་ནི་བགྲང་བར་
+100-tagged, l. 947 (61b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [61b.3]པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏེ། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། འདི་ལྟ་སྟེ་དཔེར་ན་རྒྱ་མཚོ་ཆེན་པོ་བཞི་ཆུས་ཡོངས་སུ་གང་བའི་ཐིགས་པ་རེ་རེ་ནས་བགྲང་བར་ནུས་ཀྱི་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདིའི་བསོད་ནམས་ཀྱི་ཕུང་པོའི་ཚད་ནི་
+100-tagged, l. 949 (61b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [61b.5]མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་བི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། གང་ཞིག་ཚེ་དཔག་ཏུ་མེད་པའི་མདོ་སྡེ་འདི་ཡི་གེར་འདྲི་འམ་ཡི་གེར་འདྲིར་འཇུག་གམ། བསྟི་སྟང་དུ་བྱས་ཏེ་མཆོད་པ་བྱེད་པར་འགྱུར་བ་དེས་ཕྱོགས་བཅུའི་སངས་རྒྱས་ཀྱི་ཞིང་ཐམས་ཅད་དུ་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ལ་ཕྱག་བྱས་པ་
+100-tagged, l. 950 (61b.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [61b.6]དང་མཆོད་པ་བྱས་པ་ཡིན་ནོ། །ཨོྃ་ན་མོ་བྷ་ག་བ་ཏེ། ཨ་པ་རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་སུ་བི་ནི་ཤྩི་ཏ་ཏེ་ཛོ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་པུ་ཎྱེ་པུ་ཎྱེ་མ་ཧཱ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱེ་ཨ་པ་རི་མི་ཏ་པུ་ཎྱ་ཛྙཱ་ན་སཾ་བྷ་རོ་པ་ཙི་ཏི། ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་
+100-tagged, l. 957 (62a.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [62a.5]ཨོྃ་སརྦ་སཾ་སྐཱ་ར་པ་རི་ཤུདྡྷ་དྷརྨྨ་ཏེ་ག་ག་ན་ས་མུ**ཏྒ**་ཏེ་སྭ་བྷཱ་བ་པི་ཤུདྡྷེ་མ་ཧཱ་ན་ཡ་པ་རི་བཱ་རེ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་དགྱེས་ཤིང་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་
+100-tagged, l. 958 (62a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 987 (64a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 988 (64a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [64a.4]སཾ་མྱཀྶཾ་བུད་དྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་ཨ་མི་ཏེ། ཨ་མི་ཏོ**ཏྦ**ྷ་བེ། ཨ་མི་ཏ་སཾ་བྷ་བེ་ཨ་མི་ཏ་བིཀྲཱ་ནྟེ། ཨ་མི་ཏ་ག་མི་ནི། ག་ག་ན་ཀཱིརྟི་ཀ་རེ། སརྦ་ཀླེ་ཤཀྵ་ཡཾ་ཀ་རི་སྭཱ་ཧཱ། གཟུངས་འདིའི་ཆོ་ག་ནི་འདི་ཡིན་ཏེ། ལན་ཅིག་བརྗོད་པས་བསྐལ་པ་འབུམ་དུ་བསགས་པའི་ལས་ཀྱི་སྒྲིབ་པ་འབྱང་བར་
+100-tagged, l. 994 (65a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1058 (69a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1114 (72b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1151 (74b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1175 (76a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1200 (77b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1230 (79b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1322 (85b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1346 (87a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1347 (87a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1351 (87a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1352 (87a.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [87a.7]བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྨན་གྱི་བླ་བཻ་ཌཱུརྱ་འོད་ཀྱི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །ཨོྃ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱེ་མ་ཧཱ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱ་རཱ་ས་མུ**ཏྒ**་ཏེ་སྭཱ་ཧཱ། དེ་བཞིན་གཤེགས་པ་སྨན་གྱི་བླའི་སྙིང་པོའི་གཟུངས་རྫོགས་སོ།། །།
+100-tagged, l. 1354 (87b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1357 (87b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1358 (87b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [87b.5]ཡས་ཀྱི་གཟུངས་སྔགས། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྣང་བ་མཐའ་ཡས་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཨ་མི་ཏེ། ཨ་མི་ཏོ**ཏྦ**ྷ་བེ། ཨ་མི་ཏ་སཾ་བྷ་བེ། ཨ་མི་ཏ་བི་ཀྲཱནྟི་ཀ་རེ། ཨ་
+100-tagged, l. 1363 (88a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1366 (88a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1373 (88b.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [88b.4]པ་པདྨའི་སྤྱན་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། {T867}༄༅། །བཅོམ་ལྡན་འདས་སྣང་བ་མཐའ་ཡས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཨ་མི་ཏེ། ཨ་མི་ཏོ**ཏྦ**ྷ་བེ། ཨ་མི་ཏ་
+100-tagged, l. 1373 (88b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1375 (88b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1379 (89a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1380 (89a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1381 (89a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1435 (92b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [92b.2]བི་མ་ལཱ་ཀ་རེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུཏྒ་ཏེ། བི་མ་ལ་ས་མུ**ཏྒ**་ཏེ། རིག་སྔགས་འདི་ནི་རིག་སྔགས་ཆེ། །ལྷ་རྣམས་ཀྱིས་ནི་
+100-tagged, l. 1440 (92b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1460 (94a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [94a.3]ཨ་མི་ཏོ**ཏྦ**ྷ་བེ། ཨ་མི་ཏ་སཾ་བྷ་བེ། ཨ་མི་ཏ་བི་ཀྲཱནྟེ། ཨ་མི་ཏ་བི་ཀྲཱནྟི་ཀ་རེ། ཨ་མི་ཏ་ག་ག་ན་ཀཱིརྟི་ཀ་རེ་སྭཱ་ཧཱ། དེ་བཞིན་གཤེགས་པ་ཡོན་ཏན་འབྱུང་གནས་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ག་ག་ན་ཨ་ཀ་ར། ག་ག་ན་སཾ་བྷ་བེ། ག་ག་ན་ཀཱིརྟི་ཀ་རེ་སྭཱ་
+100-tagged, l. 1467 (94b.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [94b.2]དཔལ་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཛ་ཡེ་ཛེ་ཡེ། ཛ་ཡ་ལ་བྷེ། ཛ་ཡ་མ་ཧཱ་མ་ཧེ་སྭཱ་ཧཱ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ག་ག་ན་ཨརྱེ། ག་ག་ན་ས་མུ**ཏྒ**་ཏེ། ག་ག་ན་བི་ཀྲཱནྟ། བི་
+100-tagged, l. 1474 (95a.1): sanskrit: possible invalid Sanskrit sandhi
+  -> [95a.1]བུདྡྷ་ཨ་བྷི་ཥིཀྟ་ཡཻ་སྭཱ་ཧཱ། ཨེ་ཀ་ཤྲིངྒཱ་ཡཻ་སྭཱ་ཧཱ། ཨ་ཤྲིངྒཱ་ཡཻ་སྭཱ་ཧཱ། བྷཱུ་ཏཱ་ཡཻ་སྭཱ་ཧཱ། ཨ་སཾ་བྷཱུ་ཏཱ་ཡཻ་སྭཱ་ཧཱ། སརྦ་དུཿཁོ་པྲ་ཤ་མ་ནྱཻ་སྭཱ་ཧཱ། ཟླ་འོད་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཙནྡྲ་པྲ་བྷེ། སུ་པྲ་བྷེ། པྲ་བྷཱ་ཀ་རེ། པྲ་བྷོ**ཏྒ**་ཏེ། 
+100-tagged, l. 1475 (95a.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [95a.2]པྲ་བྷོ་**ཏྒ**་ཏེ། པྲ་བྷ་བ་ཏི། པྲ་བྷ་བ་ཏི། དྷརྨ་བི་ཤུདྡྷེ། ཀརྨཱ་བི་ཤུདྡྷིརྦྷ་བ་ཏུ་མེ་སྭཱ་ཧཱ། ཚེ་བརྗོད་གང་ལ་ལ་ཞིག་རིག་སྔགས་འདིས་ཉིན་ཞག་བདུན་དུ་ཉིན་ལན་བདུན་མཚན་ལན་བདུན་དུ་བྱབ་པ་བྱས་ན། དེའི་ལས་ཀྱི་སྒྲིབ་པ་མ་ལུས་པར་རྣམ་པར་དག་པར་འགྱུར་རོ། །དགེ་
+100-tagged, l. 1490 (96a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1559 (100b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1596 (103a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1624 (104b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1669 (107b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1728 (111a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1773 (114a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1828 (117b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1865 (119b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1900 (122a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 1916 (123a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 2013 (129a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 2071 (132b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [132b.5]ལན་གསུམ་བཟླས་ཤིང་བྱིན་གྱིས་བརླབས་ན་དེ་ཉིད་ཐབས་དང་ཤེས་རབ་འབྲེལ་བ་ལས་ཆོས་ཀྱི་དབྱིངས་ཉིད་ཀྱི་མཆོད་རྟེན་དུ་འགྱུར་རོ། །དེ་བཞིན་དུ་ཡིད་ཀྱིས་ཀྱང་དམིགས་སོ། །དེ་ནས་མཆོད་རྟེན་འདེབས་པའི་ཚེ་རིག་པ་ཆེན་མོ་འདི་བརྗོད་པར་བྱའོ། །ཨོྃ་བཛྲ་མུ**ཏྒ**་ར་ཨཱ་
+100-tagged, l. 2117 (135b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 3360 (213a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 3395 (215b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 3428 (217b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 3477 (220b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [220b.3]ཚོགས་ཆེན་པོ་ལ་ཕན་པ་དང་བདེ་བ་དང་། རྣམ་པར་ཐར་བའི་དོན་གྱི་ཕྱིར་ཡང་ངོ་། །ན་མ་སྟྲཻ་ཡ་དྷྭཱ་ནུ་ག་ཏ་པྲ་ཏིཥྛི་ཏེ་བྷྱཿ། སརྦ་བུདྡྷ་བོ་དྷི་ས་ཏྭེ་བྷྱཿ། ན་མཿཔྲ་ཏྱེ་ཀ་བུདྡྷཱརྱ་ཤྲཱ་བ་ཀ་སཾ་གྷེ་བྷྱོ྅ཏཱི་ཏཱ་ནཱ་ག་ཏ་པྲ་ཏྱུཏྤ་ནྣེ་བྷྱཿ། ན་མཿསཾ་མྱ**ཀྒ**་ཏཱ་ནཱཾ། ན་མཿསཾ་
+100-tagged, l. 3479 (220b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [220b.5]བི་ན་རྡི་ཏེ་ཤྭ་ར་རཱ་ཛཱ་ཡ་ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མཿསིཾ་ཧ་བི་ཀྲཱི་ཌི་ཏ་རཱ་ཛཱ་ཡ་ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མཿཨ་མི་ཏཱ་བྷཱ་ཡ་ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མཿསུ་པྲ་ཏིཥྠི་ཏེ་མ་ཎི་ཀཱུ་ཊ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མཿས་མནྟ་རསྨྱུ**ཏྒ**་ཏ་ཤྲཱི་ཀཱུ་ཊ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ན་མོ་བི་བ་ཤྱི་ནེ་ཏ་ཐཱ་
+100-tagged, l. 3486 (221a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [221a.4]ཀི་ཏེ་ཤྭ་ར་མུ་ཁོ**ཏྒ**ིརྞྞ། ཨ་མོ་གྷ་པཱ་ཤ་རཱ་ཛ་ནཱ་མ་ཧྲི་ད་ཡཾ་ཏ་ཐཱ་ག་ཏཱ་སཾ་མུ་ཁཾ་བྷུ་ཥི་ཏཾ། མ་ཧ་ཏཱཾ་པཪྵནྨདྷྱེ་ཨ་ཧ་མི་དཱ་ནཱི་མཱ་བཪྟ་ཡིཥྱཱ་མི་སིདྡྷྱནྟུ་མེ་མནྟྲ་པ་དཱཿསརྦ་ཀཱརྱཱ་ཎི། སརྦ་བྷ་ཡེ་བྷྱོ་མ་མ་སརྦ་སཏྭཱ་ནཱཉྩ་རཀྵ་བྷ་བ་ཏུ། ཏདྱ་ཐཱ། ཨོྃ་ཙ་ར་ཙ་ར། ཙི་རི་ཙི་རི། ཙུ་རུ་ཙུ་
+100-tagged, l. 3529 (223b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 3574 (226b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 3605 (228b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 3669 (232b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [232b.3]ཀ་རཱ་བི་དྷ་མ་ན་ཀ་རཱ་ཡ། ན་མཿསརྦ་བི་དྱཱ་རཱ་ཛ། བ་ཤ་པྲཱཔྟ་ཡེ། མ་ཧཱ་ཡོ་ག་ཡོ་གཱི་ཤྭ་རཱ་ཡ་ཏ་སྱ་ན་མ་སྐྲྀ་ཏྭཱ་ཨི་དཾ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་མུ་ཁོ**ཏྒ**ཱིརྞཾ་རྀ་ཥི་བི་ད་དཱ། དེ་བ་ནཱ་ག། ཡཀྵ་རཱཀྵ་ས། ཤཱཀྱ་པྲ་ཧྨ། ལོ་ཀ་པཱ་ལ་བིཥྞཱ་མ་ཧེ་ཤྭ་ར། ན་རཱ་ཡ་ཎཱ། སྐནྡྷ་
+100-tagged, l. 3825 (242a.7): punctuation: possible wrong beginning of text: "འཇམ་" should be "༄༅༅། །"
+100-tagged, l. 4027 (255a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4115 (260b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4127 (261a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4140 (262a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4147 (262b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4173 (264a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4187 (265a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4195 (265b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4225 (267a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4249 (268b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4287 (271a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4310 (272b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4318 (273a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [273a.4]ཤུདྡྷེ། པྲ་བྷེ། ཨ་བ་བྷཱ་སེ། ཨ་བ་བྷཱ་ས་བ་ཏི། ཨུ་པ་ཡོ་གེ། ཨ་ནུཏྟ་རེ། ས་མ་ཙིཏྟེ། བུདྡྷ། ཨ་དྷིཥྛཱ་ནེ། ཤཱི་ལེ་བི་ཤོ་དྷ་ནེ། ཨ་སཾ་ཧརྱེ། སུ་ནི་གྲྀ་ཧཱི་ཏཾ་མ་ར་བ་ལཱ་ནཱཾ། པ་ར་ཛ་ཡོ་དྲྀཥྚི་ག་ཏྲཱ་ཎཱྃ། ཛྭ་ལ་ནཾ་དྷརྨོལྐཱ་ཡཻ། ཨུ**ཏྒ**ྷ་ཊཱ་ནཱཾ། དྷརྨ་ནི་དྷ་ན་སྱ། 
+100-tagged, l. 4326 (273b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4363 (276a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4390 (277b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4417 (279a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4425 (279b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4430 (280a.4): sanskrit: possible invalid Sanskrit sandhi
+  -> [280a.4]ཡ་ཀལྦེ། ཀལྦེ་ནི། ག་ཎེ་ཨ་ནནྟ་ཀལྦེ། ཨ་མྲྀ་ཏ་ཀལྦེ། ཧུ་ཏཱ་ཤ་རེ། ཨ་ནནྟ་མུ་ཁེ། ཨ་ནནྟ་ཙཀྵུ་ས་མུ**ཏྒ**་ཏེ། ཨོྃ་བྷ་སྭཱ་ཧཱ། རིགས་ཀྱི་བུ་གཟུངས་ཀྱི་གསང་སྔགས་འདི་དག་ནི་སེམས་ཅན་ངན་སོང་དུ་འགྲོ་བ་རྣམས་ཀྱི་དོན་གྱི་ཕྱིར། སངས་
+100-tagged, l. 4436 (280b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4444 (281a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4446 (281a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4449 (281a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4456 (281b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4459 (282a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4462 (282a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4464 (282a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4465 (282a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4468 (282b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4470 (282b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4471 (282b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+100-tagged, l. 4472 (282b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 469 (30b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 641 (41b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 657 (42b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 678 (43b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 698 (45a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 711 (45b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 713 (46a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 727 (46b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 777 (50a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 787 (50b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 804 (51b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 830 (53a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 846 (54a.6): punctuation: invalid end of line
+101-tagged, l. 869 (55b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 877 (56a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 885 (56b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 895 (57a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 898 (57b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 913 (58b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1257 (80a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1285 (81b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1314 (83b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1324 (84a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1347 (85b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1358 (86a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1369 (87a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1375 (87a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1404 (89a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1419 (90a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1455 (92a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1479 (93b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [93b.7]བྲ་ཤ་སུ་རེ། དྷུ་དྷུ། ཨུཀྐ་མུ**ཀྒ**ྲ། ཨུཀྒྲ་བ་ཏི། བི་ས་ར་གྲ་མ་ཏི། ཐམས་ཅད་དང་ལྡན་པའི་གླིང་བཞི་བ་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་གནོད་སྦྱིན་དང་། འབྱུང་པོ་དང་། གྲུལ་བུམ་དང་། ཡི་དགས་དང་། སྲུལ་པོ་དང་། ཀླུ་དང་། དྲི་ཟ་དང་། ཤ་ཟ་གནས་པ་གང་ཡང་རུང་བ་དེ་
+101-tagged, l. 1479 (93b.7): sanskrit: possible invalid Sanskrit sandhi
+  -> [93b.7]བྲ་ཤ་སུ་རེ། དྷུ་དྷུ། ཨུཀྐ་མུཀྒྲ། ཨུ**ཀྒ**ྲ་བ་ཏི། བི་ས་ར་གྲ་མ་ཏི། ཐམས་ཅད་དང་ལྡན་པའི་གླིང་བཞི་བ་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་གནོད་སྦྱིན་དང་། འབྱུང་པོ་དང་། གྲུལ་བུམ་དང་། ཡི་དགས་དང་། སྲུལ་པོ་དང་། ཀླུ་དང་། དྲི་ཟ་དང་། ཤ་ཟ་གནས་པ་གང་ཡང་རུང་བ་དེ་
+101-tagged, l. 1494 (94b.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [94b.6]ཏུ་ལ་ཏུ་ལ། ཨ་ཊི་བ་ཊི། བ་རི་ཙ་མོ་ཤ །ཧ་ར། ཛ་ག་ཏ། ཨེ་བ་སྃ་པྲ་མུ་ཁེ། ཨ་ག་བ་རེ། ཋ་ཧུ་ས་ཧུ། ཨི་ཏི་ཡ། ཐཱ་ཧུ། ཙ་ཏུ་ར་དྭཱི་བི་ཀཱ་ཡན། ཋ་ཧུ་མ་ཧུ། ཨུ**ཀྒ**་ཧུ། དྷཱ་ར་ས་ཧུ། སཾ་གྲ་ཧ། ཨའི་ན་གྲ་ཧ། ཨ་བི་ན་གྲ་ཧ། བྲཛྙཱ་བྲིད་བྷ་ཡེ། ཐ་ཧུ་ས་ཧུ། ཀ་ར་ཀུ་རུ། དྷ་ས་
+101-tagged, l. 1498 (95a.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [95a.2]ཨ་ནུ་ཀེ། བ་ལ་བ་ལེ། ཨུ**ཀྒ**ྲ་བ་ཏི། སྭ་ར་སྭ་ར། ཨ་བི་ས་རེ། གུ་གུནྡེ། པྲ་བི་བརྡྷེ། ས་མེ། ཨ་ཛི་ཏ་ཛ་ཡེ། ནུ་བ་ལེ་སུ་ཁོ་མ་སུ་སནྡྷི་ནི་ཀུཾ་མ་ནོ། སཀྵེ། ཤཱ་པེ་ཙཱ་པེ། ཙཱ་པེ་ཙཱ་པེ། ཙུ་བེ་ཙུ་བེ། ཙུ་ལུ་ཙུ་ལུ། པུ་ལུ་པུ་ལུ། བྱ་བ་པྲ་ས་རེ། ཀ་ར་ཀ་བྷིནྡྷེ། བི་ཛཱ་བི་ཇེ། ཨ་
+101-tagged, l. 1503 (95a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1513 (96a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1519 (96a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1523 (96b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1562 (99a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1575 (99b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1579 (100a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1751 (110b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1897 (120a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 1975 (124b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2115 (133b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2194 (138b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2249 (142a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2267 (143a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2277 (143b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [143b.5]ཁ**ཀྒ**ེན། ཧཱུྃ་ཧཱུྃ་ཧཱུྃ། ཙཱུཾ་ཙཱུཾ་ཙཱུཾ། དྲཱུཾ་དྲཱུཾ་དྲཱུཾ། ཨོཾ་ཙ་ལེ་ཙུ་ལེ་ཙུནྡེ་སརྦ་ཨརྠ་སཱདྷ་ཡ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་འཕགས་པ་ལྷ་མོ་སྐུལ་བྱེད་མའི་མཐུ་དང་བྱིན་གྱི་བརླབས་ཀྱིས་བདག་གནོད་པ་ཐམས་ཅད་ལས་དགེ་བར་གྱུར་ཅིག་སྭཱ་ཧཱ། འཕགས་པ་ལྷ་མོ་སྐུལ་བྱེད་མ་
+101-tagged, l. 2278 (143b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2292 (144b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2322 (146b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2332 (147a.4): punctuation: possible wrong beginning of text: "། །བ" should be "༄༅༅། །"
+101-tagged, l. 2347 (148a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2350 (148a.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [148a.6]ཀེ་ཙི་ད་ཨུ་བ་དྞ་བཱཿཡེ་ཀེ་ཙིད་ཨུ་པཱ་ཡཱ་སཱ། ཡེ་ཀེ་ཙིད་ཨ་བྷྱཱ་དྨི་ཀཱ་བྷ་ཡཱ། ཡེ་ཀེ་ཙི་ད་ཨུ་པ་སརྒྒ་ཨུ་པ་སརྒྒ་སཾ་བད་དྷ་བཱ། ཨུཧྦ་དྱནྟེ། སརྦཱ་ནི་ཏཱ་ནི། སརྦ་སྟ། སརྦི་ཏ་བཱ་ལ་ཏཱ་ཨེ་བོ**ཏྦ**་དྱནྟེ། ན་བཎྜི་ཏ་ཏཿ། ཏ་ད་ནེ་ནས་ཏྱེ་ནས་ཏྱ་པ་ཙ་ནེ་ནས་ཏྱ་པཱ་བ་ཀེ་ན། 
+101-tagged, l. 2364 (149a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2374 (149b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2380 (150a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2433 (153b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2475 (156a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2499 (157b.3): punctuation: possible wrong beginning of text: "&༄༅།" should be "༄༅༅། །"
+101-tagged, l. 2538 (160a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2540 (160a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2547 (160b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2615 (164b.7): punctuation: invalid end of line
+101-tagged, l. 2650 (167a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2719 (171a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2730 (172a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2740 (172b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2801 (176b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2825 (178a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2852 (179b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2853 (179b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2857 (180a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2866 (180b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2868 (180b.4): punctuation: possible wrong beginning of text: "རྒྱ་" should be "༄༅༅། །"
+101-tagged, l. 2877 (181a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2879 (181a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2885 (181b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2887 (181b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2905 (183a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2907 (183a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2909 (183a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2910 (183a.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [183a.6]ཛི་ན་ཛི་ཀ་མཉྫུ་ཤྲི་ཡེ། ཏཱ་ར་ཡ་མཱྃ། སརྦ་དུཿཁེ་བྷྱཿཕཊ་ཕཊ། ས་མ་ཡ་ས་མ་ཡ། ཨ་མི་ཏོ**ཏྦ**ྷ་བོ་ཏྦྷ་བ། པཱ་པཾ་མེ་ནཱ་ཤ་ཡ་སྭཱ་ཧཱ། སྡིག་པ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སྷོ།། །།
+101-tagged, l. 2910 (183a.6): sanskrit: possible invalid Sanskrit sandhi
+  -> [183a.6]ཛི་ན་ཛི་ཀ་མཉྫུ་ཤྲི་ཡེ། ཏཱ་ར་ཡ་མཱྃ། སརྦ་དུཿཁེ་བྷྱཿཕཊ་ཕཊ། ས་མ་ཡ་ས་མ་ཡ། ཨ་མི་ཏོཏྦྷ་བོ་**ཏྦ**ྷ་བ། པཱ་པཾ་མེ་ནཱ་ཤ་ཡ་སྭཱ་ཧཱ། སྡིག་པ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སྷོ།། །།
+101-tagged, l. 2911 (183a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2921 (184a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2922 (184a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2923 (184a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2926 (184a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2929 (184b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2931 (184b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2937 (185a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2939 (185a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2940 (185a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2942 (185a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2945 (185b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2946 (185b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2951 (185b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2959 (186a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2963 (186b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2966 (186b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2969 (187a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2972 (187a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2974 (187a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2978 (187b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2980 (187b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2983 (187b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2988 (188a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2991 (188a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2993 (188b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2996 (188b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 2999 (188b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3002 (189a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3004 (189a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3006 (189a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3009 (189b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3010 (189b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3011 (189b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3013 (189b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3014 (189b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3017 (190a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3018 (190a.2): sanskrit: possible invalid Sanskrit sandhi
+  -> [190a.2]བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྨན་གྱི་ལྷ་བཻ་ཌཱུརྱ་འོད་ཀྱི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཨོཾ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱེ། མ་ཧཱ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱེ་ས་མུ**ཏྒ**་ཏེ་སྭཱ་ཧཱ། སྨན་གཏོང་བའི་ཚེ་སྨན་ལ་སྔགས་ཀྱིས་གདབ་པ་རྫོགས་སྷོ།། །།
+101-tagged, l. 3019 (190a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3020 (190a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3269 (205b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3433 (216a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3651 (229b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3729 (234b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3738 (235a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3748 (235b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3801 (239a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3809 (239b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3810 (239b.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3811 (239b.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [239b.3]ཨུ**ཏྒ**་ཏེ་སྥ་ར་ཎ་ཨི་མཾ་ག་ག་ན་ཁཾ་ས་མནྟ་སྭཱ་ཧཱ་ཞེས་ལན་བརྒྱད་བརྗོད་པས་མཆོད་པའི་སྤྲིན་འབྱུང་ངོ་།། {T1073}༄༅། །ན་མཿསརྦ་བུདྡྷ་བོདྷི་ས་ཏྭེ་བྷྱཿསརྦ་བི་ཏ་པཱུ་ར་བཱུ་ར། བརྟཱ་ཨ་བྷ་ཡེ་སྭཱ་ཧཱ། ཞེས་བརྗོད་པས་དེ་བཞིན་གཤེགས་པ་རྣམས་ལ་མཆོད་པ་དང་ཉེ་གནས་དང་ཞབས་ལ་སྤྱི་
+101-tagged, l. 3811 (239b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3812 (239b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3813 (239b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3814 (239b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3819 (240a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3823 (240a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3829 (240b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3859 (242b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3900 (245a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3935 (247a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3939 (247b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 3999 (251a.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4011 (252a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4019 (252b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4025 (253a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4030 (253a.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4055 (254b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4058 (255a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4070 (255b.6): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4075 (256a.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4087 (256b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4153 (261a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4181 (262b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4236 (266a.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4253 (267a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4273 (268b.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4293 (269b.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4313 (271a.1): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4340 (272b.4): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4349 (273a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4371 (274b.3): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4381 (275a.5): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4391 (275b.7): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+101-tagged, l. 4426 (278a.2): punctuation: possible wrong beginning of text: "༄༅། " should be "༄༅༅། །"
+102-tagged, l. 811 (52a.3): punctuation: invalid end of line
+102-tagged, l. 885 (56b.5): punctuation: invalid shad sequence
+  -> [56b.5]བཞི་པ་ལ་སྶྼཱྀ། ལྔ་པ་ལ་སྶཱི། དྲུག་པ་ལ་སྶཱ། དེ་བཞིན་དུ་ཉིན་ཞག་དྲུག་པ་གཞན་རྣམས་ཀྱིས། [ྉྤྎྤཱཿྉྤྎྤླཱྀ། ྉྤྎྤཱུ། ྉྤྎྤྼཱྀ། ྉྤྎྤཱི། ྉྤྎྤཱ།] དེ་བཞིན་དུ་ཥ་དང་དེ་བཞིན་དུ་ཤའོ། །དེ་བཞིན་དུྈྐྍྐཱཿ ྈྐྍྐླཱ**ྀ།ྈ**ྐྍྐཱུ།ྈྐྍྐྼཱྀ།ྈྐྍྐཱི།ྈྐྍྐཱ། ཞེས་པས་སྡེ་དབྱངས་དང་བཅས་པ་རྣམས་ཆུ་སྲིན་གྱི་འཕོ་བའི་ཉིན་ཞག་སུམ་ཅུས་སྤྱོད་དོ། །
+102-tagged, l. 885 (56b.5): punctuation: invalid shad sequence
+  -> [56b.5]བཞི་པ་ལ་སྶྼཱྀ། ལྔ་པ་ལ་སྶཱི། དྲུག་པ་ལ་སྶཱ། དེ་བཞིན་དུ་ཉིན་ཞག་དྲུག་པ་གཞན་རྣམས་ཀྱིས། [ྉྤྎྤཱཿྉྤྎྤླཱྀ། ྉྤྎྤཱུ། ྉྤྎྤྼཱྀ། ྉྤྎྤཱི། ྉྤྎྤཱ།] དེ་བཞིན་དུ་ཥ་དང་དེ་བཞིན་དུ་ཤའོ། །དེ་བཞིན་དུྈྐྍྐཱཿ ྈྐྍྐླཱྀ།ྈྐྍྐཱ**ུ།ྈ**ྐྍྐྼཱྀ།ྈྐྍྐཱི།ྈྐྍྐཱ། ཞེས་པས་སྡེ་དབྱངས་དང་བཅས་པ་རྣམས་ཆུ་སྲིན་གྱི་འཕོ་བའི་ཉིན་ཞག་སུམ་ཅུས་སྤྱོད་དོ། །
+102-tagged, l. 885 (56b.5): punctuation: invalid shad sequence
+  -> [56b.5]བཞི་པ་ལ་སྶྼཱྀ། ལྔ་པ་ལ་སྶཱི། དྲུག་པ་ལ་སྶཱ། དེ་བཞིན་དུ་ཉིན་ཞག་དྲུག་པ་གཞན་རྣམས་ཀྱིས། [ྉྤྎྤཱཿྉྤྎྤླཱྀ། ྉྤྎྤཱུ། ྉྤྎྤྼཱྀ། ྉྤྎྤཱི། ྉྤྎྤཱ།] དེ་བཞིན་དུ་ཥ་དང་དེ་བཞིན་དུ་ཤའོ། །དེ་བཞིན་དུྈྐྍྐཱཿ ྈྐྍྐླཱྀ།ྈྐྍྐཱུ།ྈྐྍྐྼཱ**ྀ།ྈ**ྐྍྐཱི།ྈྐྍྐཱ། ཞེས་པས་སྡེ་དབྱངས་དང་བཅས་པ་རྣམས་ཆུ་སྲིན་གྱི་འཕོ་བའི་ཉིན་ཞག་སུམ་ཅུས་སྤྱོད་དོ། །
+102-tagged, l. 885 (56b.5): punctuation: invalid shad sequence
+  -> [56b.5]བཞི་པ་ལ་སྶྼཱྀ། ལྔ་པ་ལ་སྶཱི། དྲུག་པ་ལ་སྶཱ། དེ་བཞིན་དུ་ཉིན་ཞག་དྲུག་པ་གཞན་རྣམས་ཀྱིས། [ྉྤྎྤཱཿྉྤྎྤླཱྀ། ྉྤྎྤཱུ། ྉྤྎྤྼཱྀ། ྉྤྎྤཱི། ྉྤྎྤཱ།] དེ་བཞིན་དུ་ཥ་དང་དེ་བཞིན་དུ་ཤའོ། །དེ་བཞིན་དུྈྐྍྐཱཿ ྈྐྍྐླཱྀ།ྈྐྍྐཱུ།ྈྐྍྐྼཱྀ།ྈྐྍྐཱ**ི།ྈ**ྐྍྐཱ། ཞེས་པས་སྡེ་དབྱངས་དང་བཅས་པ་རྣམས་ཆུ་སྲིན་གྱི་འཕོ་བའི་ཉིན་ཞག་སུམ་ཅུས་སྤྱོད་དོ། །
+102-tagged, l. 1025 (65b.1): punctuation: invalid end of line
+102-tagged, l. 2237 (141a.5): punctuation: invalid shad sequence
+  -> [141a.5]བའི་མདོར་བསྡུས་ཆེན་པོ་སྟེ་གསུམ་པའོ**།།།**།ད་ནི་སྲོག་ཅེས་པ་ལ་སོགས་པས་ལུས་ཅན་རྣམས་ཀྱི་དུས་མ་ཡིན་པར་འཆི་བའི་མཚན་ཉིད་གསུངས་ཏེ། འདིར་ལུས་ལ་ལྟེ་བའི་འཁོར་ལོ་རྩིབས་བཅུ་གཉིས་པའི་ཁྱིམ་གྱི་འཁོར་ལོ་སྟེ་ལུག་ལ་སོགས་པ་མི་མཉམ་པའི་
+102-tagged, l. 2533 (159b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [159b.5]མཚམས་བཞི་པོ་ས་ལ་སོགས་པ་རྣམས་ཉི་མས་སྤྱོད་དོ། །དེ་བཞིན་དུ་གཉིས་པ་ལ་ཥྵཱཿཥྵཱ་ཤྴཱ་ཞེས་པས་སོ། །དེ་བཞིན་དུ་གསུམ་པ་ལ་[ྈྐྈྐཱཿྈྐྈྐཱ་]ཏྟཱཿཏྟཱ་ཞེས་པའོ། །བཞི་པ་ལ་ཐྠཱཿཐྠཱ་དྡཱཿདྡཱ་ཞེས་པའོ། །ལྔ་པ་ལ་དྷྡྷཱཿདྷྡྷཱ་ནྣཱཿནྣཱ་ཞེས་པའོ། །དྲུག་པ་ལ་པྤཱཿཔྤཱ་ཕྥཱཿཕྥཱ་ཞེས་པའོ། །བདུན་པ་ལ་**པྦ**ླཿཔྦཱ་བྷྦྷཱཿབྷྦྷཱ་ཞེས་པའོ། །
+102-tagged, l. 2533 (159b.5): sanskrit: possible invalid Sanskrit sandhi
+  -> [159b.5]མཚམས་བཞི་པོ་ས་ལ་སོགས་པ་རྣམས་ཉི་མས་སྤྱོད་དོ། །དེ་བཞིན་དུ་གཉིས་པ་ལ་ཥྵཱཿཥྵཱ་ཤྴཱ་ཞེས་པས་སོ། །དེ་བཞིན་དུ་གསུམ་པ་ལ་[ྈྐྈྐཱཿྈྐྈྐཱ་]ཏྟཱཿཏྟཱ་ཞེས་པའོ། །བཞི་པ་ལ་ཐྠཱཿཐྠཱ་དྡཱཿདྡཱ་ཞེས་པའོ། །ལྔ་པ་ལ་དྷྡྷཱཿདྷྡྷཱ་ནྣཱཿནྣཱ་ཞེས་པའོ། །དྲུག་པ་ལ་པྤཱཿཔྤཱ་ཕྥཱཿཕྥཱ་ཞེས་པའོ། །བདུན་པ་ལ་པྦླཿ**པྦ**ཱ་བྷྦྷཱཿབྷྦྷཱ་ཞེས་པའོ། །
+102-tagged, l. 3481 (219a.1): punctuation: invalid shad sequence
+  -> [219a.1]འཇུག་པ་སྟོང་ཕྲག་བཅུ་གཉིས་པ་དྲི་མ་མེད་པའི་འོད་ལས་བསྐྱེད་པའི་རིམ་པས་སྐུ་རྫོགས་པའི་མདོར་བསྡུས་ཆེན་པོ་སྟེ་གཉིས་པའོ**།།།**།འདིར་ནི་སྲོག་གི་ཀུན་སྤྱོད་དག་ལས་གསུང་གི་རྡོ་རྗེ་དཀྱིལ་འཁོར་བཅུའི་བདག་ཉིད་དེ། །
+102-tagged, l. 4951 (310b.7): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [310b.7]གིས་ཞེས་པ་ནི་**ཧྲླ**ཱྀ་ཧཱུཾ་ཧྲྼཱྀ་ཧྲཱིཾ་ཧྲཱཾ་ཧྲཿསྭཱ་ཏཱ་ཞེས་པའི་ཡན་ལག་གིས་བརྒྱ་རྩ་བརྒྱད་དོ། །ཀྱང་ཡིག་གིས་ཕུང་པོ་དྲུག་དང་ཁམས་རྣམས་ཀྱིས་ཏེ་ཨ་ཨཱ་ཨི་ཨཱི་རྀ་རཱྀ་ཨུ་ཨཱུ་ལྀ་ལཱྀ་ཨཾ་ཨཿསྭཱ་ཧཱ་འདི་རྣམས་ཀྱིས་བརྒྱ་རྩ་བརྒྱད་དོ། །དེ་བཞིན་དུ་སྐྱེ་མཆེད་རྣམས་ཀྱིས་ཀྱང་སྟེ་ཨ་ཨཱ་ཨེ་ཨཻ་ཨར་ཨཱར་ཨོ་ཨཽ་ཨལ་ཨཱ་ལ་
+102-tagged, l. 4999 (313b.7): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [313b.7]བཞིན་དུ་ཨཱ་སོགས་དང་བཅས་ཞེས་པ་ནི་ཨཱ་ལ་སོགས་པ་དབྱངས་དྲུག་དང་ལྷན་ཅིག་ཏུ་ཧྲྃ་ཡིག་དྲུག་ནི་རོ་རྐང་དྲུག་དང་ལྷན་ཅིག་ན་མཿསོགས་ཀྱིས་ཡན་ལག་དྲུག་ཏུ་འགྱུར་ཏེ་ཨོྃ་**ཧྲླ**ཱྀ་ནཾ་མཿ། ཨོྃ་ཧྲཱུྃ་སྭཱ་ཧཱ། ཨོྃ་ཧྲྼཱཾ་བཽ་ཥ་ཊ། ཨོྃ་ཧྲཱིཾ་ཧཱུྃ། ཨོྃ་ཧྲཱཾ་བ་ཥ་ཊ། ཨོྃ་ཧྲཿཕཊ་ཅེས་པ་གྲངས་བཞིན་དུ་སྙིང་ཁ་དང་མགོ་བོ་དང་
+102-tagged, l. 5003 (314a.3): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [314a.3]ཧོ་ཞེས་པ་ཞལ་བཞི་དང་བཅས་པའོ། །ཧྲཱྃ་ཡིག་ལ་སོགས་ཡན་ལག་དྲུག་པོ་ཨོྃ་ཡིག་དང་པོར་གྱུར་པ་དང་ལྡན་པ་ནི་བཟླས་པའི་དོན་དུ་བཅོམ་ལྡན་འདས་ཀྱི་ཉེ་བའི་སྙིང་པོ་སྟེ། ཨོྃ་ཧྲཱྃ་ཧྲཱིཾ་ཧྲྼཱྀཾ་ཧྲཱུཾ་**ཧྲླ**ཱྀ་ཧྲཾཿཞེས་པ་སྐྱེད་པའི་རིམ་པས་ལས་ཐམས་ཅད་སྒྲུབ་པ་ལ་སྟེ་དྲག་པོ་ལ་སྡུད་པའི་རིམ་པས་ཧྲླཱྀཾ་
+102-tagged, l. 5003 (314a.3): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [314a.3]ཧོ་ཞེས་པ་ཞལ་བཞི་དང་བཅས་པའོ། །ཧྲཱྃ་ཡིག་ལ་སོགས་ཡན་ལག་དྲུག་པོ་ཨོྃ་ཡིག་དང་པོར་གྱུར་པ་དང་ལྡན་པ་ནི་བཟླས་པའི་དོན་དུ་བཅོམ་ལྡན་འདས་ཀྱི་ཉེ་བའི་སྙིང་པོ་སྟེ། ཨོྃ་ཧྲཱྃ་ཧྲཱིཾ་ཧྲྼཱྀཾ་ཧྲཱུཾ་ཧྲླཱྀ་ཧྲཾཿཞེས་པ་སྐྱེད་པའི་རིམ་པས་ལས་ཐམས་ཅད་སྒྲུབ་པ་ལ་སྟེ་དྲག་པོ་ལ་སྡུད་པའི་རིམ་པས་**ཧྲླ**ཱྀཾ་
+102-tagged, l. 5017 (315a.1): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [315a.1]ཨོྃ་ཥ་ཌཱཾ་གཱ་ཡ་ན་མཿ། ཞེས་པ་ནི་ཐུགས་ཀྱི་དཀྱིལ་འཁོར་ལ་མཆོད་པའི་ཆོ་གའོ། །དེ་ནས་གསུང་གི་དཀྱིལ་འཁོར་ལ་འདི་ལྟ་སྟེ། ཨོྃ་བཛྲ་ཙརྩི་ཀཱ་ཡཻ་ན་མཿ། ཨོྃ་བཛྲ་བཱ་རཱ་ཧྱཻ་ན་མཿ། ཨོྃ་བཛྲ་མ་ཧེ་ཤྭཪྻཻ་ན་མཿ། ཨོྃ་བཛྲ་ཨཻ་ན་**དྲྱ**ཻ་ན་མཿ། ཨོྃ་བཛྲ་བྲཧྨ་ནྱཻ་ན་མཿ། ཨོྃ་བཛྲ་མ་ཧཱ་ལ་ཀྵྨྱཻ་ན་མཿ། ཨོྃ་
+102-tagged, l. 5190 (325b.6): punctuation: invalid shad sequence
+  -> [325b.6]ཞེས་པ་ནི་ངེས་པའོ། །བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་རྒྱས་འགྲེལ་རྩ་བའི་རྒྱུད་ཀྱི་རྗེས་སུ་འཇུག་པ་སྟོང་ཕྲག་བཅུ་གཉིས་པ་དྲི་མ་མེད་པའི་འོད་ལས་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བའི་མདོར་བསྡུས་ཆེན་པོ་སྟེ་བཞི་པའོ**།།།**།རབ་གནས་བྱས་ནས་ལྷར་བཅས་ལྷ་
+102-tagged, l. 5486 (344a.6): punctuation: invalid shad sequence
+  -> [344a.6]སུ་འཇུག་པ་སྟོང་ཕྲག་བཅུ་གཉིས་པ་དྲི་མ་མེད་པའི་འོད་ལས་རབ་ཏུ་གནས་པ་དང་ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་དང་རྣལ་འབྱོར་སྤྱོད་པའི་མདོར་བསྡུས་ཆེན་པོ་སྟེ་ལྔ་པའོ**།།།**།ཕྱག་གི་ཕྱག་རྒྱ་ལྟ་སྟངས་ཀྱིས། །གང་གིས་ལྷ་མིན་དབང་སྐྲག་མཛད། །དུས་
+error on line 5656 going backward in page sides
+error on line 5666 going backward in page sides
+102-tagged, l. 5949 (372b.4): invalid: possible wrong form of rago used (0F62 vs. 0F65)
+  -> [372b.4]ཨོཾ་བཛྲ་གཱ་ཏྲ་ཧཾ་བཛྲེ་ཧཱུཾ་ཧཱུྃ་ཕཊ་ཅེས་པ་ཀརྐ་ཊ་ལའོ། །ཨོཾ་བཛྲ་ནེ་ཏྲ་ཨཾ་བཛྲེ་[**རྻ**་]ཧཱུཾ་ཧཱུྃ་ཕཊ་ཅེས་པ་སེང་གེ་ལའོ། །ཨོཾ་བཛྲ་ཤྲོ་ཏྲ་ཧཱ་བཛྲེ་ཧཱུཾ་ཧཱུྃ་ཕཊ་ཅེས་པ་བུ་མོའི་འཕོ་བ་ལའོ། །ཨོཾ་བཛྲ་[གྷྲཱ་]ཎ་ཧ་བཛྲེ་ཧཱུཾ་ཧཱུྃ་ཕཊ་ཅེས་པ་སྲང་ལའོ། །ཨོཾ་བཛྲ་ཛི་ཧྭ་ཀྵཱ་བཛྲེ་ཧཱུཾ་ཧཱུྃ་ཕཊ་ཅེས་པ་
+102-tagged, l. 7012 (439a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [439a.3]སུམ་ཅུར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། ཀྐ་ཀྑ་**ཀྒ**ྷ་ཀྼ། ཀྩ་ཀྪ་ཀྫ་ཀྫྷ་ཀྙ། ཀྚ་ཀྛ་ཀྜ་ཀྞ། ཀྤ་ཀྥ་ཀྦ་ཀྦྷ་ཀྨ། ཀྟ་ཀྠ་ཀྡ་ཀྡྷ་ཀྣ། ཀྶ་ཀྤ་ཀྵ་ཀྴ་ཀྦྷྶ། ཞེས་པའོ། །དེ་བཞིན་དུ་ཁ་ལ་སོགས་པ་རྣམས་རིག་པར་བྱ་སྟེ་རབ་ཏུ་གསལ་བར་དགུ་བརྒྱ་ཉིད་དུ་འགྱུར་རོ། །སླར་ཡང་དགུ་བརྒྱ་པོ་དེ་རྣམས་
+102-tagged, l. 7012 (439a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [439a.3]སུམ་ཅུར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། ཀྐ་ཀྑ་ཀྒྷ་ཀྼ། ཀྩ་ཀྪ་**ཀྫ**་ཀྫྷ་ཀྙ། ཀྚ་ཀྛ་ཀྜ་ཀྞ། ཀྤ་ཀྥ་ཀྦ་ཀྦྷ་ཀྨ། ཀྟ་ཀྠ་ཀྡ་ཀྡྷ་ཀྣ། ཀྶ་ཀྤ་ཀྵ་ཀྴ་ཀྦྷྶ། ཞེས་པའོ། །དེ་བཞིན་དུ་ཁ་ལ་སོགས་པ་རྣམས་རིག་པར་བྱ་སྟེ་རབ་ཏུ་གསལ་བར་དགུ་བརྒྱ་ཉིད་དུ་འགྱུར་རོ། །སླར་ཡང་དགུ་བརྒྱ་པོ་དེ་རྣམས་
+102-tagged, l. 7012 (439a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [439a.3]སུམ་ཅུར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། ཀྐ་ཀྑ་ཀྒྷ་ཀྼ། ཀྩ་ཀྪ་ཀྫ་**ཀྫ**ྷ་ཀྙ། ཀྚ་ཀྛ་ཀྜ་ཀྞ། ཀྤ་ཀྥ་ཀྦ་ཀྦྷ་ཀྨ། ཀྟ་ཀྠ་ཀྡ་ཀྡྷ་ཀྣ། ཀྶ་ཀྤ་ཀྵ་ཀྴ་ཀྦྷྶ། ཞེས་པའོ། །དེ་བཞིན་དུ་ཁ་ལ་སོགས་པ་རྣམས་རིག་པར་བྱ་སྟེ་རབ་ཏུ་གསལ་བར་དགུ་བརྒྱ་ཉིད་དུ་འགྱུར་རོ། །སླར་ཡང་དགུ་བརྒྱ་པོ་དེ་རྣམས་
+102-tagged, l. 7012 (439a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [439a.3]སུམ་ཅུར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། ཀྐ་ཀྑ་ཀྒྷ་ཀྼ། ཀྩ་ཀྪ་ཀྫ་ཀྫྷ་ཀྙ། ཀྚ་ཀྛ་ཀྜ་ཀྞ། ཀྤ་ཀྥ་**ཀྦ**་ཀྦྷ་ཀྨ། ཀྟ་ཀྠ་ཀྡ་ཀྡྷ་ཀྣ། ཀྶ་ཀྤ་ཀྵ་ཀྴ་ཀྦྷྶ། ཞེས་པའོ། །དེ་བཞིན་དུ་ཁ་ལ་སོགས་པ་རྣམས་རིག་པར་བྱ་སྟེ་རབ་ཏུ་གསལ་བར་དགུ་བརྒྱ་ཉིད་དུ་འགྱུར་རོ། །སླར་ཡང་དགུ་བརྒྱ་པོ་དེ་རྣམས་
+102-tagged, l. 7012 (439a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [439a.3]སུམ་ཅུར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། ཀྐ་ཀྑ་ཀྒྷ་ཀྼ། ཀྩ་ཀྪ་ཀྫ་ཀྫྷ་ཀྙ། ཀྚ་ཀྛ་ཀྜ་ཀྞ། ཀྤ་ཀྥ་ཀྦ་**ཀྦ**ྷ་ཀྨ། ཀྟ་ཀྠ་ཀྡ་ཀྡྷ་ཀྣ། ཀྶ་ཀྤ་ཀྵ་ཀྴ་ཀྦྷྶ། ཞེས་པའོ། །དེ་བཞིན་དུ་ཁ་ལ་སོགས་པ་རྣམས་རིག་པར་བྱ་སྟེ་རབ་ཏུ་གསལ་བར་དགུ་བརྒྱ་ཉིད་དུ་འགྱུར་རོ། །སླར་ཡང་དགུ་བརྒྱ་པོ་དེ་རྣམས་
+102-tagged, l. 7012 (439a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [439a.3]སུམ་ཅུར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། ཀྐ་ཀྑ་ཀྒྷ་ཀྼ། ཀྩ་ཀྪ་ཀྫ་ཀྫྷ་ཀྙ། ཀྚ་ཀྛ་ཀྜ་ཀྞ། ཀྤ་ཀྥ་ཀྦ་ཀྦྷ་ཀྨ། ཀྟ་ཀྠ་**ཀྡ**་ཀྡྷ་ཀྣ། ཀྶ་ཀྤ་ཀྵ་ཀྴ་ཀྦྷྶ། ཞེས་པའོ། །དེ་བཞིན་དུ་ཁ་ལ་སོགས་པ་རྣམས་རིག་པར་བྱ་སྟེ་རབ་ཏུ་གསལ་བར་དགུ་བརྒྱ་ཉིད་དུ་འགྱུར་རོ། །སླར་ཡང་དགུ་བརྒྱ་པོ་དེ་རྣམས་
+102-tagged, l. 7012 (439a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [439a.3]སུམ་ཅུར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། ཀྐ་ཀྑ་ཀྒྷ་ཀྼ། ཀྩ་ཀྪ་ཀྫ་ཀྫྷ་ཀྙ། ཀྚ་ཀྛ་ཀྜ་ཀྞ། ཀྤ་ཀྥ་ཀྦ་ཀྦྷ་ཀྨ། ཀྟ་ཀྠ་ཀྡ་**ཀྡ**ྷ་ཀྣ། ཀྶ་ཀྤ་ཀྵ་ཀྴ་ཀྦྷྶ། ཞེས་པའོ། །དེ་བཞིན་དུ་ཁ་ལ་སོགས་པ་རྣམས་རིག་པར་བྱ་སྟེ་རབ་ཏུ་གསལ་བར་དགུ་བརྒྱ་ཉིད་དུ་འགྱུར་རོ། །སླར་ཡང་དགུ་བརྒྱ་པོ་དེ་རྣམས་
+102-tagged, l. 7012 (439a.3): sanskrit: possible invalid Sanskrit sandhi
+  -> [439a.3]སུམ་ཅུར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། ཀྐ་ཀྑ་ཀྒྷ་ཀྼ། ཀྩ་ཀྪ་ཀྫ་ཀྫྷ་ཀྙ། ཀྚ་ཀྛ་ཀྜ་ཀྞ། ཀྤ་ཀྥ་ཀྦ་ཀྦྷ་ཀྨ། ཀྟ་ཀྠ་ཀྡ་ཀྡྷ་ཀྣ། ཀྶ་ཀྤ་ཀྵ་ཀྴ་**ཀྦ**ྷྶ། ཞེས་པའོ། །དེ་བཞིན་དུ་ཁ་ལ་སོགས་པ་རྣམས་རིག་པར་བྱ་སྟེ་རབ་ཏུ་གསལ་བར་དགུ་བརྒྱ་ཉིད་དུ་འགྱུར་རོ། །སླར་ཡང་དགུ་བརྒྱ་པོ་དེ་རྣམས་
+102-tagged, l. 7496 (469a.7): punctuation: invalid shad sequence
+  -> [469a.7]སྟོང་པ་ཉིད་དང་འགྱུར་མེད་མཆོག་གི་བདེ་ཆེན་དུ། །ལེགས་སྟོན་དུས་ཀྱི་འཁོར་ལོར་འབད་པའི་དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན། །གཞུང་འདི་རྟོགས་ཤིང་ལམ་དེར་ཞུགས་ནས་འབྲས་བུ་དེ་ཉིད་མྱུར་ཐོབ་ཤོ**ག།། །།** 

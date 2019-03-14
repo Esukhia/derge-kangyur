@@ -1,0 +1,4 @@
+"[^ །]།[^ \x0d།]" - detect issues with shad
+"[^ཀ-ྼ][ཱ-྇ྍ-ྼ]" - detect issues with combining marks not combined with a reasonable character
+"[^ༀ-࿚#-~ \x0d]" - detect non-tibetan, non-ascii characters (can detect precomposed Tibetan characters which we want to avoid)
+"([ྱུྲཿཾ྄ིྃ])\1" - detect double yatag, ratag, shabkyu
