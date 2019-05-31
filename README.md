@@ -70,7 +70,7 @@ The files are UTF8 with no BOM, in [NFD](http://unicode.org/reports/tr15/). The 
 ### Punctuation
 
 We apply the following normalization without keeping the original in parenthesis:
- - `༄༅། །` at beginning of pages are removed (, )they should be straightforward to reinsert
+ - `༄༅། །` at beginning of pages are removed (they should be straightforward to reinsert)
  - `༄༅། །` are also removed at beginning of volumes when the beginning of a volume is in the middle of a text
  - `༑` are replaced by `།`
 
