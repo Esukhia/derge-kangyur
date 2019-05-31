@@ -81,7 +81,7 @@ We keep the original punctuation in parenthesis (see above) but normalize the fo
 
 ## Volume numbers
 
-Each physical volume is one file. We follow the volume order of the Parphud edition ; in the LoC edition, the main difference is that vol. 102 (of Parphud) is before vol. 100 (of Parphud).
+Each physical volume is one file. We follow the volume order of [W22084](https://www.tbrc.org/#!rid=W22084) (the Parphud edition on tbrc.org) ; in [W4CZ5369](https://www.tbrc.org/#!rid=W4CZ5369) (the LoC edition on tbrc.org) vol. 102 was swapped with vol. 100 .
 
 ## Page numbering issues
 
