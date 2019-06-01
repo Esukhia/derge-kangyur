@@ -4,6 +4,11 @@ Welcome to the working repository of the ongoing 2014-2018 Esukhia-Barom proofre
 
 The Digital Derge Kangyur you'll find on our repository is based on the UVA-SOAS 2013 eKangyur and is currently undergoing many changes -- use at your own risk!
 
+## Downloads
+
+- [Volumes, plain text format, version 2019-05](https://github.com/Esukhia/derge-kangyur/releases/download/1905/deka_vol_txt_v1905.zip)
+- [Volumes, Kumara-jiva tsv format, version 2019-05](https://github.com/Esukhia/derge-kangyur/releases/download/1905/deka_vol_kjtsv_v1905.zip)
+
 ## The 2013 UVA-SOAS eKangyur
 
 The UVA-SOAS 2013 eKangyur was created by diff-proofreading the previous UVA input against BDRC's OCRed etexts, ACIP's etexts, and Adharsha's early etexts; in a 2013 project overviewed by [UVA](http://www.virginia.edu/) and funded by [SOAS](https://www.soas.ac.uk/) and [KF](https://khyentsefoundation.org/) (for [84000](http://84000.co/)). This version is currently published on UVA, Adharsha, BDRC, and as part of SOAS's ACTIB corpus.
