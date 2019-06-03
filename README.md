@@ -4,6 +4,11 @@ Welcome to the working repository of the ongoing 2014-2018 Esukhia-Barom proofre
 
 The Digital Derge Kangyur you'll find on our repository is based on the UVA-SOAS 2013 eKangyur and is currently undergoing many changes -- use at your own risk!
 
+## Downloads
+
+- [Volumes, plain text format, version 2019-05](https://github.com/Esukhia/derge-kangyur/releases/download/1905/deka_vol_txt_v1905.zip)
+- [Volumes, Kumara-jiva tsv format, version 2019-05](https://github.com/Esukhia/derge-kangyur/releases/download/1905/deka_vol_kjtsv_v1905.zip)
+
 ## The 2013 UVA-SOAS eKangyur
 
 The UVA-SOAS 2013 eKangyur was created by diff-proofreading the previous UVA input against BDRC's OCRed etexts, ACIP's etexts, and Adharsha's early etexts; in a 2013 project overviewed by [UVA](http://www.virginia.edu/) and funded by [SOAS](https://www.soas.ac.uk/) and [KF](https://khyentsefoundation.org/) (for [84000](http://84000.co/)). This version is currently published on UVA, Adharsha, BDRC, and as part of SOAS's ACTIB corpus.
@@ -70,7 +75,7 @@ The files are UTF8 with no BOM, in [NFD](http://unicode.org/reports/tr15/). The 
 ### Punctuation
 
 We apply the following normalization without keeping the original in parenthesis:
- - `༄༅། །` at beginning of pages are removed (, )they should be straightforward to reinsert
+ - `༄༅། །` at beginning of pages are removed (they should be straightforward to reinsert)
  - `༄༅། །` are also removed at beginning of volumes when the beginning of a volume is in the middle of a text
  - `༑` are replaced by `།`
 
@@ -81,7 +86,7 @@ We keep the original punctuation in parenthesis (see above) but normalize the fo
 
 ## Volume numbers
 
-Each physical volume is one file. We follow the volume order of the Parphud edition ; in the LoC edition, the main difference is that vol. 102 (of Parphud) is before vol. 100 (of Parphud).
+Each physical volume is one file. We follow the volume order of [W22084](https://www.tbrc.org/#!rid=W22084) (the Parphud edition on tbrc.org) ; in [W4CZ5369](https://www.tbrc.org/#!rid=W4CZ5369) (the LoC edition on tbrc.org) vol. 102 was swapped with vol. 100 .
 
 ## Page numbering issues
 
