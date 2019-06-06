@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.bo.md">བོད་ཡིག</a> |
+  <span>English</span> |
+  <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.zh-cn.md">中文</a> |
+  <a href="https://github.com/Esukhia/derge-kangyur/blob/master/README.zh-tw.md">繁體中文</a>
+</p>
+
+
 # Digital Derge Kangyur
 
 Welcome to the working repository of the ongoing 2014-2018 Esukhia-Barom proofreading project!
