@@ -41,9 +41,9 @@ Karmapa edition:
 [![d](https://user-images.githubusercontent.com/17675331/43990149-22e786d0-9d8a-11e8-9ad3-8557a397232f.png)](http://iiif.bdrc.io/image/v2/bdr:V22084_I0918::09180494.tif/full/full/0/default.jpg)
 
 Other interesting differences appear on:
-- vol. 83, page 190a (end of the 6th line)
-- vol. 75, page 119a (third syllable)
-- vol. 33, page 246b (end of first line)
+- vol. 83, page 190a6 (end of the 6th line)
+- vol. 75, page 119a1 (third syllable)
+- vol. 33, page 246b1 (end of first line)
 - vol. 40, page 164a7 (མདོའ / མདོའི)
 - vol. 41, page 205b (Sanskrit title)
 - vol. 44, page 119b1 (Sanskrit title)
