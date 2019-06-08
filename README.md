@@ -44,6 +44,7 @@ Other interesting differences appear on:
 - vol. 83, page 190a (end of the 6th line)
 - vol. 75, page 119a (third syllable)
 - vol. 33, page 246b (end of first line)
+- vol. 40, page 164a7 (མདོའ / མདོའི)
 - vol. 41, page 205b (Sanskrit title)
 - vol. 44, page 119b1 (Sanskrit title)
 
