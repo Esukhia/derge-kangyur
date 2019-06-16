@@ -68,6 +68,11 @@
             return res;
         }
 
+        function adarshaUrl(volume, page) {
+            // adarsha url: https://files.dharma-treasure.org/degekangyur/degekangyur1-1/1-1-1b.jpg
+            return "https://files.dharma-treasure.org/degekangyur/degekangyur"+volume+"-1/"+volume+"-1-"+page+".jpg"
+        }
+
         function printimage() {
             var volume = document.getElementById('volume').value;
             var page = document.getElementById('page').value;
@@ -81,6 +86,7 @@
                 var imageUrl = 'http://iiif.bdrc.io/' + volIds[i] + '::' + imageNames[i] + '/full/full/0/default.jpg';
                 document.getElementById('theimage' + (i + 1)).src = imageUrl;
             }
+            document.getElementById('theimage4').src = adarshaUrl(volume, page);
         }
     </script>
 
@@ -91,6 +97,7 @@
     <img id="theimage1"/>
     <img id="theimage2"/>
     <img id="theimage3"/>
+    <img id="theimage4"/>
 
 
 </body>
