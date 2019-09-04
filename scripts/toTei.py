@@ -23,6 +23,7 @@
 
 import re
 import os
+import glob
 
 TEI_BEGINNING = """<?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
@@ -137,9 +138,14 @@ if __name__ == '__main__':
     #parse_one_file('../derge-kangyur-tags/102-tagged.txt', '/tmp/test.xml', 1, options)
     volMappingForExport = {100: 101, 101: 102, 102: 100}
     os.makedirs('./output/', exist_ok=True)
-    for volnum in range(1, 103):
-        volnumstr = '{0:03d}'.format(volnum)
-        infilename = '../derge-kangyur-tags/'+volnumstr+'-tagged.txt'
+    for infilename in sorted(glob.glob("../text/*.txt")):
+        volnum = infilename[8:11]
+        shortfilename = infilename[8:-4]
+        try:
+            volnum = int(volnum)
+        except ValueError:
+            print('wrong file format: '+volnum+'.txt')
+            continue
         print("transforming "+infilename)
         if volnum in volMappingForExport:
             print("reordering volume "+str(volnum)+" into "+str(volMappingForExport[volnum]))
