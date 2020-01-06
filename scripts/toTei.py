@@ -138,7 +138,7 @@ if __name__ == '__main__':
     }
     #parse_one_file('../derge-kangyur-tags/102-tagged.txt', '/tmp/test.xml', 1, options)
     volMappingForExport = {100: 101, 101: 102, 102: 100}
-    versionTag = f'dk{time.strftime("%y%m%d")}'
+    versionTag = f'UT4CZ5369-{time.strftime("%y%m%d")}'
     os.makedirs(f'./output/{versionTag}/', exist_ok=True)
     texts = sorted(glob.glob("../text/*.txt"))
     for infilename in texts:
