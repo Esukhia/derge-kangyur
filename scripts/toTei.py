@@ -24,6 +24,7 @@
 import re
 import os
 import glob
+import time
 
 TEI_BEGINNING = """<?xml version="1.0" encoding="UTF-8"?>
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
@@ -137,8 +138,10 @@ if __name__ == '__main__':
     }
     #parse_one_file('../derge-kangyur-tags/102-tagged.txt', '/tmp/test.xml', 1, options)
     volMappingForExport = {100: 101, 101: 102, 102: 100}
-    os.makedirs('./output/', exist_ok=True)
-    for infilename in sorted(glob.glob("../text/*.txt")):
+    versionTag = f'dk{time.strftime("%y%m%d")}'
+    os.makedirs(f'./output/{versionTag}/', exist_ok=True)
+    texts = sorted(glob.glob("../text/*.txt"))
+    for infilename in texts:
         volnum = infilename[8:11]
         shortfilename = infilename[8:-4]
         try:
@@ -150,5 +153,5 @@ if __name__ == '__main__':
         if volnum in volMappingForExport:
             print("reordering volume "+str(volnum)+" into "+str(volMappingForExport[volnum]))
             volnum = volMappingForExport[volnum]
-        os.makedirs('./output/UT4CZ5369-I1KG9'+str(volnum+126), exist_ok=True)
-        parse_one_file(infilename, './output/UT4CZ5369-I1KG9'+str(volnum+126)+'/UT4CZ5369-I1KG9'+str(volnum+126)+'-0000.xml', volnum, options)
+        os.makedirs(f'./output/{versionTag}/UT4CZ5369-I1KG9'+str(volnum+126), exist_ok=True)
+        parse_one_file(infilename, f'./output/{versionTag}/UT4CZ5369-I1KG9'+str(volnum+126)+'/UT4CZ5369-I1KG9'+str(volnum+126)+'-0000.xml', volnum, options)
