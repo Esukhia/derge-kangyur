@@ -13,7 +13,7 @@ Welcome to the working repository of the ongoing 2014-2018 Esukhia-Barom proofre
 The Digital Derge Kangyur you'll find on our repository is based on the UVA-SOAS 2013 eKangyur and is currently undergoing many changes -- use at your own risk!
 
 ## Downloads
-- [Tei, version 2020-01](https://github.com/Esukhia/derge-kangyur/releases/download/dk200106/dk200106.zip)
+- [UT4CZ5369, tei, version 2020-01](https://github.com/Esukhia/derge-kangyur/releases/download/UT4CZ5369-200106/UT4CZ5369-200106.zip)
 - [Volumes, plain text format, version 2019-05](https://github.com/Esukhia/derge-kangyur/releases/download/1905/deka_vol_txt_v1905.zip)
 - [Volumes, Kumara-jiva tsv format, version 2019-05](https://github.com/Esukhia/derge-kangyur/releases/download/1905/deka_vol_kjtsv_v1905.zip)
 
