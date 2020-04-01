@@ -3,6 +3,7 @@
 
 # Releases
 releases/
+output/
 
 ### Eclipse ###
 .metadata
