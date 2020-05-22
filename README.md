@@ -6,6 +6,7 @@
 </p>
 
 
+# ⚠ ARCHIVED ⚠ moved to [OpenPecha/P000001](https://github.com/OpenPecha/P000001)
 # Digital Derge Kangyur
 
 Welcome to the working repository of the ongoing 2014-2018 Esukhia-Barom proofreading project!
