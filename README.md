@@ -20,7 +20,7 @@ The Digital Derge Kangyur you'll find on our repository is based on the UVA-SOAS
 
 ## The 2013 UVA-SOAS eKangyur
 
-The UVA-SOAS 2013 eKangyur was created by diff-proofreading the previous UVA input against BDRC's OCRed etexts, ACIP's etexts, and Adharsha's early etexts; in a 2013 project overviewed by [UVA](http://www.virginia.edu/) and funded by [SOAS](https://www.soas.ac.uk/) and [KF](https://khyentsefoundation.org/) (for [84000](http://84000.co/)). This version is currently published on UVA, Adharsha, BDRC, and as part of SOAS's ACTIB corpus.
+The UVA-SOAS 2013 eKangyur was created by diff-proofreading the previous UVA input against BDRC's OCRed etexts, ACIP's etexts, and Adharsha's early etexts; in a 2013 project overviewed by [UVA](http://www.virginia.edu/) and funded by [SOAS](https://www.soas.ac.uk/) and [KF](https://khyentsefoundation.org/) (for [84000](http://84000.co/)). This version is currently published on UVA, Adharsha, BDRC, and as part of ACTIB corpus.
 
 It was intended as an exact representation of the Derge Kangyur edition help by the Library of Congress ([available on BDRC](https://www.tbrc.org/#!rid=W4CZ5369)). As an exact representation it preserved the likes of spelling mistakes, carving mistakes, archaic spellings and mistakes caused by wood-block damage.
 
